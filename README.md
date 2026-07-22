@@ -164,7 +164,7 @@ When changing the offline strategy, bump the cache name in `public/sw.js`.
 5. No environment variables are required.
 6. Deploy, then replace the example `metadataBase` in `app/layout.tsx` with the production origin if your platform does not provide it automatically.
 
-The code uses standard App Router routes and browser APIs. The included Sites/vinext adapter also produces an edge-compatible build for the bundled hosting workflow.
+The default scripts use the native Next.js toolchain for Vercel. The included Sites/vinext adapter remains available through `npm run dev:sites` and `npm run build:sites` for the bundled hosting workflow.
 
 ## Known limitations
 
@@ -196,4 +196,3 @@ Before public release, verify:
 - breeding-value claims and whether they apply to a specific cut or population
 - every GBS project's parent order, generation, hunt size, status, and keeper notes
 - all six records labeled `(example line)`, which should be replaced or removed
-

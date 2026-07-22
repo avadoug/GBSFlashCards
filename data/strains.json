@@ -1,0 +1,614 @@
+[
+  {
+    "id": "apollo-13",
+    "name": "Apollo 13",
+    "breeder": "Brothers Grimm",
+    "releaseEra": "1990s",
+    "parentage": { "mother": { "name": "Genius", "type": "clone" }, "father": { "name": "P75" }, "display": "Genius × P75", "notes": "The commonly documented Brothers Grimm line; other plants have circulated under the name." },
+    "generation": "F1",
+    "strainType": "sativa-leaning",
+    "overview": "Apollo 13 is remembered as a fast-finishing, high-character Brothers Grimm hybrid with an outsized reputation among collectors. Growers value its unusual aromatic range, energetic profile, and usefulness in breeding. Its scarcity and the existence of later recreations make version and provenance especially important when evaluating a plant labeled Apollo 13.",
+    "aroma": { "dominant": ["sharp citrus", "solvent", "tropical fruit"], "secondary": ["incense", "pepper", "sweet funk"], "flavorInhale": ["bright citrus", "tropical candy"], "flavorExhale": ["peppery incense", "chemical finish"], "phenotypeVariation": "Expressions are reported from tropical and citrus-forward to sharper solvent and incense profiles.", "terpenes": ["terpinolene", "limonene", "caryophyllene"] },
+    "effects": { "onset": "Fast cerebral onset", "mental": ["bright", "expansive", "creative"], "physical": ["light warmth"], "energy": "High", "clarity": "Clear at moderate intake; more disorienting with higher intake", "mood": ["euphoric", "social"], "duration": "Medium to long", "bestTime": ["daytime", "creative sessions"], "useCases": ["conversation", "music", "focused exploration"], "possibleNegatives": ["racing thoughts", "dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 49, "max": 63 }, "stretch": "Moderate to high", "structure": "Open, upright frame", "branching": "Strong lateral branching", "internodalSpacing": "Medium-long", "feeding": "Moderate; observe individual plants", "trainingResponse": "Often responds well to topping and lateral spreading", "yield": "Medium", "resin": "High in selected expressions", "budDensity": "Medium", "moldRisk": "Moderate in dense late flowers", "cloning": "Selection dependent", "indoor": "Adaptable with canopy control", "outdoor": "Best in a long, dry finish", "difficulty": "Intermediate" },
+    "phenotypes": [{ "name": "Tropical/solvent", "aroma": "Sharp tropical fruit with citrus solvent", "structure": "Open and branchy", "effect": "Fast, energetic and bright", "flowering": "Often on the earlier side", "keeperTraits": ["persistent aroma after cure", "strong lateral growth", "clear energetic character"], "weaknesses": ["leafier flowers", "aroma loss after drying"] }],
+    "breedingValue": { "passes": ["vigor", "unusual citrus-tropical aroma", "energetic character"], "strengths": ["distinct profile", "collector interest"], "weaknesses": ["version-dependent outcomes", "variable flower density"], "pairingIdeas": ["dense structured partners", "resin-forward lines"], "notes": "Inheritance claims vary by parent and selection; evaluate progeny rather than assuming dominance." },
+    "history": { "summary": "Associated with the original Brothers Grimm catalog and later preservation or recreation efforts.", "notableCuts": ["Genius-associated original line"], "disputes": ["Modern offerings may not represent the same release or parental selections."], "reputation": "A breeder and collector favorite with a strong old-school reputation." },
+    "families": ["Apollo", "Cinderella"],
+    "tags": ["uplifting", "citrus", "tropical", "old-school", "breeder favorite", "rare", "indoor"],
+    "confidence": { "lineage": "strongly-documented", "information": "community-reported", "notes": "Core lineage is well documented; sensory and cultivation details vary across preserved and recreated versions." },
+    "sources": [{ "label": "Breeder catalog and archive descriptions", "type": "archive" }, { "label": "Grower reports", "type": "community" }]
+  },
+  {
+    "id": "space-queen",
+    "name": "Space Queen",
+    "breeder": "Vic High",
+    "releaseEra": "Late 1990s",
+    "parentage": { "mother": { "name": "Romulan" }, "father": { "name": "Cinderella 99" }, "display": "Romulan × Cinderella 99" },
+    "generation": "F1",
+    "strainType": "balanced",
+    "overview": "Space Queen became a durable breeding building block because it can combine Romulan depth with the brighter fruit and vigor associated with Cinderella 99. Different selections can feel substantially different, so the breeder, generation, and chosen parents matter. Collectors often value expressive fruit, resin, branching, and a lively but grounded character.",
+    "aroma": { "dominant": ["ripe fruit", "sweet pine", "citrus"], "secondary": ["spice", "earth", "fermented fruit"], "flavorInhale": ["sweet fruit", "pine"], "flavorExhale": ["spiced citrus", "earth"], "phenotypeVariation": "Some plants lean toward bright fruit and citrus; others show deeper pine, earth, and spice." },
+    "effects": { "onset": "Quick and noticeable", "mental": ["euphoric", "imaginative"], "physical": ["warm", "settling"], "energy": "Medium", "clarity": "Variable by expression", "mood": ["playful", "content"], "duration": "Medium", "bestTime": ["afternoon", "evening"], "possibleNegatives": ["dry mouth", "mental fog at higher intake"] },
+    "cultivation": { "floweringDays": { "min": 55, "max": 65 }, "stretch": "Moderate", "structure": "Branchy hybrid frame", "branching": "Good lateral growth", "internodalSpacing": "Medium", "trainingResponse": "Generally responsive to topping", "yield": "Medium", "resin": "Medium-high", "indoor": "Well suited", "outdoor": "Climate dependent", "difficulty": "Intermediate" },
+    "phenotypes": [{ "name": "Fruit-forward", "aroma": "Sweet citrus and mixed fruit", "structure": "Branchy with moderate stretch", "keeperTraits": ["aroma retention", "resin", "balanced structure"] }, { "name": "Romulan-leaning", "aroma": "Pine, earth and spice", "effect": "Heavier and more inward", "weaknesses": ["less bright aroma"] }],
+    "breedingValue": { "passes": ["fruit range", "branching", "resin potential"], "strengths": ["broad complementary value"], "weaknesses": ["phenotypic spread"], "pairingIdeas": ["structure-focused selections", "aroma-focused selections"], "notes": "Outcomes depend heavily on the Space Queen selection and partner." },
+    "history": { "summary": "Created by Vic High and later used in numerous projects by other breeders.", "reputation": "Respected as a versatile old-school breeding line." },
+    "families": ["Space Queen", "Cinderella", "Romulan"],
+    "tags": ["fruity", "resinous", "breeder favorite", "old-school"],
+    "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Lineage is widely accepted; version, generation, and selected parents can differ." },
+    "sources": [{ "label": "Archived breeder descriptions", "type": "archive" }, { "label": "Community grow reports", "type": "community" }]
+  },
+  {
+    "id": "cinderella-99",
+    "name": "Cinderella 99",
+    "aliases": ["C99"],
+    "breeder": "Brothers Grimm",
+    "releaseEra": "1990s",
+    "parentage": { "display": "Princess × P94", "notes": "The shorthand reflects the documented Brothers Grimm breeding sequence; simplified parent labels vary by archive." },
+    "generation": "IBL",
+    "strainType": "sativa-leaning",
+    "overview": "Cinderella 99 earned an enduring reputation for combining a compact indoor-friendly frame and comparatively short flowering window with bright, high-energy character. Pineapple, citrus, floral, and solvent-like expressions are frequently discussed. Original releases, later preservation lines, and modern reproductions should be treated as related but not automatically identical.",
+    "aroma": { "dominant": ["pineapple", "citrus peel", "floral perfume"], "secondary": ["sweet solvent", "mango candy"], "flavorInhale": ["sweet tropical fruit"], "flavorExhale": ["citrus rind", "floral spice"], "phenotypeVariation": "Reported expressions range from pineapple candy to sharper floral-solvent profiles." },
+    "effects": { "onset": "Fast", "mental": ["clear-headed", "energetic", "creative"], "physical": ["light"], "energy": "High", "clarity": "Usually bright at moderate intake", "mood": ["upbeat", "engaged"], "duration": "Medium", "bestTime": ["morning", "daytime"], "possibleNegatives": ["racing thoughts", "dry eyes"] },
+    "cultivation": { "floweringDays": { "min": 50, "max": 63 }, "stretch": "Moderate", "structure": "Compact-to-medium hybrid with vigorous branching", "branching": "Strong", "trainingResponse": "Good response to topping and an even canopy", "yield": "Medium-high in selected plants", "resin": "Medium-high", "budDensity": "Medium", "indoor": "Well suited", "outdoor": "Possible in suitable climates", "difficulty": "Intermediate" },
+    "phenotypes": [{ "name": "Pineapple", "aroma": "Sweet fermented pineapple and mango candy", "effect": "Bright and social", "keeperTraits": ["early finish", "fruit persistence", "manageable frame"] }, { "name": "Floral/solvent", "aroma": "Floral soap and sharp solvent", "effect": "More intense and racy", "weaknesses": ["less universal aroma appeal"] }],
+    "breedingValue": { "passes": ["early finish", "branching", "bright fruit potential"], "strengths": ["indoor adaptation", "energetic profile"], "weaknesses": ["racy expressions", "variable density"], "pairingIdeas": ["dense resinous partners", "slower lines needing earlier finish"] },
+    "history": { "summary": "An influential Brothers Grimm line derived through work with the Princess clone and selected male parents.", "disputes": ["Modern seed lines may use different preservation stock or reconstruction methods."], "reputation": "A foundational modern breeding parent and well-known indoor cultivar." },
+    "families": ["Cinderella"],
+    "tags": ["uplifting", "tropical", "citrus", "fast flowering", "breeder favorite", "indoor"],
+    "confidence": { "lineage": "strongly-documented", "information": "widely-accepted", "notes": "Historical sequence is documented, while shorthand lineage labels and modern versions vary." },
+    "sources": [{ "label": "Brothers Grimm historical material", "type": "breeder" }, { "label": "Archived catalogs", "type": "archive" }]
+  },
+  {
+    "id": "vortex",
+    "name": "Vortex",
+    "breeder": "TGA Subcool",
+    "releaseEra": "2000s",
+    "parentage": { "mother": { "name": "Apollo 13" }, "father": { "name": "Space Queen" }, "display": "Apollo 13 × Space Queen" },
+    "generation": "F1",
+    "strainType": "sativa-leaning",
+    "overview": "Vortex sits at the intersection of Apollo and Space Queen families and is often remembered for electric fruit, citrus-cleaner aromas, resin, and a fast-moving cerebral profile. It became a recognizable part of the TGA catalog and a useful reference point for later fruit-forward breeding. Individual seed releases and surviving cuts may not represent one uniform expression.",
+    "aroma": { "dominant": ["lemon furniture polish", "tropical candy", "sharp citrus"], "secondary": ["mango", "sweet chemical", "incense"], "flavorInhale": ["lemon candy"], "flavorExhale": ["tropical peel", "peppery cleaner"], "phenotypeVariation": "Plants may lean toward sharp lemon-cleaner, tropical candy, or a deeper Space Queen fruit-and-spice direction." },
+    "effects": { "onset": "Very fast cerebral lift", "mental": ["energetic", "creative", "psychedelic"], "physical": ["light warmth"], "energy": "High", "clarity": "Bright initially; potentially disorienting at higher intake", "mood": ["euphoric", "curious"], "duration": "Medium-long", "bestTime": ["daytime"], "possibleNegatives": ["overstimulation", "dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 55, "max": 65 }, "stretch": "Moderate-high", "structure": "Open branchy frame", "internodalSpacing": "Medium-long", "trainingResponse": "Often suitable for topping and lateral spreading", "yield": "Medium", "resin": "High in selected plants", "budDensity": "Medium", "indoor": "Well suited with height control", "outdoor": "Best with a dry finish", "difficulty": "Intermediate" },
+    "phenotypes": [{ "name": "Lemon cleaner", "aroma": "Sharp lemon furniture polish", "structure": "Open and vigorous", "effect": "Very quick and electric", "keeperTraits": ["sharp retained aroma", "resin coverage", "lateral strength"], "weaknesses": ["overstretch", "leafier flower"] }, { "name": "Tropical candy", "aroma": "Mango candy and sweet citrus", "effect": "Euphoric and social", "keeperTraits": ["sweet aroma", "balanced branching"] }],
+    "breedingValue": { "passes": ["vigor", "citrus-tropical range", "resin potential"], "strengths": ["distinct aromatic direction"], "weaknesses": ["variable structure", "potentially racy effect"], "pairingIdeas": ["compact dense partners", "lines needing brighter fruit"], "notes": "Treat claimed inheritance as selection-specific rather than guaranteed." },
+    "history": { "summary": "Released through TGA Subcool and later used in related catalog projects.", "reputation": "A recognizable TGA-era cultivar with strong collector interest." },
+    "families": ["Apollo", "Space Queen", "Cinderella"],
+    "tags": ["uplifting", "tropical", "citrus", "resinous", "breeder favorite"],
+    "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Core lineage is widely reported; exact release and selection details need archive review." },
+    "sources": [{ "label": "TGA catalog descriptions", "type": "catalog" }, { "label": "Community grow reports", "type": "community" }]
+  },
+  {
+    "id": "jacks-cleaner",
+    "name": "Jack's Cleaner",
+    "breeder": "Subcool",
+    "releaseEra": "1990s–2000s",
+    "parentage": { "display": "Complex selected line; exact shorthand varies", "notes": "Often associated with Cleaner, Jack Herer, and Pluton-related ancestry; simplified retellings differ." },
+    "generation": "Clone-only",
+    "strainType": "clone-only",
+    "overview": "Jack's Cleaner is an old-school selection known in breeder and collector circles for penetrating lemon-cleaner character, resin, and a vivid cerebral profile. Its long-form breeding history is often compressed inconsistently, so the specific cut and source should be recorded rather than relying only on a short lineage string.",
+    "aroma": { "dominant": ["lemon cleaner", "sharp citrus rind"], "secondary": ["incense", "pine", "chemical sweetness"], "flavorInhale": ["lemon peel"], "flavorExhale": ["incense", "cleaner"], "phenotypeVariation": "The named cut is more specific than seed-derived descendants." },
+    "effects": { "onset": "Fast", "mental": ["intense", "bright", "creative"], "physical": ["light"], "energy": "High", "clarity": "Can become disorienting", "mood": ["euphoric"], "bestTime": ["daytime"], "possibleNegatives": ["racing thoughts"] },
+    "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate-high", "structure": "Open, branchy", "trainingResponse": "Selection-specific", "resin": "High", "indoor": "Commonly maintained indoors", "difficulty": "Advanced provenance and clone management" },
+    "breedingValue": { "passes": ["sharp citrus-cleaner potential", "resin"], "strengths": ["distinct profile"], "weaknesses": ["clone access and provenance"], "notes": "Breeding observations depend on the authenticated cut and chosen counterpart." },
+    "history": { "summary": "A significant Subcool-associated selection used in later TGA work.", "disputes": ["Condensed lineage descriptions conflict."], "reputation": "Collector-grade clone and important lemon-cleaner reference." },
+    "families": ["Jack", "Haze"],
+    "tags": ["clone-only", "citrus", "resinous", "old-school", "advanced", "disputed lineage"],
+    "confidence": { "lineage": "disputed", "information": "community-reported", "notes": "The cut is recognized, but published ancestry shorthand varies and needs source-by-source review." },
+    "sources": [{ "label": "Breeder interviews and archives", "type": "interview" }]
+  },
+  {
+    "id": "jillybean",
+    "name": "Jillybean",
+    "breeder": "TGA Subcool",
+    "releaseEra": "2000s",
+    "parentage": { "display": "Orange Velvet × Space Queen" },
+    "generation": "F1",
+    "strainType": "balanced",
+    "overview": "Jillybean is associated with a bright citrus and fruit-candy profile, a sociable character, and colorful, expressive plants. It is often discussed as a friendly entry point to the Space Queen family, though phenotype spread and differing releases mean growers should keep careful notes on source and selection.",
+    "aroma": { "dominant": ["orange candy", "mixed fruit"], "secondary": ["mango", "sweet spice"], "flavorInhale": ["citrus candy"], "flavorExhale": ["soft fruit", "spice"], "phenotypeVariation": "Orange, mango, and mixed-candy expressions are commonly reported." },
+    "effects": { "onset": "Moderate-fast", "mental": ["social", "upbeat"], "physical": ["relaxed"], "energy": "Medium", "clarity": "Generally functional at moderate intake", "mood": ["cheerful"], "bestTime": ["afternoon"], "possibleNegatives": ["dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 56, "max": 65 }, "stretch": "Moderate", "structure": "Branchy hybrid", "trainingResponse": "Generally responsive", "yield": "Medium", "resin": "Medium-high", "indoor": "Well suited", "difficulty": "Intermediate" },
+    "families": ["Space Queen"],
+    "tags": ["citrus", "fruity", "social", "indoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Sensory and growth summaries combine historical catalog language with grower reports." },
+    "sources": [{ "label": "TGA catalog descriptions", "type": "catalog" }]
+  },
+  {
+    "id": "agent-orange",
+    "name": "Agent Orange",
+    "breeder": "TGA Subcool",
+    "releaseEra": "2000s",
+    "parentage": { "display": "Orange Velvet × Jack the Ripper" },
+    "generation": "F1",
+    "strainType": "sativa-leaning",
+    "overview": "Agent Orange is a citrus-led TGA-era hybrid valued for orange-rind intensity, vigor, and an upbeat daytime direction. Plants and later releases can vary, so a keeper is usually selected for persistent orange aroma, manageable stretch, flower quality, and balanced energy rather than name alone.",
+    "aroma": { "dominant": ["orange rind", "sweet citrus"], "secondary": ["cheese", "spice", "incense"], "flavorInhale": ["orange candy"], "flavorExhale": ["bitter citrus rind", "spice"] },
+    "effects": { "onset": "Quick", "mental": ["upbeat", "social"], "physical": ["light"], "energy": "Medium-high", "clarity": "Mostly clear", "mood": ["bright"], "bestTime": ["daytime"], "possibleNegatives": ["restlessness"] },
+    "cultivation": { "floweringDays": { "min": 55, "max": 70 }, "stretch": "Moderate-high", "structure": "Vigorous and branchy", "trainingResponse": "Good response to topping", "yield": "Medium-high", "indoor": "Height management advised", "outdoor": "Potentially vigorous", "difficulty": "Intermediate" },
+    "families": ["Jack", "Haze"],
+    "tags": ["citrus", "uplifting", "outdoor", "indoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Release-specific details and phenotype frequencies need verification." }
+  },
+  {
+    "id": "querkle",
+    "name": "Querkle",
+    "breeder": "TGA Subcool",
+    "releaseEra": "2000s",
+    "parentage": { "display": "Purple Urkle × Space Queen" },
+    "generation": "F1",
+    "strainType": "indica-leaning",
+    "overview": "Querkle is a purple-fruit hybrid that paired the clone-only reputation of Purple Urkle with Space Queen. It is often valued for grape, berry, earth, color potential, and a calmer finish. Selection remains important because plants can separate toward either parent's aroma, structure, timing, and effect character.",
+    "aroma": { "dominant": ["grape candy", "dark berry"], "secondary": ["earth", "spice", "sweet cedar"], "flavorInhale": ["creamy berry"], "flavorExhale": ["grape skin", "earth"] },
+    "effects": { "onset": "Steady", "mental": ["dreamy", "content"], "physical": ["relaxing", "heavy at higher intake"], "energy": "Low-medium", "clarity": "Soft", "mood": ["calm"], "bestTime": ["evening"], "possibleNegatives": ["dry mouth", "sleepiness"] },
+    "cultivation": { "floweringDays": { "min": 56, "max": 65 }, "stretch": "Low-moderate", "structure": "Bushy hybrid", "trainingResponse": "Topping can open the canopy", "yield": "Medium", "resin": "Medium-high", "budDensity": "Medium-dense", "moldRisk": "Monitor dense flowers", "indoor": "Well suited", "difficulty": "Intermediate" },
+    "families": ["Space Queen", "Purple"],
+    "tags": ["berry", "sedating", "resinous", "indoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Phenotype and cultivation details vary across seed lots." }
+  },
+  {
+    "id": "blueberry",
+    "name": "Blueberry",
+    "breeder": "DJ Short",
+    "releaseEra": "1970s–1990s development",
+    "parentage": { "display": "Afghani × Thai × other selected landrace-derived lines", "notes": "The historical breeding population is more complex than a single two-parent shorthand." },
+    "generation": "IBL",
+    "strainType": "indica-leaning",
+    "overview": "Blueberry is a foundational DJ Short line with long-term influence on modern fruit, color, and hybrid breeding. The name is now used broadly, but authenticated or well-preserved lines are valued for layered berry, floral, spice, and earthy notes rather than simple sweetness alone. Structural variation and occasional unusual leaf expressions are part of its collector lore.",
+    "aroma": { "dominant": ["ripe blueberry", "floral berry"], "secondary": ["earth", "spice", "sweet cedar"], "flavorInhale": ["creamy berry"], "flavorExhale": ["floral spice", "earth"] },
+    "effects": { "onset": "Gradual", "mental": ["dreamy", "content"], "physical": ["relaxing"], "energy": "Low-medium", "clarity": "Soft", "mood": ["calm", "introspective"], "bestTime": ["late afternoon", "evening"], "possibleNegatives": ["dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 55, "max": 70 }, "stretch": "Low-moderate", "structure": "Broad variation across preserved populations", "feeding": "Avoid aggressive assumptions; observe plants", "stressSensitivity": "Some expressions are reported as sensitive", "trainingResponse": "Selection dependent", "resin": "Medium-high", "indoor": "Common", "outdoor": "Climate and selection dependent", "difficulty": "Intermediate-advanced" },
+    "breedingValue": { "passes": ["berry-floral potential", "color potential"], "strengths": ["distinct aromatic family", "historical value"], "weaknesses": ["structural and sex-expression variability reported in some stock"], "notes": "Use verified stock and document the individual parent carefully." },
+    "history": { "summary": "Developed by DJ Short over multiple generations from selected landrace-derived material.", "disputes": ["Modern strains sharing the name may be unrelated or only loosely derived."], "reputation": "One of the most influential named fruit families in modern cannabis breeding." },
+    "families": ["Blueberry", "Afghani", "Thai"],
+    "tags": ["berry", "old-school", "breeder favorite", "heirloom", "resinous"],
+    "confidence": { "lineage": "strongly-documented", "information": "community-reported", "notes": "Broad history is documented; exact shorthand and modern provenance require careful review." },
+    "sources": [{ "label": "DJ Short historical writings and interviews", "type": "interview" }]
+  },
+  {
+    "id": "northern-lights-5",
+    "name": "Northern Lights #5",
+    "aliases": ["NL5"],
+    "breeder": "Historical line; later associated with The Seed Bank/Sensi Seeds",
+    "releaseEra": "1980s",
+    "parentage": { "display": "Selected Northern Lights line", "notes": "Detailed ancestry and numbering are historically contested." },
+    "generation": "IBL",
+    "strainType": "indica-leaning",
+    "overview": "Northern Lights #5 is a central reference point for compact indoor structure, resin, and a deep relaxing profile. Its influence runs through countless hybrids, especially NL5/Haze work. Because the name spans early American material, European releases, and later reproductions, provenance is essential and simplified lineage claims should be treated cautiously.",
+    "aroma": { "dominant": ["sweet pine", "earth"], "secondary": ["incense", "cedar", "hash spice"], "flavorInhale": ["sweet wood"], "flavorExhale": ["earthy spice"] },
+    "effects": { "onset": "Steady", "mental": ["quiet", "dreamy"], "physical": ["heavy", "relaxing"], "energy": "Low", "clarity": "Soft", "mood": ["settled"], "bestTime": ["evening"], "possibleNegatives": ["sleepiness", "dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 45, "max": 60 }, "stretch": "Low-moderate", "structure": "Compact with sturdy branching", "yield": "Medium-high in selected lines", "resin": "High", "budDensity": "Dense", "moldRisk": "Monitor humidity", "indoor": "Historically valued indoors", "outdoor": "Suitable climates only", "difficulty": "Beginner-intermediate with verified stock" },
+    "families": ["Northern Lights", "Afghani"],
+    "tags": ["sedating", "resinous", "old-school", "indoor", "fast flowering", "disputed lineage"],
+    "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Cultivar reputation is strong; exact ancestry, numbering, and version histories remain contested." }
+  },
+  {
+    "id": "skunk-1",
+    "name": "Skunk #1",
+    "breeder": "Sacred Seeds / later preservation lines",
+    "releaseEra": "1970s–1980s",
+    "parentage": { "display": "Afghani × (Acapulco Gold × Colombian Gold)", "notes": "This is the widely repeated historical shorthand; selection and preservation histories vary." },
+    "generation": "IBL",
+    "strainType": "balanced",
+    "overview": "Skunk #1 is one of the foundational stabilized hybrid populations of modern cannabis breeding. It is valued less as a single modern flavor stereotype than as a historically important source of vigor, uniformity, adaptable structure, and sweet-to-musky aromatic variation. Later lines selected in different directions should not be assumed to represent identical stock.",
+    "aroma": { "dominant": ["sweet musk", "old-school skunk"], "secondary": ["earth", "citrus", "fermented fruit"], "flavorInhale": ["sweet herb"], "flavorExhale": ["musky spice"] },
+    "effects": { "onset": "Moderate", "mental": ["euphoric", "social"], "physical": ["warm"], "energy": "Medium", "clarity": "Balanced", "mood": ["easygoing"], "bestTime": ["afternoon"], "possibleNegatives": ["dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 50, "max": 65 }, "stretch": "Moderate", "structure": "Adaptable hybrid frame", "feeding": "Generally tolerant in established lines", "trainingResponse": "Responsive", "yield": "Medium-high", "budDensity": "Medium-dense", "indoor": "Well adapted", "outdoor": "Widely adaptable with climate selection", "difficulty": "Beginner-intermediate" },
+    "families": ["Skunk", "Afghani", "Colombian"],
+    "tags": ["skunk", "old-school", "breeder favorite", "indoor", "outdoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "widely-accepted", "notes": "Historical shorthand is widely accepted, while surviving versions differ." }
+  },
+  {
+    "id": "durban-poison",
+    "name": "Durban Poison",
+    "releaseEra": "1970s–1980s selections",
+    "parentage": { "display": "South African Durban-region landrace-derived selection", "notes": "Modern commercial versions may include selection or hybridization beyond original regional material." },
+    "generation": "Heirloom selection",
+    "strainType": "landrace",
+    "overview": "Durban Poison is a globally recognized name for South African-derived cannabis selected for energetic character, anise-like spice, and practical flowering compared with some tropical lines. The label now covers multiple versions, so a modern packet, preserved line, and regional heirloom should not be treated as interchangeable without documentation.",
+    "aroma": { "dominant": ["anise", "sweet spice"], "secondary": ["herbal pine", "citrus", "licorice"], "flavorInhale": ["sweet herb"], "flavorExhale": ["peppery anise"] },
+    "effects": { "onset": "Fast", "mental": ["energetic", "clear-headed"], "physical": ["light"], "energy": "High", "clarity": "Typically bright", "mood": ["uplifted"], "bestTime": ["daytime"], "possibleNegatives": ["restlessness"] },
+    "cultivation": { "floweringDays": { "min": 60, "max": 80 }, "stretch": "High", "structure": "Upright with longer internodes", "trainingResponse": "Can benefit from early canopy planning", "indoor": "Possible with height control", "outdoor": "Best matched to climate and finish window", "difficulty": "Intermediate" },
+    "families": ["African"],
+    "tags": ["landrace", "uplifting", "outdoor", "old-school", "disputed lineage"],
+    "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Regional origin is central to the name, but commercial versions have distinct histories." }
+  },
+  {
+    "id": "jack-herer",
+    "name": "Jack Herer",
+    "breeder": "Sensi Seeds",
+    "releaseEra": "1990s",
+    "parentage": { "display": "Haze × Northern Lights #5 × Skunk #1", "notes": "Published shorthand does not always specify the exact sequence or selections." },
+    "generation": "Polyhybrid",
+    "strainType": "sativa-leaning",
+    "overview": "Jack Herer is a landmark Dutch-era hybrid that brought Haze character into a more practical Northern Lights and Skunk framework. Multiple phenotype directions are part of its reputation, from taller incense-and-citrus plants to denser, resinous expressions. The cultivar's historical importance and broad name recognition have also led to unrelated or weakly documented versions.",
+    "aroma": { "dominant": ["incense", "citrus", "sweet pine"], "secondary": ["pepper", "wood", "herbal spice"], "flavorInhale": ["lemon pine"], "flavorExhale": ["peppery haze"] },
+    "effects": { "onset": "Quick", "mental": ["creative", "energetic", "expansive"], "physical": ["light warmth"], "energy": "High", "clarity": "Often clear initially", "mood": ["uplifted", "engaged"], "bestTime": ["daytime"], "possibleNegatives": ["racing thoughts", "dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 56, "max": 75 }, "stretch": "Moderate-high", "structure": "Phenotype dependent", "trainingResponse": "Can respond well to canopy management", "yield": "Medium-high", "resin": "High in selected expressions", "indoor": "Well known indoors", "outdoor": "Climate dependent", "difficulty": "Intermediate" },
+    "families": ["Haze", "Northern Lights", "Skunk"],
+    "tags": ["haze", "uplifting", "incense", "old-school", "indoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "widely-accepted", "notes": "Core family ancestry is widely published; exact parental sequence and phenotype frequencies vary." }
+  },
+  {
+    "id": "chem-91",
+    "name": "Chem 91",
+    "aliases": ["Chemdog 91"],
+    "releaseEra": "1991",
+    "parentage": { "display": "Unknown bagseed origin", "notes": "Associated with the historic Chemdog seed story; no verified two-parent pedigree is available." },
+    "generation": "Clone-only",
+    "strainType": "clone-only",
+    "overview": "Chem 91 is a foundational clone associated with the emergence of the Chem, Diesel, and related modern fuel families. Its influence is better documented through named cuts and descendants than through a verified pedigree. Provenance matters because several Chem 91 labels and selections have circulated over time.",
+    "aroma": { "dominant": ["metallic fuel", "chemical funk"], "secondary": ["earth", "lemon", "rubber"], "flavorInhale": ["fuel", "lemon"], "flavorExhale": ["metallic earth", "chemical finish"] },
+    "effects": { "onset": "Fast", "mental": ["intense", "euphoric"], "physical": ["heavy warmth"], "energy": "Medium", "clarity": "Can become foggy", "mood": ["absorbed"], "bestTime": ["afternoon", "evening"], "possibleNegatives": ["dry mouth", "disorientation"] },
+    "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "Moderate-high", "structure": "Clone-specific", "resin": "High", "indoor": "Commonly maintained indoors", "difficulty": "Advanced clone provenance" },
+    "breedingValue": { "passes": ["fuel and chemical aroma potential", "potency potential"], "strengths": ["historical influence", "distinct profile"], "weaknesses": ["provenance uncertainty", "selection-specific structure"], "notes": "Results reported for one verified cut should not be generalized to every Chem 91 label." },
+    "history": { "summary": "Part of the historic Chemdog clone family emerging from seeds acquired in 1991.", "disputes": ["Several cuts and naming conventions exist."], "reputation": "A foundational modern fuel-family parent." },
+    "families": ["Chem", "Diesel"],
+    "tags": ["fuel", "clone-only", "old-school", "breeder favorite", "disputed lineage"],
+    "confidence": { "lineage": "unknown", "information": "strongly-documented", "notes": "The clone's cultural history is well established, but its genetic parents are unknown." }
+  },
+  {
+    "id": "chem-d",
+    "name": "Chem D",
+    "releaseEra": "1990s selection",
+    "parentage": { "display": "Chemdog-family seed selection", "notes": "Exact genetic parents are unknown." },
+    "generation": "Clone-only",
+    "strainType": "clone-only",
+    "overview": "Chem D is a major Chem-family clone known for forceful fuel, savory funk, resin, and breeding influence. It is often treated as a reference expression for the family, but the plant's authenticated cut history is more reliable than any claimed conventional pedigree.",
+    "aroma": { "dominant": ["fuel", "savory funk"], "secondary": ["burnt rubber", "earth", "onion"], "flavorInhale": ["fuel"], "flavorExhale": ["rubber", "savory earth"] },
+    "effects": { "onset": "Fast", "mental": ["intense", "euphoric"], "physical": ["strong", "heavy"], "energy": "Medium-low", "clarity": "Foggy at higher intake", "mood": ["absorbed"], "bestTime": ["evening"], "possibleNegatives": ["dry mouth", "heaviness"] },
+    "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "Moderate", "structure": "Clone-specific, branchy", "resin": "High", "indoor": "Common", "difficulty": "Advanced clone management" },
+    "families": ["Chem"],
+    "tags": ["fuel", "clone-only", "resinous", "old-school"],
+    "confidence": { "lineage": "unknown", "information": "strongly-documented", "notes": "Cut identity is historically important; genetic parentage remains unknown." }
+  },
+  {
+    "id": "chem-4",
+    "name": "Chem 4",
+    "releaseEra": "2000s selection",
+    "parentage": { "display": "Chemdog-family seed selection", "notes": "Exact genetic parents are unknown." },
+    "generation": "Clone-only",
+    "strainType": "clone-only",
+    "overview": "Chem 4 is a named Chem-family clone frequently distinguished by a somewhat brighter, lemon-fuel presentation and robust plant frame compared with other Chem selections. The specific cut is the meaningful unit of identity; seed products using the name should be documented separately.",
+    "aroma": { "dominant": ["lemon fuel", "chemical funk"], "secondary": ["pine", "earth"], "flavorInhale": ["lemon fuel"], "flavorExhale": ["earthy chemical"] },
+    "effects": { "onset": "Fast", "mental": ["euphoric", "expansive"], "physical": ["warm"], "energy": "Medium", "clarity": "Variable", "mood": ["uplifted"], "bestTime": ["afternoon"], "possibleNegatives": ["dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "Moderate-high", "structure": "Vigorous clone-specific frame", "resin": "High", "indoor": "Common", "difficulty": "Advanced clone provenance" },
+    "families": ["Chem"],
+    "tags": ["fuel", "citrus", "clone-only", "resinous"],
+    "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Parentage is unknown and growth descriptions depend on authenticated cut provenance." }
+  },
+  {
+    "id": "sour-diesel",
+    "name": "Sour Diesel",
+    "aliases": ["East Coast Sour Diesel", "ECSD"],
+    "releaseEra": "1990s",
+    "parentage": { "display": "Disputed; commonly linked to Chem/Diesel family material", "notes": "Multiple origin accounts and versions circulate." },
+    "generation": "Clone-only",
+    "strainType": "clone-only",
+    "overview": "Sour Diesel is a defining East Coast clone name associated with piercing fuel, sour citrus, extended flowering, and a soaring cerebral character. Its reputation is secure, but ancestry and the relationship between Diesel, ECSD, and later seed versions remain disputed. Accurate records should distinguish an authenticated cut from a Sour Diesel-named seed line.",
+    "aroma": { "dominant": ["sour fuel", "citrus rind"], "secondary": ["skunk", "herbal spice", "metallic notes"], "flavorInhale": ["sour citrus"], "flavorExhale": ["diesel", "herbal skunk"] },
+    "effects": { "onset": "Fast, rising", "mental": ["energetic", "expansive", "euphoric"], "physical": ["light warmth"], "energy": "High", "clarity": "Bright then more immersive", "mood": ["uplifted"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["overstimulation", "dry mouth"] },
+    "cultivation": { "floweringDays": { "min": 70, "max": 84 }, "stretch": "High", "structure": "Tall, branchy clone", "internodalSpacing": "Long", "trainingResponse": "Can benefit from strong canopy control", "budDensity": "Medium", "moldRisk": "Monitor late flowers", "indoor": "Height and time management required", "outdoor": "Needs a suitable long finish", "difficulty": "Advanced" },
+    "families": ["Diesel", "Chem"],
+    "tags": ["fuel", "citrus", "clone-only", "long flowering", "old-school", "disputed lineage"],
+    "confidence": { "lineage": "disputed", "information": "strongly-documented", "notes": "Cultivar identity and reputation are well established; ancestry and version boundaries remain disputed." }
+  },
+  {
+    "id": "og-kush",
+    "name": "OG Kush",
+    "releaseEra": "1990s",
+    "parentage": { "display": "Disputed", "notes": "Competing origin stories link OG Kush to Chem-family, regional Kush, and other material; no single pedigree is universally verified." },
+    "generation": "Clone family",
+    "strainType": "clone-only",
+    "overview": "OG Kush is a foundational West Coast clone family associated with lemon-pine fuel, dense resinous flowers, and a strong layered effect. The name now includes numerous cuts, hybrids, and unrelated products. A record should identify the exact cut—such as Tahoe, SFV, or another verified selection—before assigning detailed traits.",
+    "aroma": { "dominant": ["lemon pine", "fuel"], "secondary": ["earth", "spice", "sweet cedar"], "flavorInhale": ["lemon fuel"], "flavorExhale": ["pine", "earth"] },
+    "effects": { "onset": "Fast", "mental": ["euphoric", "absorbed"], "physical": ["heavy warmth"], "energy": "Low-medium", "clarity": "Immersive", "mood": ["content"], "bestTime": ["late afternoon", "evening"], "possibleNegatives": ["dry mouth", "heaviness"] },
+    "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate-high", "structure": "Cut dependent", "branching": "Can require support", "feeding": "Cut dependent", "resin": "High", "budDensity": "Dense", "moldRisk": "Monitor humidity", "indoor": "Common", "outdoor": "Climate dependent", "difficulty": "Intermediate-advanced" },
+    "families": ["Kush", "Chem"],
+    "tags": ["fuel", "citrus", "resinous", "clone-only", "disputed lineage"],
+    "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Family traits are widely recognized; exact ancestry and cut identity require documentation." }
+  },
+  {
+    "id": "afghani-1",
+    "name": "Afghani #1",
+    "breeder": "Sensi Seeds / historical preservation context",
+    "releaseEra": "1980s",
+    "parentage": { "display": "Afghan landrace-derived selection" },
+    "generation": "IBL",
+    "strainType": "landrace",
+    "overview": "Afghani #1 is a commercialized landrace-derived reference line associated with compact structure, broad leaves, dense resinous flowers, and hash-like aromas. It represents selected and maintained material rather than the full diversity of Afghan regional cannabis. Version and source matter when comparing historical and current stock.",
+    "aroma": { "dominant": ["hash spice", "earth"], "secondary": ["sweet cedar", "musk"], "flavorInhale": ["earthy spice"], "flavorExhale": ["cedar", "hash"] },
+    "effects": { "onset": "Steady", "mental": ["quiet"], "physical": ["heavy", "relaxing"], "energy": "Low", "clarity": "Soft", "mood": ["settled"], "bestTime": ["evening"], "possibleNegatives": ["sleepiness"] },
+    "cultivation": { "floweringDays": { "min": 45, "max": 60 }, "stretch": "Low", "structure": "Compact, broad-leaf frame", "budDensity": "Dense", "resin": "High", "moldRisk": "Higher in humid finishes", "indoor": "Well suited", "outdoor": "Dry climates preferred", "difficulty": "Beginner-intermediate" },
+    "families": ["Afghani"],
+    "tags": ["landrace", "sedating", "resinous", "fast flowering", "indoor"],
+    "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Afghan origin is central; exact preservation and selection history needs archive verification." }
+  },
+  {
+    "id": "thai",
+    "name": "Thai",
+    "releaseEra": "Traditional / multiple introductions",
+    "parentage": { "display": "Thai regional landrace populations", "notes": "Thai is a regional umbrella, not one uniform cultivar." },
+    "generation": "Landrace population",
+    "strainType": "landrace",
+    "overview": "Thai refers to diverse regional cannabis populations and preserved lines, many associated with long flowering, narrow leaves, tropical spice, incense, and a powerful cerebral character. Treating all Thai material as a single strain erases regional and selection differences. Records should capture the collection location, preservation generation, and maintainer wherever possible.",
+    "aroma": { "dominant": ["tropical spice", "incense"], "secondary": ["citrus", "floral wood", "fermented fruit"], "flavorInhale": ["sweet herb"], "flavorExhale": ["peppery incense"] },
+    "effects": { "onset": "Rising", "mental": ["energetic", "expansive", "psychedelic"], "physical": ["light"], "energy": "High", "clarity": "Can become disorienting", "mood": ["euphoric", "introspective"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["overstimulation"] },
+    "cultivation": { "floweringDays": { "min": 84, "max": 140 }, "stretch": "Very high", "structure": "Tall, flexible, narrow-leaf frame", "internodalSpacing": "Long", "trainingResponse": "Requires early space and canopy planning indoors", "budDensity": "Airy to medium", "indoor": "Advanced", "outdoor": "Best in tropical or long-season climates", "difficulty": "Advanced" },
+    "families": ["Thai"],
+    "tags": ["landrace", "uplifting", "psychedelic", "long flowering", "outdoor", "advanced"],
+    "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Regional origin may be known for individual accessions; this umbrella record should not replace accession-level data." }
+  },
+  {
+    "id": "original-haze",
+    "name": "Original Haze",
+    "releaseEra": "1960s–1970s origins",
+    "parentage": { "display": "Complex Colombian, Mexican, South Indian and Thai-associated ancestry", "notes": "Historical accounts differ on sequence, contributors, and surviving lines." },
+    "generation": "Heirloom population",
+    "strainType": "heirloom",
+    "overview": "Original Haze is a foundational long-flowering narrow-leaf family associated with incense, floral spice, soaring effects, and extraordinary breeding influence. Its history is intertwined with oral accounts and later preservation, making confident one-line pedigrees inappropriate. Exact seed source and maintainer are necessary to interpret any modern Haze record.",
+    "aroma": { "dominant": ["incense", "floral spice"], "secondary": ["cedar", "citrus peel", "pepper"], "flavorInhale": ["floral herb"], "flavorExhale": ["peppery haze", "incense"] },
+    "effects": { "onset": "Rising and long", "mental": ["expansive", "psychedelic", "creative"], "physical": ["light"], "energy": "High", "clarity": "Variable and potentially disorienting", "mood": ["euphoric", "introspective"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["overstimulation", "racing thoughts"] },
+    "cultivation": { "floweringDays": { "min": 84, "max": 120 }, "stretch": "Very high", "structure": "Tall, narrow-leaf, long internodes", "trainingResponse": "Requires substantial planning indoors", "budDensity": "Airy to medium", "indoor": "Advanced", "outdoor": "Long-season climate", "difficulty": "Advanced" },
+    "families": ["Haze", "Colombian", "Thai"],
+    "tags": ["haze", "heirloom", "incense", "psychedelic", "long flowering", "advanced", "disputed lineage"],
+    "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Broad family history is accepted; detailed origin accounts remain contested." }
+  },
+  {
+    "id": "super-silver-haze",
+    "name": "Super Silver Haze",
+    "breeder": "Green House Seed Company",
+    "releaseEra": "1990s",
+    "parentage": { "display": "Skunk #1 × Northern Lights #5 × Haze", "notes": "Exact sequence and parent selections are not always described consistently." },
+    "generation": "Polyhybrid",
+    "strainType": "sativa-leaning",
+    "overview": "Super Silver Haze is a defining Dutch-era Haze hybrid combining classic incense and lift with more practical resin and structure. It became a competition and commercial reference, but different seed generations and selected cuts can vary in flowering time, density, citrus, spice, and overall intensity.",
+    "aroma": { "dominant": ["incense", "lemon", "sweet haze"], "secondary": ["pepper", "metallic spice", "herbs"], "flavorInhale": ["lemon herb"], "flavorExhale": ["incense", "pepper"] },
+    "effects": { "onset": "Fast and rising", "mental": ["energetic", "euphoric", "creative"], "physical": ["light warmth"], "energy": "High", "clarity": "Bright at moderate intake", "mood": ["upbeat"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["restlessness"] },
+    "cultivation": { "floweringDays": { "min": 63, "max": 84 }, "stretch": "High", "structure": "Tall hybrid with vigorous branching", "trainingResponse": "Can benefit from topping and spreading", "yield": "Medium-high", "resin": "High", "indoor": "Height management needed", "outdoor": "Long warm finish", "difficulty": "Intermediate-advanced" },
+    "families": ["Haze", "Skunk", "Northern Lights"],
+    "tags": ["haze", "uplifting", "incense", "long flowering", "indoor"],
+    "confidence": { "lineage": "widely-accepted", "information": "widely-accepted", "notes": "Core family ancestry is widely published; release and cut differences remain." }
+  },
+  {
+    "id": "nevilles-haze",
+    "name": "Neville's Haze",
+    "breeder": "The Seed Bank / Green House historical context",
+    "releaseEra": "1990s",
+    "parentage": { "display": "Haze × Northern Lights #5/Haze", "notes": "Historical naming and parental shorthand vary by source." },
+    "generation": "Backcrossed Haze hybrid",
+    "strainType": "sativa-leaning",
+    "overview": "Neville's Haze is a long-flowering Haze-dominant landmark prized by experienced growers for incense, spice, electric intensity, and breeding value. It demands space, patience, and careful selection. Different releases and preserved lines can vary substantially, so historical labels alone do not guarantee the same plant population.",
+    "aroma": { "dominant": ["church incense", "peppery haze"], "secondary": ["metal", "cedar", "citrus"], "flavorInhale": ["floral herb"], "flavorExhale": ["incense", "pepper"] },
+    "effects": { "onset": "Rising", "mental": ["psychedelic", "energetic", "introspective"], "physical": ["light"], "energy": "Very high", "clarity": "Potentially disorienting", "mood": ["expansive"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["overstimulation"] },
+    "cultivation": { "floweringDays": { "min": 84, "max": 112 }, "stretch": "Very high", "structure": "Tall with long internodes", "trainingResponse": "Aggressive canopy planning often needed", "budDensity": "Airy-medium", "indoor": "Advanced", "outdoor": "Long warm season", "difficulty": "Advanced" },
+    "families": ["Haze", "Northern Lights"],
+    "tags": ["haze", "incense", "psychedelic", "long flowering", "advanced"],
+    "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Family direction is clear; detailed parental shorthand and surviving versions require verification." }
+  },
+  {
+    "id": "nl5-haze",
+    "name": "Northern Lights #5 × Haze",
+    "aliases": ["NL5/Haze"],
+    "releaseEra": "Late 1980s–1990s",
+    "parentage": { "display": "Northern Lights #5 × Haze" },
+    "generation": "F1",
+    "strainType": "sativa-leaning",
+    "overview": "NL5/Haze is a landmark pairing that brought the height, incense, and cerebral intensity of Haze into a resinous Northern Lights framework. It became a parent family as much as a single product. Seed source, generation, Haze parent, and selected cut all matter when comparing records.",
+    "aroma": { "dominant": ["incense", "sweet pine"], "secondary": ["citrus", "cedar", "pepper"], "flavorInhale": ["pine citrus"], "flavorExhale": ["haze incense"] },
+    "effects": { "onset": "Quick and rising", "mental": ["expansive", "energetic"], "physical": ["warm"], "energy": "High", "clarity": "Bright to immersive", "mood": ["euphoric"], "duration": "Long", "bestTime": ["daytime"], "possibleNegatives": ["racing thoughts"] },
+    "cultivation": { "floweringDays": { "min": 70, "max": 91 }, "stretch": "High", "structure": "Tall resinous hybrid", "trainingResponse": "Canopy control recommended", "yield": "Medium-high", "resin": "High", "indoor": "Experienced growers", "outdoor": "Long warm finish", "difficulty": "Advanced" },
+    "families": ["Northern Lights", "Haze"],
+    "tags": ["haze", "incense", "resinous", "long flowering", "old-school"],
+    "confidence": { "lineage": "widely-accepted", "information": "widely-accepted", "notes": "Cross label is clear, while specific parent versions and releases vary." }
+  },
+  {
+    "id": "hindu-kush", "name": "Hindu Kush", "releaseEra": "Traditional / multiple introductions", "parentage": { "display": "Hindu Kush regional landrace-derived selections", "notes": "The name covers distinct regional and commercial lines." }, "generation": "Landrace population", "strainType": "landrace",
+    "overview": "Hindu Kush is a regional family name associated with compact mountain-adapted plants, broad leaves, resin, and earthy hash-spice profiles. Commercial examples can represent very different preservation and selection histories, so this umbrella record should be replaced by accession-level detail whenever it is available.",
+    "aroma": { "dominant": ["earth", "hash spice"], "secondary": ["cedar", "musk"] }, "effects": { "onset": "Steady", "mental": ["quiet"], "physical": ["relaxing", "heavy"], "energy": "Low", "bestTime": ["evening"], "possibleNegatives": ["sleepiness"] }, "cultivation": { "floweringDays": { "min": 45, "max": 63 }, "stretch": "Low", "structure": "Compact broad-leaf frame", "resin": "High", "budDensity": "Dense", "outdoor": "Dry climates preferred", "difficulty": "Intermediate" },
+    "families": ["Kush", "Afghani"], "tags": ["landrace", "resinous", "sedating", "old-school"], "confidence": { "lineage": "community-reported", "information": "community-reported", "notes": "Regional identity is broader than a single modern strain." }
+  },
+  {
+    "id": "bubba-kush", "name": "Bubba Kush", "releaseEra": "1990s", "parentage": { "display": "Disputed clone lineage", "notes": "Common stories involve an Afghan-type plant and a named Bubba selection, but accounts differ." }, "generation": "Clone-only", "strainType": "clone-only",
+    "overview": "Bubba Kush is a well-known clone family associated with coffee, cocoa, earth, compact growth, and a dense relaxing character. Several cuts and seed lines use the name. Reliable records should specify Pre-98, another authenticated cut, or the exact seed source instead of treating every Bubba as identical.",
+    "aroma": { "dominant": ["coffee", "earth"], "secondary": ["cocoa", "sweet spice"] }, "effects": { "onset": "Steady", "mental": ["dreamy"], "physical": ["heavy", "relaxing"], "energy": "Low", "bestTime": ["evening"], "possibleNegatives": ["sleepiness"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Low", "structure": "Compact", "resin": "High", "budDensity": "Dense", "indoor": "Well suited", "difficulty": "Intermediate" },
+    "families": ["Kush", "Afghani"], "tags": ["clone-only", "sedating", "earthy", "resinous", "disputed lineage"], "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Family traits are familiar, but exact ancestry and cut identity vary." }
+  },
+  {
+    "id": "purple-kush", "name": "Purple Kush", "releaseEra": "1990s–2000s", "parentage": { "display": "Commonly reported as Hindu Kush × Purple Afghani", "notes": "Multiple versions share the name." }, "generation": "Hybrid", "strainType": "indica-leaning",
+    "overview": "Purple Kush is a name applied to purple, broad-leaf Kush-family plants prized for dense flowers, grape-earth aroma, resin, and a strong evening profile. Since multiple cuts and seed versions circulate, the source and exact parent claims should be documented for any serious breeding record.",
+    "aroma": { "dominant": ["grape skin", "earth"], "secondary": ["sweet cedar", "hash spice"] }, "effects": { "mental": ["dreamy"], "physical": ["heavy"], "energy": "Low", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 52, "max": 65 }, "stretch": "Low", "structure": "Compact", "budDensity": "Dense", "moldRisk": "Monitor humidity", "indoor": "Well suited" },
+    "families": ["Kush", "Afghani", "Purple"], "tags": ["berry", "sedating", "indoor"], "confidence": { "lineage": "community-reported", "information": "community-reported", "notes": "The name covers multiple versions." }
+  },
+  {
+    "id": "granddaddy-purple", "name": "Granddaddy Purple", "aliases": ["GDP"], "breeder": "Ken Estes-associated", "releaseEra": "2000s", "parentage": { "display": "Purple Urkle × Big Bud", "notes": "Widely reported shorthand; commercial versions vary." }, "generation": "F1", "strainType": "indica-leaning",
+    "overview": "Granddaddy Purple became a widely recognized purple hybrid name associated with dark berry, grape, compact flowers, and a heavy evening direction. Its commercial success produced many seed lines and look-alikes, making source documentation important for archival and breeding use.",
+    "aroma": { "dominant": ["grape", "dark berry"], "secondary": ["earth", "sweet spice"] }, "effects": { "mental": ["dreamy"], "physical": ["heavy", "relaxing"], "energy": "Low", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 55, "max": 70 }, "stretch": "Low-moderate", "structure": "Bushy", "yield": "Medium-high", "budDensity": "Dense", "moldRisk": "Monitor humidity" },
+    "families": ["Purple"], "tags": ["berry", "sedating", "resinous"], "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Core shorthand is common; exact commercial versions differ." }
+  },
+  {
+    "id": "blue-dream", "name": "Blue Dream", "releaseEra": "2000s", "parentage": { "display": "Blueberry × Haze", "notes": "The name has been applied to more than one cut and seed version." }, "generation": "F1", "strainType": "sativa-leaning",
+    "overview": "Blue Dream became a highly visible West Coast hybrid name associated with berry, haze, vigor, yield, and an accessible uplifted profile. Its popularity means provenance is unusually important: a verified cut, a seed recreation, and an unrelated name-use may perform very differently.",
+    "aroma": { "dominant": ["sweet berry", "floral haze"], "secondary": ["citrus", "cedar"] }, "effects": { "onset": "Moderate-fast", "mental": ["uplifted", "clear-headed"], "physical": ["light warmth"], "energy": "Medium-high", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 60, "max": 75 }, "stretch": "High", "structure": "Vigorous and branchy", "yield": "High", "trainingResponse": "Often responsive", "indoor": "Height control recommended", "outdoor": "Can become large" },
+    "families": ["Blueberry", "Haze"], "tags": ["berry", "haze", "uplifting", "outdoor"], "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Name reuse and multiple versions complicate exact traits." }
+  },
+  {
+    "id": "ak-47", "name": "AK-47", "breeder": "Serious Seeds", "releaseEra": "1990s", "parentage": { "display": "Colombian × Mexican × Thai × Afghani-associated polyhybrid", "notes": "Published family shorthand does not capture the full selection history." }, "generation": "Polyhybrid", "strainType": "balanced",
+    "overview": "AK-47 is a long-running Serious Seeds polyhybrid known for pungent sweet spice, resin, broad hybrid effects, and practical indoor performance. Its stable brand identity is stronger than the precision of simplified four-region pedigree summaries, which should be treated as family context rather than a complete breeding ledger.",
+    "aroma": { "dominant": ["sweet spice", "pungent earth"], "secondary": ["floral", "citrus"] }, "effects": { "mental": ["euphoric", "social"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 53, "max": 65 }, "stretch": "Moderate", "yield": "Medium-high", "resin": "High", "indoor": "Well suited" },
+    "families": ["Colombian", "Thai", "Afghani"], "tags": ["old-school", "resinous", "indoor"], "confidence": { "lineage": "breeder-verified", "information": "widely-accepted", "notes": "Breeder-published family origins are available; exact selections remain proprietary." }
+  },
+  {
+    "id": "white-widow", "name": "White Widow", "releaseEra": "1990s", "parentage": { "display": "Brazilian × South Indian-associated ancestry", "notes": "Breeder attribution and exact parental history are disputed among historical accounts." }, "generation": "F1", "strainType": "balanced",
+    "overview": "White Widow is a foundational Dutch-era resin cultivar name associated with frosted flowers, sharp floral spice, and balanced hybrid effects. Competing historical accounts and many later commercial versions make original attribution and exact ancestry contentious, even though its market and breeding influence are beyond dispute.",
+    "aroma": { "dominant": ["floral spice", "earth"], "secondary": ["pine", "pepper"] }, "effects": { "mental": ["euphoric", "social"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate", "resin": "High", "yield": "Medium-high", "indoor": "Well suited" },
+    "families": ["Brazilian", "South Indian"], "tags": ["resinous", "old-school", "indoor", "disputed lineage"], "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Influence is clear; authorship and detailed origin remain contested." }
+  },
+  {
+    "id": "girl-scout-cookies", "name": "Girl Scout Cookies", "aliases": ["GSC", "Cookies"], "releaseEra": "2010s", "parentage": { "display": "Commonly reported as OG Kush × F1 Durban", "notes": "Cut history and parent labels vary across accounts." }, "generation": "Clone family", "strainType": "balanced",
+    "overview": "GSC became a defining modern clone family with sweet dough, mint, earth, fuel, dense resin, and major breeding influence. Several named cuts and many seed descendants exist, so exact cut identity matters. Parent shorthand is widely repeated but not equally documented in every source.",
+    "aroma": { "dominant": ["sweet dough", "earthy fuel"], "secondary": ["mint", "spice"] }, "effects": { "mental": ["euphoric", "immersive"], "physical": ["heavy warmth"], "energy": "Medium-low", "bestTime": ["late afternoon"] }, "cultivation": { "floweringDays": { "min": 58, "max": 70 }, "stretch": "Moderate", "resin": "High", "budDensity": "Dense", "indoor": "Common" },
+    "families": ["Cookies", "Kush", "Durban"], "tags": ["resinous", "fuel", "clone-only"], "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Cut and parent details vary; record exact source." }
+  },
+  {
+    "id": "gg4", "name": "GG4", "aliases": ["Original Glue", "Gorilla Glue #4"], "breeder": "GG Strains-associated", "releaseEra": "2010s", "parentage": { "display": "Sour Dubb × Chem's Sister × Chocolate Diesel-associated cross", "notes": "Published descriptions differ on how the multi-parent shorthand is sequenced." }, "generation": "Clone-only", "strainType": "clone-only",
+    "overview": "GG4 is a modern clone landmark known for sticky resin, sour chemical fuel, vigor, and strong effects. It is a specific selection from a complex cross, but the name has been used loosely in commerce. Breeding records should distinguish the authenticated clone, selfed seed, and hybrid descendants.",
+    "aroma": { "dominant": ["sour fuel", "chemical chocolate"], "secondary": ["earth", "rubber"] }, "effects": { "onset": "Fast", "mental": ["euphoric", "immersive"], "physical": ["heavy"], "energy": "Low-medium", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 58, "max": 70 }, "stretch": "High", "branching": "Needs support", "resin": "Very high", "indoor": "Common", "difficulty": "Intermediate" },
+    "families": ["Chem", "Diesel"], "tags": ["fuel", "resinous", "clone-only"], "confidence": { "lineage": "strongly-documented", "information": "widely-accepted", "notes": "Cross family is documented; shorthand sequencing can differ." }
+  },
+  {
+    "id": "wedding-cake", "name": "Wedding Cake", "aliases": ["Triangle Mints #23"], "breeder": "Seed Junky-associated", "releaseEra": "2010s", "parentage": { "display": "Triangle Kush × Animal Mints-associated", "notes": "The Wedding Cake name has also been used for other products in some markets." }, "generation": "Clone selection", "strainType": "clone-only",
+    "overview": "Wedding Cake is a modern dessert-and-fuel clone name associated with dense resin, doughy sweetness, pepper, and strong layered effects. Naming overlap and the broad commercial use of 'Cake' make exact source, clone label, and breeder context especially important.",
+    "aroma": { "dominant": ["sweet dough", "peppery fuel"], "secondary": ["vanilla", "earth"] }, "effects": { "mental": ["euphoric"], "physical": ["heavy warmth"], "energy": "Low-medium", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 58, "max": 70 }, "stretch": "Moderate", "resin": "High", "budDensity": "Dense", "moldRisk": "Monitor humidity" },
+    "families": ["Kush", "Cookies"], "tags": ["resinous", "dessert", "clone-only"], "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Names and cut labels overlap across markets." }
+  },
+  {
+    "id": "gelato-33", "name": "Gelato #33", "aliases": ["Larry Bird"], "breeder": "Sherbinski-associated", "releaseEra": "2010s", "parentage": { "display": "Sunset Sherbet × Thin Mint GSC" }, "generation": "Clone selection", "strainType": "clone-only",
+    "overview": "Gelato #33 is a selected cut from the Gelato family known for creamy fruit, sweet gas, color, resin, and a strong modern hybrid profile. Gelato numbering identifies particular selections, but commercial labeling is inconsistent, so cut provenance should be stored with the record.",
+    "aroma": { "dominant": ["creamy fruit", "sweet gas"], "secondary": ["citrus", "dough"] }, "effects": { "mental": ["euphoric", "dreamy"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate", "resin": "High", "budDensity": "Dense" },
+    "families": ["Cookies"], "tags": ["dessert", "resinous", "clone-only"], "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Selection numbering is meaningful but often used inconsistently." }
+  },
+  {
+    "id": "zkittlez", "name": "Zkittlez", "breeder": "3rd Gen Family / Terp Hogz-associated", "releaseEra": "2010s", "parentage": { "display": "Grape Ape × Grapefruit-associated cross", "notes": "Some published versions include an additional undisclosed contribution." }, "generation": "Clone/seed family", "strainType": "indica-leaning",
+    "overview": "Zkittlez became a modern aroma benchmark for layered fruit candy, citrus, grape, and unusually persistent flavor. Its breeding value is often discussed in terms of sensory intensity rather than raw structure or yield. Exact parent descriptions and selected versions should be verified against breeder material.",
+    "aroma": { "dominant": ["mixed fruit candy", "grape citrus"], "secondary": ["tropical peel", "floral sweetness"] }, "effects": { "mental": ["dreamy", "content"], "physical": ["relaxed"], "energy": "Low-medium", "bestTime": ["afternoon", "evening"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Low-moderate", "yield": "Low-medium", "resin": "Medium-high" },
+    "families": ["Grape", "Grapefruit"], "tags": ["tropical", "berry", "dessert", "breeder favorite"], "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Aroma reputation is strong; exact pedigree descriptions vary." }
+  },
+  {
+    "id": "runtz", "name": "Runtz", "releaseEra": "Late 2010s", "parentage": { "display": "Zkittlez × Gelato-associated" }, "generation": "Hybrid selection", "strainType": "balanced",
+    "overview": "Runtz is a modern candy-and-cream hybrid name associated with sweet fruit, gas, color, and resin. Rapid commercial adoption produced many unrelated or loosely related versions. An archive-quality entry should name the breeder, seed lot or cut, and whether the record concerns the original selection or a descendant.",
+    "aroma": { "dominant": ["fruit candy", "creamy gas"], "secondary": ["berry", "citrus"] }, "effects": { "mental": ["euphoric"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate", "resin": "High", "budDensity": "Dense" },
+    "families": ["Cookies", "Zkittlez"], "tags": ["tropical", "dessert", "resinous"], "confidence": { "lineage": "widely-accepted", "information": "community-reported", "notes": "Original identity and commercial name use need separation." }
+  },
+  {
+    "id": "tangie", "name": "Tangie", "breeder": "DNA Genetics / Crockett-associated", "releaseEra": "2010s", "parentage": { "display": "California Orange × Skunk-associated" }, "generation": "Hybrid", "strainType": "sativa-leaning",
+    "overview": "Tangie helped re-establish intense tangerine peel and sweet citrus as a major modern breeding direction. It is often vigorous, aromatic, and energetic, with meaningful phenotype variation in structure, flower density, and the balance of orange versus skunk character.",
+    "aroma": { "dominant": ["tangerine peel", "sweet citrus"], "secondary": ["skunk", "floral spice"] }, "effects": { "mental": ["energetic", "social"], "physical": ["light"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "High", "structure": "Vigorous and branchy", "trainingResponse": "Can benefit from canopy control", "yield": "Medium-high" },
+    "families": ["Skunk", "Orange"], "tags": ["citrus", "uplifting", "outdoor"], "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Breeder and release histories should be checked for the specific version." }
+  },
+  {
+    "id": "trainwreck", "name": "Trainwreck", "releaseEra": "1990s", "parentage": { "display": "Northern California clone of disputed ancestry", "notes": "Mexican, Thai, and Afghani-associated ancestry is often repeated but not conclusively documented." }, "generation": "Clone-only", "strainType": "clone-only",
+    "overview": "Trainwreck is a classic Northern California clone name associated with lemon, pine, spice, lanky growth, resin, and a forceful fast cerebral onset. Origin stories and seed recreations vary. The authenticated clone should be distinguished from Trainwreck-named commercial lines.",
+    "aroma": { "dominant": ["lemon pine", "pepper"], "secondary": ["earth", "incense"] }, "effects": { "onset": "Very fast", "mental": ["intense", "energetic"], "physical": ["warm"], "energy": "High", "bestTime": ["daytime"], "possibleNegatives": ["disorientation"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "High", "branching": "Flexible and support-hungry", "resin": "High", "indoor": "Training recommended", "outdoor": "Climate dependent" },
+    "families": ["Thai", "Afghani"], "tags": ["citrus", "clone-only", "old-school", "disputed lineage"], "confidence": { "lineage": "disputed", "information": "widely-accepted", "notes": "Clone reputation is established; ancestry is not verified." }
+  },
+  {
+    "id": "maui-wowie", "name": "Maui Wowie", "releaseEra": "1970s name history", "parentage": { "display": "Hawaiian landrace/heirloom-associated", "notes": "Many unrelated or hybridized commercial versions share the name." }, "generation": "Heirloom label", "strainType": "heirloom",
+    "overview": "Maui Wowie is a historic Hawaiian cultivar name associated with tropical fruit, floral sweetness, tall outdoor growth, and an upbeat character. Because the name became a global cultural shorthand, a modern record needs collection, breeder, and generation details before making specific genetic claims.",
+    "aroma": { "dominant": ["tropical fruit", "sweet floral"], "secondary": ["citrus", "herbal spice"] }, "effects": { "mental": ["uplifted", "social"], "physical": ["light"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 63, "max": 91 }, "stretch": "High", "outdoor": "Warm long-season climate", "indoor": "Selection dependent" },
+    "families": ["Hawaiian"], "tags": ["tropical", "heirloom", "uplifting", "outdoor", "disputed lineage"], "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Historical name is clear; modern genetic identity is often uncertain." }
+  },
+  {
+    "id": "acapulco-gold", "name": "Acapulco Gold", "releaseEra": "1960s–1970s name history", "parentage": { "display": "Acapulco-region Mexican landrace/heirloom-associated" }, "generation": "Heirloom label", "strainType": "heirloom",
+    "overview": "Acapulco Gold is a historic Mexican regional cultivar name famed in cannabis culture for golden flowers, warm spice, sweetness, and lively effects. Modern products using the name may be recreations or unrelated hybrids. Serious preservation records require origin and accession documentation.",
+    "aroma": { "dominant": ["sweet spice", "woody citrus"], "secondary": ["coffee", "earth"] }, "effects": { "mental": ["uplifted", "energetic"], "physical": ["light warmth"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 70, "max": 98 }, "stretch": "High", "outdoor": "Long warm season", "difficulty": "Advanced" },
+    "families": ["Mexican"], "tags": ["heirloom", "old-school", "uplifting", "outdoor"], "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Historical identity is broad; modern provenance needs verification." }
+  },
+  {
+    "id": "colombian-gold", "name": "Colombian Gold", "releaseEra": "Traditional / 1960s–1970s introductions", "parentage": { "display": "Colombian landrace/heirloom populations" }, "generation": "Landrace population", "strainType": "landrace",
+    "overview": "Colombian Gold is a broad historic name for Colombian cannabis associated with long flowering, incense, sweet wood, citrus, and major contribution to early hybrid breeding. Regional differences and later preservation lines matter; the name alone is not an accession.",
+    "aroma": { "dominant": ["incense", "sweet wood"], "secondary": ["citrus", "earth"] }, "effects": { "mental": ["energetic", "expansive"], "physical": ["light"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 77, "max": 112 }, "stretch": "Very high", "outdoor": "Long warm season", "indoor": "Advanced" },
+    "families": ["Colombian"], "tags": ["landrace", "incense", "uplifting", "long flowering", "outdoor"], "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Umbrella record; replace with regional accession detail." }
+  },
+  {
+    "id": "panama-red", "name": "Panama Red", "releaseEra": "1960s–1970s name history", "parentage": { "display": "Panamanian landrace/heirloom populations" }, "generation": "Heirloom label", "strainType": "heirloom",
+    "overview": "Panama Red is a historic Central American cultivar name associated with long flowering, red pistils, spice, earth, and energetic to dreamy effects. Commercial reproductions and preserved lines may differ substantially, so origin and maintenance history are essential data fields.",
+    "aroma": { "dominant": ["spice", "earth"], "secondary": ["incense", "citrus"] }, "effects": { "mental": ["expansive", "dreamy"], "physical": ["light"], "energy": "Medium-high", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 77, "max": 112 }, "stretch": "Very high", "outdoor": "Long warm season", "difficulty": "Advanced" },
+    "families": ["Panama"], "tags": ["heirloom", "old-school", "long flowering", "outdoor"], "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Historical name is broad and modern provenance varies." }
+  },
+  {
+    "id": "headband", "name": "Headband", "releaseEra": "2000s", "parentage": { "display": "OG Kush × Sour Diesel-associated", "notes": "Several cuts and seed lines share the name." }, "generation": "Hybrid/clone family", "strainType": "balanced",
+    "overview": "Headband is a fuel-family hybrid name generally linked to OG Kush and Sour Diesel. It is associated with lemon-diesel aroma, stretch, resin, and a strong immersive profile. Naming overlap means the exact cut or breeder version should always accompany the record.",
+    "aroma": { "dominant": ["lemon diesel", "earthy fuel"], "secondary": ["pine", "rubber"] }, "effects": { "mental": ["euphoric", "immersive"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "High", "resin": "High", "indoor": "Canopy control recommended" },
+    "families": ["Diesel", "Kush", "Chem"], "tags": ["fuel", "citrus", "resinous"], "confidence": { "lineage": "community-reported", "information": "community-reported", "notes": "Multiple versions share the name." }
+  },
+  {
+    "id": "nyc-diesel", "name": "NYC Diesel", "breeder": "Soma Seeds", "releaseEra": "2000s", "parentage": { "display": "Afghani/Hawaiian-associated cross", "notes": "Published descriptions vary and should be checked against breeder archives." }, "generation": "Hybrid", "strainType": "sativa-leaning",
+    "overview": "NYC Diesel is a Soma-associated cultivar known for grapefruit, lime, fuel, and an outgoing hybrid profile. It should not automatically be conflated with East Coast Sour Diesel. Breeder-era seed descriptions and current reproductions may differ.",
+    "aroma": { "dominant": ["grapefruit", "lime fuel"], "secondary": ["sweet skunk", "earth"] }, "effects": { "mental": ["social", "uplifted"], "physical": ["warm"], "energy": "Medium-high", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 65, "max": 84 }, "stretch": "High", "yield": "Medium-high", "indoor": "Height control advised" },
+    "families": ["Diesel", "Afghani", "Hawaiian"], "tags": ["fuel", "citrus", "uplifting"], "confidence": { "lineage": "community-reported", "information": "widely-accepted", "notes": "Distinct from ECSD; exact breeder shorthand needs archive verification." }
+  },
+  {
+    "id": "gmo", "name": "GMO", "aliases": ["Garlic Cookies"], "breeder": "Mamiko Seeds / Skunkmasterflex selection-associated", "releaseEra": "2010s", "parentage": { "display": "Chem D × Forum Cookies" }, "generation": "Clone selection", "strainType": "clone-only",
+    "overview": "GMO is a selected modern clone noted for savory garlic-onion funk, fuel, resin, stretch, and a long, heavy profile. The specific cut is more meaningful than generic Garlic Cookies labeling, and later hybrids or seed reproductions should be tracked separately.",
+    "aroma": { "dominant": ["garlic-onion funk", "fuel"], "secondary": ["rubber", "earth", "coffee"] }, "effects": { "mental": ["immersive"], "physical": ["heavy"], "energy": "Low", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 70, "max": 84 }, "stretch": "High", "resin": "Very high", "budDensity": "Dense", "indoor": "Support recommended" },
+    "families": ["Chem", "Cookies"], "tags": ["fuel", "savory", "resinous", "clone-only", "long flowering"], "confidence": { "lineage": "strongly-documented", "information": "widely-accepted", "notes": "Clone selection history is broadly documented; commercial naming remains inconsistent." }
+  },
+  {
+    "id": "chems-sister", "name": "Chem's Sister", "releaseEra": "1990s selection", "parentage": { "display": "Chemdog-family seed selection", "notes": "Exact parents are unknown." }, "generation": "Clone-only", "strainType": "clone-only",
+    "overview": "Chem's Sister is a historic Chem-family clone with chemical fuel, earth, and breeding significance, including its presence in the ancestry of GG4. Like other Chem selections, the authenticated cut history is clearer than a conventional genetic pedigree.",
+    "aroma": { "dominant": ["chemical fuel", "earth"], "secondary": ["lemon", "rubber"] }, "effects": { "mental": ["intense"], "physical": ["warm"], "energy": "Medium", "bestTime": ["afternoon"] }, "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "Moderate-high", "resin": "High", "indoor": "Common" },
+    "families": ["Chem"], "tags": ["fuel", "clone-only", "old-school"], "confidence": { "lineage": "unknown", "information": "strongly-documented", "notes": "Named cut history is recognized; genetic parentage is unknown." }
+  },
+  {
+    "id": "strawberry-cough", "name": "Strawberry Cough", "releaseEra": "1990s–2000s", "parentage": { "display": "Commonly reported as Strawberry Fields × Haze-associated", "notes": "Origin stories and commercial versions differ." }, "generation": "Clone/seed family", "strainType": "sativa-leaning",
+    "overview": "Strawberry Cough is associated with fresh strawberry, floral haze, open growth, and a social daytime profile. The name covers a famous clone history as well as later seed lines, so exact source and version should be recorded before assigning detailed breeding conclusions.",
+    "aroma": { "dominant": ["fresh strawberry", "floral haze"], "secondary": ["pepper", "sweet herb"] }, "effects": { "mental": ["social", "uplifted"], "physical": ["light"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 63, "max": 77 }, "stretch": "High", "structure": "Open", "indoor": "Height control recommended" },
+    "families": ["Haze"], "tags": ["berry", "haze", "uplifting", "disputed lineage"], "confidence": { "lineage": "community-reported", "information": "community-reported", "notes": "Multiple versions and origin accounts exist." }
+  },
+  {
+    "id": "romulan", "name": "Romulan", "releaseEra": "1980s–1990s clone history", "parentage": { "display": "Disputed North American clone lineage" }, "generation": "Clone family", "strainType": "indica-leaning",
+    "overview": "Romulan is an old-school clone family associated with pine, earth, spice, resin, and a deep inward profile. Several origin accounts and later seed lines exist. Its importance as a Space Queen parent makes cut identity and source especially relevant in breeding archives.",
+    "aroma": { "dominant": ["pine", "earth"], "secondary": ["spice", "sweet cedar"] }, "effects": { "mental": ["dreamy", "introspective"], "physical": ["heavy"], "energy": "Low", "bestTime": ["evening"] }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Low-moderate", "resin": "High", "indoor": "Well suited" },
+    "families": ["Romulan"], "tags": ["old-school", "sedating", "resinous", "disputed lineage"], "confidence": { "lineage": "disputed", "information": "community-reported", "notes": "Clone family is recognized; exact ancestry is contested." }
+  },
+  {
+    "id": "lambs-bread", "name": "Lamb's Bread", "aliases": ["Lamb's Breath"], "releaseEra": "Traditional / historic name", "parentage": { "display": "Jamaican landrace/heirloom-associated", "notes": "The name is used broadly and may describe multiple Jamaican selections." }, "generation": "Heirloom label", "strainType": "heirloom",
+    "overview": "Lamb's Bread is a historic Jamaican cultivar name associated with herbal spice, uplifting character, and cultural importance. It should be treated as a regional or heirloom label unless the accession, community, and preservation history are documented.",
+    "aroma": { "dominant": ["sweet herb", "pepper"], "secondary": ["earth", "floral spice"] }, "effects": { "mental": ["uplifted", "clear-headed"], "physical": ["light"], "energy": "High", "bestTime": ["daytime"] }, "cultivation": { "floweringDays": { "min": 70, "max": 98 }, "stretch": "High", "outdoor": "Warm long-season climate" },
+    "families": ["Jamaican"], "tags": ["heirloom", "uplifting", "outdoor", "old-school"], "confidence": { "lineage": "unknown", "information": "community-reported", "notes": "Broad historical name; accession-level verification required." }
+  },
+  {
+    "id": "space-bomb", "name": "Space Bomb", "breeder": "TGA Subcool", "releaseEra": "2000s", "parentage": { "display": "Tiny Bomb × Space Queen-associated", "notes": "Confirm exact release notes before publication." }, "generation": "F1", "strainType": "balanced",
+    "overview": "Space Bomb is a TGA-era Space Queen family hybrid remembered for fruit, spice, resin, and compact-to-branchy hybrid expressions. This starter record is included primarily to support the Glass Grenade project lineage and needs breeder-archive review.",
+    "aroma": { "dominant": ["sweet fruit"], "secondary": ["spice", "earth"] }, "effects": { "mental": ["euphoric"], "physical": ["warm"], "energy": "Medium" }, "cultivation": { "floweringDays": { "min": 56, "max": 70 }, "stretch": "Moderate", "resin": "Medium-high" },
+    "families": ["Space Queen"], "tags": ["fruity", "resinous"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Starter summary requires primary catalog verification." }
+  },
+  {
+    "id": "apollo-13-ix", "name": "Apollo 13 IX (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Apollo 13 selection × related Apollo 13 selection", "notes": "Demonstration record for IX data handling; replace with a documented real project." }, "generation": "IX", "strainType": "sativa-leaning", "overview": "This is a clearly labeled demonstration record showing how an incross generation can be represented. No effects, cultivation, or inheritance claims should be published until the actual population, parent selections, and hunt notes replace this starter entry.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Apollo"], "tags": ["rare", "disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "space-queen-f2", "name": "Space Queen F2 (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Space Queen F1 × Space Queen F1", "notes": "Demonstration record; parent selections are not documented." }, "generation": "F2", "strainType": "balanced", "overview": "A starter F2 record included to demonstrate generation-aware study and filtering. Replace it with a breeder-specific population and document both selected parents before using it as public strain data.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Space Queen"], "tags": ["disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "cinderella-99-f3", "name": "Cinderella 99 F3 (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Cinderella 99 F2 selection × Cinderella 99 F2 selection", "notes": "Demonstration record; replace with a documented line." }, "generation": "F3", "strainType": "sativa-leaning", "overview": "A starter F3 record showing how filial generations appear in the archive. It intentionally carries no undocumented phenotype claims and should be replaced with hunt size, parent IDs, and selection notes.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella"], "tags": ["disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "blueberry-bx1", "name": "Blueberry BX1 (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Blueberry hybrid selection × Blueberry recurrent parent", "notes": "Demonstration record; recurrent parent is not documented." }, "generation": "BX1", "strainType": "indica-leaning", "overview": "A placeholder backcross record included to exercise generation filters and lineage display. Replace it with named parents, selection goals, hunt results, and a verified breeder source.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Blueberry"], "tags": ["disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "chem-91-s1", "name": "Chem 91 S1 (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Chem 91 reversed × Chem 91", "notes": "Demonstration record; no seed source is asserted." }, "generation": "S1", "strainType": "balanced", "overview": "A starter selfed-line record showing S1 support. This is not a claim about any specific commercial release. Add the reversal donor, seed maker, population size, and observed segregation before publication.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Chem"], "tags": ["fuel", "disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "skunk-1-f2", "name": "Skunk #1 F2 (example line)", "breeder": "Starter demonstration", "parentage": { "display": "Skunk #1 F1 selection × Skunk #1 F1 selection", "notes": "Demonstration record; replace with documented parents." }, "generation": "F2", "strainType": "balanced", "overview": "A generation-handling demonstration for a two-parent filial population. No sensory, cultivation, or inheritance conclusions are attached because the actual source and selections are not known.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Skunk"], "tags": ["disputed lineage"], "confidence": { "lineage": "unknown", "information": "unknown", "notes": "Demonstration only." }
+  },
+  {
+    "id": "wicked-highness", "name": "Wicked Highness", "breeder": "GBS", "parentage": { "display": "Herijuana × C99 × Vortex", "notes": "Community project shorthand; parent order and selected individuals require project records." }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. Effects, sensory profile, cultivation behavior, and inheritance are not yet documented; add phenohunt observations before making public claims.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Project parentage supplied by GBS; all phenotype details await documentation." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "galactic-princess", "name": "Galactic Princess", "breeder": "GBS", "parentage": { "display": "Space Queen × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. Effects, flavor, growth traits, and selection outcomes are not yet documented.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Space Queen", "Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Project shorthand supplied by GBS; phenohunt records needed." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "royal-warbird", "name": "Royal Warbird", "breeder": "GBS", "parentage": { "display": "Imperial Eagle × Space Queen × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. This archive entry preserves the supplied lineage shorthand without inventing effects or grow traits.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Space Queen", "Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Parent order, generation, and phenohunt outcomes need project verification." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "sultans-slipper", "name": "Sultans Slipper", "breeder": "GBS", "parentage": { "display": "Iron Sheik × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. The record is ready for generation, hunt size, keeper observations, and final selection notes.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Effects and cultivation are not yet documented." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "blue-gown", "name": "Blue Gown", "breeder": "GBS", "parentage": { "display": "Blueberry × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. No finished sensory, effect, growth, or inheritance claims are attached to this starter record.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Blueberry", "Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Phenohunt and parent-selection details are pending." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "royal-reaper", "name": "Royal Reaper", "breeder": "GBS", "parentage": { "display": "Killing Fields × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. Supplied parentage is stored as project context; all phenotype claims await documented hunting and selection.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Not yet documented beyond project shorthand." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "rabid-royal", "name": "Rabid Royal", "breeder": "GBS", "parentage": { "display": "Cujo × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. The schema is prepared for hunt size and keeper notes without assuming traits from the parent names.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Generation and phenohunt results are pending." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "glass-grenade", "name": "Glass Grenade", "breeder": "GBS", "parentage": { "display": "Space Bomb × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. Effects and cultivation remain intentionally blank until direct observations are added.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Space Queen", "Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "Project shorthand supplied by GBS; verify the Space Bomb parent and generation." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  },
+  {
+    "id": "fruity-cheddar", "name": "Fruity Cheddar", "breeder": "GBS", "parentage": { "display": "Cheddar Wheel × C99 × Vortex" }, "generation": "Not yet documented", "strainType": "unknown", "overview": "GBS community breeding project. This starter entry preserves the supplied project name and parentage only; sensory and cultivation fields await a documented hunt.", "aroma": { "dominant": [] }, "effects": {}, "cultivation": {}, "families": ["Cinderella", "Apollo"], "tags": ["GBS Project", "community line"], "confidence": { "lineage": "community-reported", "information": "unknown", "notes": "No phenotype conclusions have been entered." }, "project": { "isGBSProject": true, "status": "concept", "keeperNotes": "Not yet documented" }
+  }
+]

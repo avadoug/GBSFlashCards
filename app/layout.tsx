@@ -46,7 +46,7 @@ export default function RootLayout({
         <div className="ambient-bg" aria-hidden="true" />
         <GBSHeader />
         {children}
-        <footer className="site-footer"><span>GBS Strain Flip</span><p>Starter research archive · verify cultivar data before public release</p><span>© {new Date().getFullYear()} GBS</span></footer>
+        <footer className="site-footer"><span>GBS Strain Flip</span><p>Source-led breeder archive · catalog existence is never presented as full documentation</p><span>© {new Date().getFullYear()} GBS</span></footer>
       </body>
     </html>
   );

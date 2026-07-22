@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronDown, Rotate3D, Shuffle, SlidersHorizontal, Sparkles } from "lucide-react";
 import { strains, starterDataNotice } from "@/lib/strains";
+import { collectionOptions } from "@/lib/breeders";
 import { createShuffleBag, takeNext } from "@/lib/shuffleBag";
 import { defaultSettings, emptyProgress, loadProgress, loadQueues, loadSettings, markAnswer, recordView, saveProgress, saveQueues, type ProgressState, type Settings, type StudyMode } from "@/lib/storage";
 import { playTone } from "@/lib/sound";
@@ -45,6 +46,10 @@ export function StudyExperience() {
       setMode(storedSettings.defaultMode);
       setProgress(loadProgress());
       setQueues(loadQueues());
+      const requestedCollection = new URLSearchParams(window.location.search).get("collection");
+      if (requestedCollection && collectionOptions.some((item) => item.value === requestedCollection)) {
+        setFilters((current) => ({ ...current, collection: requestedCollection }));
+      }
       setHydrated(true);
     });
   }, []);
@@ -55,6 +60,10 @@ export function StudyExperience() {
     if (mode === "favorites" && !stats?.favorite) return false;
     if (filters.search && !matchesText([strain.name, strain.parentage.display, strain.breeder, ...(strain.tags ?? []), ...(strain.families ?? []), ...strain.aroma.dominant, ...(strain.aroma.secondary ?? [])], filters.search)) return false;
     if (filters.breeder && strain.breeder !== filters.breeder) return false;
+    if (filters.collection && strain.collection?.slug !== filters.collection) return false;
+    if (filters.documentationTier && strain.documentationTier !== filters.documentationTier) return false;
+    if (filters.releaseStatus && strain.releaseStatus !== filters.releaseStatus) return false;
+    if (filters.attributionRole && !strain.attributions?.some((item) => item.role === filters.attributionRole)) return false;
     if (filters.family && !strain.families?.includes(filters.family)) return false;
     if (filters.generation && strain.generation !== filters.generation) return false;
     if (filters.strainType && strain.strainType !== filters.strainType) return false;
@@ -159,6 +168,18 @@ export function StudyExperience() {
         </div>
         <ProgressPanel progress={progress} poolCount={filtered.length} />
       </section>
+
+      <nav className="collection-presets" aria-label="Breeder study presets">
+        <button className={!filters.collection ? "active" : ""} aria-pressed={!filters.collection} onClick={() => setFilters({ ...filters, collection: "" })}>
+          <span>All archive</span><small>{strains.length} cards</small>
+        </button>
+        {collectionOptions.map((item) => {
+          const count = strains.filter((strain) => strain.collection?.slug === item.value).length;
+          return <button key={item.value} className={filters.collection === item.value ? "active" : ""} aria-pressed={filters.collection === item.value} onClick={() => setFilters({ ...filters, collection: item.value })}>
+            <span>{item.label}</span><small>{count} cards</small>
+          </button>;
+        })}
+      </nav>
 
       <section className="study-toolbar" aria-label="Study setup">
         <label className="mode-select">

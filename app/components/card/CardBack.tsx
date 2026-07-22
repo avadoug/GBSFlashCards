@@ -1,10 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import { ArrowLeft, BookOpen, Dna, FlaskConical, History, Leaf, Sprout } from "lucide-react";
+import { ArrowLeft, BookOpen, Dna, ExternalLink, FlaskConical, History, Leaf, Sprout } from "lucide-react";
 import type { Strain } from "@/lib/schema";
 import type { StudyMode } from "@/lib/storage";
-import { AromaSection, BreedingValueSection, CultivationSection, EffectsSection, HistorySection, LineageSection, PhenotypeSection } from "./sections";
+import { AromaSection, BreedingValueSection, CultivationSection, EffectsSection, HistorySection, LineageSection, PhenotypeSection, SourcesSection } from "./sections";
 
 const tabs = [
   { id: "lineage", label: "Lineage", icon: Dna },
@@ -12,6 +12,7 @@ const tabs = [
   { id: "grow", label: "Grow", icon: Sprout },
   { id: "breed", label: "Breed", icon: FlaskConical },
   { id: "history", label: "History", icon: History },
+  { id: "sources", label: "Sources", icon: ExternalLink },
 ] as const;
 
 type TabId = (typeof tabs)[number]["id"];
@@ -47,6 +48,7 @@ export function CardBack({ strain, mode, onFlipBack }: { strain: Strain; mode: S
             {tab === "grow" && <><CultivationSection strain={strain} /><PhenotypeSection strain={strain} /></>}
             {tab === "breed" && <BreedingValueSection strain={strain} />}
             {tab === "history" && <HistorySection strain={strain} />}
+            {tab === "sources" && <SourcesSection strain={strain} />}
           </>
         )}
       </div>

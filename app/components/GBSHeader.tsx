@@ -2,11 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BarChart3, BookOpen, Info, Library, Settings, Sparkles } from "lucide-react";
+import { BarChart3, BookMarked, BookOpen, Info, Library, Settings, Sparkles } from "lucide-react";
 
 const links = [
   { href: "/", label: "Study", icon: Sparkles },
   { href: "/library", label: "Library", icon: Library },
+  { href: "/breeders", label: "Breeders", icon: BookMarked },
   { href: "/statistics", label: "Statistics", icon: BarChart3 },
   { href: "/about", label: "About", icon: Info },
   { href: "/data-guide", label: "Data guide", icon: BookOpen },
@@ -27,7 +28,7 @@ export function GBSHeader() {
         </Link>
         <nav className="desktop-nav" aria-label="Primary navigation">
           {links.map(({ href, label }) => (
-            <Link key={href} href={href} className={pathname === href ? "active" : ""}>{label}</Link>
+            <Link key={href} href={href} className={pathname === href || (href === "/breeders" && pathname.startsWith("/breeders/")) ? "active" : ""}>{label}</Link>
           ))}
         </nav>
       </header>
@@ -42,4 +43,3 @@ export function GBSHeader() {
     </>
   );
 }
-

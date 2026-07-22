@@ -2,7 +2,7 @@
 
 GBS Strain Flip is an interactive cannabis genetics learning archive built around tactile, animated flash cards. It helps growers, breeders, smokers, and collectors study lineage, sensory observations, cultivation traits, phenotype variation, breeding context, history, and source confidence without presenting uncertain claims as fact.
 
-> The included 66-record library is starter content. Historical, sensory, cultivation, and inheritance details must be reviewed by a knowledgeable human against attributable sources before public release.
+> The validated 256-record library combines a 66-record base archive with 196 sourced breeder records and explicit overlays for shared records. Tier C entries confirm catalog existence only; their blank fields are deliberate.
 
 ## Technology
 
@@ -40,6 +40,8 @@ npm run build
 
 - `/` — interactive study card with modes, keyboard controls, filters, smart shuffle, and local progress
 - `/library` — searchable strain index
+- `/breeders` — four research-backed breeder collections
+- `/breeders/[slug]` — collection history, signature lines, catalog ledger, and source docket
 - `/strain/[id]` — permanent archive detail record
 - `/statistics` — local accuracy, streak, mastery, breeder, and family progress
 - `/about` — product purpose and principles
@@ -56,6 +58,11 @@ app/
   statistics/          Local progress dashboard
   settings/            Device-local preferences
 data/strains.json      All starter and GBS project records
+data/breeder-strains.json  Generated, source-linked breeder records and overlays
+data/breeders.json     Breeder collection summaries
+data/research/         Candidate, alias, source, unresolved, and rejected ledgers
+docs/                  Research method and reconciliation report
+scripts/               Reproducible breeder research generator
 lib/schema.ts          Zod schemas and TypeScript types
 lib/strains.ts         Validated data loader and index
 lib/shuffleBag.ts      Shuffle-bag and anti-repeat logic
@@ -140,14 +147,13 @@ The app stores the following browser-local records under versioned `gbs-strain-f
 
 No data leaves the device. Clearing site data or using **Reset all progress** removes it.
 
-## Replace starter data
+## Breeder research workflow
 
-1. Preserve a copy of `data/strains.json` for reference.
-2. Replace demonstration records (`(example line)`) first.
-3. Review every record with `community-reported`, `disputed`, or `unknown` confidence.
-4. Add attributable `sources` and URLs where publication rights and link stability are acceptable.
-5. Separate cuts, seed releases, reproductions, preservation lines, and unrelated same-name cultivars into distinct IDs.
-6. Record direct phenohunt observations for GBS projects; do not infer finished traits from parent names.
+1. Add public sources and candidates to `scripts/generate-breeder-research.mjs`.
+2. Keep exact generations, backcrosses, selfed releases, preservation versions, and unrelated same-name cultivars as distinct records.
+3. Route ambiguous candidates to `data/research/*/unresolved.json`; never invent missing details.
+4. Regenerate with `node scripts/generate-breeder-research.mjs`.
+5. Review `docs/breeder-catalog-research.md`, then run lint, tests, and both production builds.
 
 ## PWA and offline behavior
 
@@ -168,7 +174,7 @@ The default scripts use the native Next.js toolchain for Vercel. The included Si
 
 ## Known limitations
 
-- Starter strain claims have not received a formal editorial review.
+- Tier C records are catalog-existence records, not complete profiles.
 - Progress does not sync across browsers or devices.
 - A service worker can cache an older data bundle until the cache version changes.
 - Sounds are synthesized browser tones, not production audio files.
@@ -177,7 +183,7 @@ The default scripts use the native Next.js toolchain for Vercel. The included Si
 
 ## Suggested next steps
 
-- Run a source-by-source editorial review and add citations to each record.
+- Continue source-by-source editorial review to promote eligible Tier C records.
 - Add JSON import/export with a dry-run validation report.
 - Support accession IDs and parent record relationships instead of display strings alone.
 - Add opt-in encrypted sync for progress and private project notes.

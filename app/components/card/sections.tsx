@@ -1,4 +1,4 @@
-import { Dna, FlaskConical, Flower2, History, Leaf, Sprout } from "lucide-react";
+import { Dna, ExternalLink, FlaskConical, Flower2, History, Leaf, Sprout, Users } from "lucide-react";
 import type { Strain } from "@/lib/schema";
 import { ConfidenceBadge } from "../ConfidenceBadge";
 
@@ -147,3 +147,31 @@ export function HistorySection({ strain }: { strain: Strain }) {
   );
 }
 
+export function SourcesSection({ strain }: { strain: Strain }) {
+  const fields = Object.entries(strain.fieldConfidence ?? {});
+  return (
+    <section className="back-section sources-section">
+      <div className="section-title"><ExternalLink size={17} /><h3>Sources & attribution</h3></div>
+      {strain.attributions?.length ? <div className="attribution-ledger">
+        {strain.attributions.map((attribution, index) => <article key={attribution.name + attribution.role + index}>
+          <Users size={14} />
+          <span><strong>{attribution.name}</strong><small>{attribution.role.replaceAll("-", " ")}</small></span>
+          <ConfidenceBadge level={attribution.confidence} />
+          {attribution.notes && <p>{attribution.notes}</p>}
+        </article>)}
+      </div> : <Missing />}
+      {fields.length ? <div className="field-confidence-grid">
+        {fields.map(([field, level]) => <div key={field}><small>{field}</small><ConfidenceBadge level={level} /></div>)}
+      </div> : null}
+      <div className="source-link-list">
+        {(strain.sources ?? []).map((source, index) => source.url ? <a href={source.url} target="_blank" rel="noreferrer" key={source.url + index}>
+          <span><strong>{source.label}</strong><small>{source.type.replaceAll("-", " ")}{source.accessedAt ? " · accessed " + source.accessedAt : ""}</small></span>
+          <ExternalLink size={14} />
+          {source.fields?.length ? <p>Supports: {source.fields.join(" · ")}</p> : null}
+          {source.notes ? <p>{source.notes}</p> : null}
+        </a> : <div className="source-unlinked" key={source.label + index}><strong>{source.label}</strong><small>{source.type.replaceAll("-", " ")}</small></div>)}
+      </div>
+      <p className="microcopy">Sources support only the fields named on each record. A listing is not treated as proof of every profile claim.</p>
+    </section>
+  );
+}

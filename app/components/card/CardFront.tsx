@@ -1,6 +1,7 @@
 import { Dna, Rotate3D } from "lucide-react";
 import type { Strain } from "@/lib/schema";
 import type { StudyMode } from "@/lib/storage";
+import { DocumentationTierBadge } from "../DocumentationTierBadge";
 
 const typeLabels: Record<string, string> = {
   "sativa-leaning": "Sativa-leaning",
@@ -20,6 +21,7 @@ export function CardFront({ strain, mode }: { strain: Strain; mode: StudyMode })
       <div className="card-corner corner-top">GBS / {strain.id.slice(0, 3).toUpperCase()}</div>
       <div className="card-badges">
         {strain.project?.isGBSProject && <span className="badge badge-gbs">GBS Project</span>}
+        <DocumentationTierBadge tier={strain.documentationTier} compact />
         <span className="badge">{typeLabels[strain.strainType ?? "unknown"]}</span>
         {strain.generation && <span className="badge badge-gold">{strain.generation}</span>}
       </div>
@@ -47,4 +49,3 @@ export function CardFront({ strain, mode }: { strain: Strain; mode: StudyMode })
     </div>
   );
 }
-

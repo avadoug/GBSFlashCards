@@ -9,6 +9,43 @@ export const confidenceLevelSchema = z.enum([
   "unknown",
 ]);
 
+export const documentationTierSchema = z.enum(["A", "B", "C"]);
+
+export const attributionRoleSchema = z.enum([
+  "breeder",
+  "co-breeder",
+  "release-partner",
+  "selection",
+  "preservation",
+  "catalog-attribution",
+]);
+
+export const sourceTypeSchema = z.enum([
+  "breeder",
+  "archive",
+  "catalog",
+  "interview",
+  "community",
+  "unknown",
+  "official-breeder",
+  "official-product",
+  "breeder-interview",
+  "retailer-breeder-page",
+  "seed-database",
+  "forum-primary-post",
+  "grow-report",
+]);
+
+const sourceSchema = z.object({
+  label: z.string().min(1),
+  type: sourceTypeSchema,
+  url: z.string().url().optional(),
+  accessedAt: z.string().optional(),
+  fields: z.array(z.string().min(1)).optional(),
+  reliability: z.enum(["primary", "strong-secondary", "secondary", "community", "unknown"]).optional(),
+  notes: z.string().optional(),
+});
+
 const parentSchema = z.object({
   name: z.string().min(1),
   breeder: z.string().optional(),
@@ -29,6 +66,16 @@ export const strainSchema = z.object({
     father: parentSchema.optional(),
     display: z.string().min(1),
     notes: z.string().optional(),
+    reportedVersions: z
+      .array(
+        z.object({
+          display: z.string().min(1),
+          sourceLabel: z.string().min(1),
+          confidence: confidenceLevelSchema,
+          notes: z.string().optional(),
+        }),
+      )
+      .optional(),
   }),
   generation: z.string().optional(),
   strainType: z
@@ -123,15 +170,55 @@ export const strainSchema = z.object({
     information: confidenceLevelSchema,
     notes: z.string().optional(),
   }),
-  sources: z
+  documentationTier: documentationTierSchema.optional(),
+  attributions: z
     .array(
       z.object({
-        label: z.string(),
-        type: z.enum(["breeder", "archive", "catalog", "interview", "community", "unknown"]),
-        url: z.string().url().optional(),
+        name: z.string().min(1),
+        role: attributionRoleSchema,
+        confidence: confidenceLevelSchema,
+        notes: z.string().optional(),
       }),
     )
     .optional(),
+  collection: z
+    .object({
+      slug: z.enum(["dominion-duke-diamond", "subcool-tga-the-dank", "bless-coast", "lemon-hoko"]),
+      label: z.string().min(1),
+      catalogGroup: z.string().optional(),
+      signature: z.boolean().optional(),
+    })
+    .optional(),
+  releaseStatus: z.enum(["released", "archived", "preservation", "unreleased", "unknown"]).optional(),
+  fieldConfidence: z
+    .object({
+      existence: confidenceLevelSchema.optional(),
+      name: confidenceLevelSchema.optional(),
+      breeder: confidenceLevelSchema.optional(),
+      parentage: confidenceLevelSchema.optional(),
+      version: confidenceLevelSchema.optional(),
+      history: confidenceLevelSchema.optional(),
+      cultivation: confidenceLevelSchema.optional(),
+      aroma: confidenceLevelSchema.optional(),
+      effects: confidenceLevelSchema.optional(),
+    })
+    .optional(),
+  relationships: z
+    .object({
+      collaborators: documentedList,
+      releasePartners: documentedList,
+      preservationBy: documentedList,
+      relatedVersionIds: documentedList,
+    })
+    .optional(),
+  researchStatus: z
+    .object({
+      reviewState: z.enum(["accepted", "needs-review"]),
+      completenessScope: z.string().min(1),
+      lastReviewed: z.string().min(1),
+    })
+    .optional(),
+  sources: z.array(sourceSchema).optional(),
   project: z
     .object({
       isGBSProject: z.boolean(),
@@ -158,5 +245,6 @@ export const strainLibrarySchema = z.array(strainSchema).min(1).superRefine((str
 });
 
 export type ConfidenceLevel = z.infer<typeof confidenceLevelSchema>;
+export type DocumentationTier = z.infer<typeof documentationTierSchema>;
+export type SourceType = z.infer<typeof sourceTypeSchema>;
 export type Strain = z.infer<typeof strainSchema>;
-

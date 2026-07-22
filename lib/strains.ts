@@ -1,7 +1,16 @@
 import rawStrains from "@/data/strains.json";
+import breederStrains from "@/data/breeder-strains.json";
 import { strainLibrarySchema, type Strain } from "./schema";
 
-const parsed = strainLibrarySchema.safeParse(rawStrains);
+const mergedStrains = new Map<string, unknown>(
+  rawStrains.map((strain) => [strain.id, strain]),
+);
+
+for (const strain of breederStrains) {
+  mergedStrains.set(strain.id, strain);
+}
+
+const parsed = strainLibrarySchema.safeParse([...mergedStrains.values()]);
 
 if (!parsed.success) {
   const details = parsed.error.issues
@@ -15,7 +24,7 @@ export const strains: Strain[] = parsed.data;
 export const strainById = new Map(strains.map((strain) => [strain.id, strain]));
 
 export const starterDataNotice =
-  "Starter archive — historical, sensory, cultivation, and inheritance details require human review before public release.";
+  "Research archive — Tier C confirms catalog existence only; blank fields are deliberate and unresolved claims remain outside the production library.";
 
 export function findStrain(id: string) {
   return strainById.get(id);
@@ -26,4 +35,3 @@ export function distinctValues(key: "breeder" | "generation" | "strainType") {
 }
 
 export const families = [...new Set(strains.flatMap((strain) => strain.families ?? []))].sort();
-

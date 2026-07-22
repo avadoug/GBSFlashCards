@@ -1,0 +1,52 @@
+[
+  {
+    "collection": "dominion-duke-diamond",
+    "candidate": "Thunderhole F2 + William's Wonder",
+    "reason": "Retail title appears to bundle two releases; no single canonical cultivar can be inferred."
+  },
+  {
+    "collection": "dominion-duke-diamond",
+    "candidate": "Delta Blues + Shineapple",
+    "reason": "Retail title and cross notation conflict; hold until the breeder or retailer clarifies whether this is a bundle or a named cross."
+  },
+  {
+    "collection": "dominion-duke-diamond",
+    "candidate": "Screaming Eagle alternate parentage",
+    "reason": "Search snippets conflict; the SeedFinder lineage tree is used provisionally and the dispute remains visible."
+  },
+  {
+    "collection": "subcool-tga-the-dank",
+    "candidate": "9 Pound Hammer",
+    "reason": "Strongly associated with the wider TGA/MzJill catalog, but not present in the selected SubCool's The Dank master list; needs creator-specific primary sourcing."
+  },
+  {
+    "collection": "subcool-tga-the-dank",
+    "candidate": "Catalog ownership after the TGA split",
+    "reason": "Creator, release, and later rights-holder credits vary by era; records use separate attribution roles instead of a single ownership claim."
+  },
+  {
+    "collection": "bless-coast",
+    "candidate": "Atom Splitter",
+    "reason": "Official/community history describes it as an earlier Samurai Sour name; no separate retail release was confirmed."
+  },
+  {
+    "collection": "bless-coast",
+    "candidate": "Samurai Sour F4",
+    "reason": "Development is described by the breeder, but a distinct public release was not confirmed."
+  },
+  {
+    "collection": "lemon-hoko",
+    "candidate": "Chem DD F4",
+    "reason": "Tester activity was found, but a public release was not confirmed."
+  },
+  {
+    "collection": "lemon-hoko",
+    "candidate": "Blueberry BX4",
+    "reason": "Community references only; no stable catalog or product source confirmed."
+  },
+  {
+    "collection": "lemon-hoko",
+    "candidate": "HogDawg Alien",
+    "reason": "Community reference only; breeder attribution and release status remain unresolved."
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "id": "bless-official-story",
+    "label": "Bless Coast Seeds — Sour Samurai story",
+    "type": "official-breeder",
+    "url": "https://www.blesscoastseeds.com/sour-samurai/",
+    "reliability": "primary",
+    "fields": [
+      "program history",
+      "parentage",
+      "F1–F4 development",
+      "selection"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "samurai-sour-f1",
+      "samurai-sour-f2",
+      "samurai-sour-f3-9",
+      "sour-samurai-f3-reaper-edition",
+      "komorebi",
+      "sourrain",
+      "cheddar-wheel",
+      "titans-katana",
+      "hatchimaki-v2",
+      "sakura-sour",
+      "shibui",
+      "glujitsu",
+      "numbchuck",
+      "blueberry-samurai-v3",
+      "pineapple-splitter"
+    ]
+  },
+  {
+    "id": "bless-official-store",
+    "label": "Bless Coast Seeds — official store",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/",
+    "reliability": "primary",
+    "fields": [
+      "current releases",
+      "parentage",
+      "availability"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "bless-retailer",
+    "label": "Seeds Here Now — Bless Coast breeder page",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/breeders/bless-coast-seeds/",
+    "reliability": "secondary",
+    "fields": [
+      "older releases",
+      "parentage",
+      "breeder biography"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "bless-older-retailer",
+    "label": "SeedsBreeders — Bless Coast catalog",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsbreeders.com/product-category/bless-coast-seeds/",
+    "reliability": "secondary",
+    "fields": [
+      "older releases",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "samurai-sour-f3-9"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sour-samurai-test-product/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "sour-samurai-f3-reaper-edition"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-komorebi-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "komorebi"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-sourrain-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sourrain"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-cheddar-wheel-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cheddar-wheel"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-titans-katana-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "titans-katana"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/hatchimaki/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "hatchimaki-v2"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sakura-sour-2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "sakura-sour"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/shibui/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "shibui"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/glujitsu/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "glujitsu"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/numbchuck/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "numbchuck"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sakura-sour/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "blueberry-samurai-v3"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/pineapple-splitter/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "pineapple-splitter"
+    ]
+  }
+]

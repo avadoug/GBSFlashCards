@@ -1,0 +1,276 @@
+[
+  {
+    "id": "dominion-seedfinder-catalog",
+    "label": "SeedFinder — Dominion Seed Company catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/dominion-seed-company",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "6-mill",
+      "187",
+      "airborne-g13-x-ssgh",
+      "beefcake-d",
+      "burnout-chem",
+      "capital-g",
+      "chi-chis",
+      "deadband",
+      "defcon-4",
+      "delta-blues",
+      "dominion-diesel",
+      "dominion-g",
+      "dominion-skunk",
+      "figure-four",
+      "freebird",
+      "fruit-cup",
+      "g-rind",
+      "g13-skunk",
+      "gooey-x-c99",
+      "granny-skunk",
+      "helena",
+      "hoodoo",
+      "imperial-eagle",
+      "kief-sweat",
+      "kough-drop",
+      "local-h",
+      "local-skunk",
+      "lonestar-sharons-white-widow-x-cinderella-99",
+      "mountain-berry",
+      "munson",
+      "pinebomb",
+      "polecat-91-bx",
+      "princess-x-eugenics",
+      "punch-band",
+      "purple-dahlia",
+      "rowdy-chem",
+      "sangria-punch",
+      "savage-headband",
+      "screaming-eagle",
+      "shineapple",
+      "sis-skunk",
+      "skunkband",
+      "skunkband-v2",
+      "smuckhead",
+      "sour-skunk",
+      "stash-plant",
+      "supa-fly",
+      "swayze",
+      "princess-x-ssgh",
+      "gooey-x-afghani",
+      "og-kush-x-afghani",
+      "headband-x-afghani",
+      "lonestars-bgca-killer-queen-x-tga-vortex",
+      "black-lotus-x-tga-vortex",
+      "lavender-x-afghani",
+      "north-end-punch"
+    ]
+  },
+  {
+    "id": "duke-leaf-profile",
+    "label": "Leaf Magazine — Duke Diamond profile",
+    "type": "breeder-interview",
+    "url": "https://leafmagazines.com/profiles/duke-diamond-of-dominion-seed-company/",
+    "reliability": "strong-secondary",
+    "fields": [
+      "biography",
+      "era",
+      "signature releases"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "dominion-current-retailer",
+    "label": "Growers Seeds — Dominion Seed Company products",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/dominion-seed-company/",
+    "reliability": "secondary",
+    "fields": [
+      "current listing",
+      "parentage",
+      "generation"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "duke-vault-retailer",
+    "label": "Growers Seeds — Duke Diamond's Vault products",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/duke-diamonds-vault/",
+    "reliability": "secondary",
+    "fields": [
+      "current listing",
+      "parentage",
+      "catalog grouping"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "6-mill"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "burnout-chem"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/delta-blues/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "delta-blues"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-hoodoo-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hoodoo"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-pinebomb-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pinebomb"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-sangria-punch-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sangria-punch"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/screaming-eagle/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "screaming-eagle"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-stash-plant-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "stash-plant"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-supa-fly-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "supa-fly"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-north-end-punch-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "north-end-punch"
+    ]
+  }
+]

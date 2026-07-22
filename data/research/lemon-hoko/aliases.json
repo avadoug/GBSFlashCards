@@ -1,0 +1,24 @@
+[
+  {
+    "canonical": "Lemon Hoko Genetix",
+    "aliases": [
+      "Lemon Hoko",
+      "Lemonhoko"
+    ],
+    "kind": "company/person"
+  },
+  {
+    "canonical": "Berry White IX",
+    "aliases": [
+      "BerryWhite IX"
+    ],
+    "kind": "strain"
+  },
+  {
+    "canonical": "Blueberry IX",
+    "aliases": [
+      "Lemon Hoko's Blueberry IX"
+    ],
+    "kind": "strain"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "canonical": "Bless Coast Seeds",
+    "aliases": [
+      "Bless Coast"
+    ],
+    "kind": "company"
+  },
+  {
+    "canonical": "Samurai Sour",
+    "aliases": [
+      "Sour Samurai",
+      "Atom Splitter"
+    ],
+    "kind": "program/earlier name",
+    "notes": "Atom Splitter is retained as a historical alias pending evidence for a separate commercial release."
+  },
+  {
+    "canonical": "Titan",
+    "aliases": [
+      "Bless Coast Titan"
+    ],
+    "kind": "person",
+    "notes": "Do not conflate with THC Titan."
+  }
+]

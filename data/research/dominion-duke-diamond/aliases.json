@@ -1,0 +1,25 @@
+[
+  {
+    "canonical": "Duke Diamond",
+    "aliases": [
+      "Duke",
+      "Duke Diamond VA"
+    ],
+    "kind": "person"
+  },
+  {
+    "canonical": "Dominion Seed Company",
+    "aliases": [
+      "Dominion Seeds",
+      "Dominion"
+    ],
+    "kind": "company"
+  },
+  {
+    "canonical": "Stash Plant",
+    "aliases": [
+      "Stashplant"
+    ],
+    "kind": "strain"
+  }
+]

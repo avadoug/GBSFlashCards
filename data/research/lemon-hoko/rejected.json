@@ -1,0 +1,6 @@
+[
+  {
+    "candidate": "Duplicate storefront SKUs",
+    "reason": "Repeated inventory entries are merged into one canonical release record."
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "canonical": "Subcool",
+    "aliases": [
+      "SubCool",
+      "Subcool Seeds"
+    ],
+    "kind": "person/brand"
+  },
+  {
+    "canonical": "SubCool's The Dank",
+    "aliases": [
+      "The Dank",
+      "TGA Subcool"
+    ],
+    "kind": "company/era"
+  },
+  {
+    "canonical": "TGA Genetics",
+    "aliases": [
+      "TGA Seeds",
+      "The Green Avengers"
+    ],
+    "kind": "company/era"
+  },
+  {
+    "canonical": "Jack the Ripper",
+    "aliases": [
+      "JTR"
+    ],
+    "kind": "strain"
+  },
+  {
+    "canonical": "Jacks Cleaner",
+    "aliases": [
+      "Jack's Cleaner",
+      "JC"
+    ],
+    "kind": "strain"
+  },
+  {
+    "canonical": "Pandoras Box",
+    "aliases": [
+      "Pandora's Box"
+    ],
+    "kind": "strain"
+  }
+]

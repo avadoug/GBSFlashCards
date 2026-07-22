@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "bless-official-store",
+    "label": "Bless Coast Seeds — official store",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/",
+    "reliability": "primary",
+    "fields": [
+      "current releases",
+      "parentage",
+      "availability"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "id": "bless-official-story",
+    "label": "Bless Coast Seeds — Sour Samurai story",
+    "type": "official-breeder",
+    "url": "https://www.blesscoastseeds.com/sour-samurai/",
+    "reliability": "primary",
+    "fields": [
+      "program history",
+      "parentage",
+      "F1–F4 development",
+      "selection"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "samurai-sour-f1",
+      "samurai-sour-f2",
+      "samurai-sour-f3-9",
+      "sour-samurai-f3-reaper-edition",
+      "komorebi",
+      "sourrain",
+      "cheddar-wheel",
+      "titans-katana",
+      "hatchimaki-v2",
+      "sakura-sour",
+      "shibui",
+      "glujitsu",
+      "numbchuck",
+      "blueberry-samurai-v3",
+      "pineapple-splitter"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Breeder interviews and archives",
+    "type": "interview",
+    "recordIds": [
+      "jacks-cleaner"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Community grow reports",
+    "type": "community",
+    "recordIds": [
+      "vortex"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "id": "hoko-chemdd-f3",
+    "label": "Goose Seeds — Lemon Hoko Chem DD F3",
+    "type": "retailer-breeder-page",
+    "url": "https://gooseseeds.com/product/chem-dd-f3/",
+    "reliability": "secondary",
+    "fields": [
+      "Chem DD F3 existence",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "chem-dd-f3"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "dominion-current-retailer",
+    "label": "Growers Seeds — Dominion Seed Company products",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/dominion-seed-company/",
+    "reliability": "secondary",
+    "fields": [
+      "current listing",
+      "parentage",
+      "generation"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "id": "duke-vault-retailer",
+    "label": "Growers Seeds — Duke Diamond's Vault products",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/duke-diamonds-vault/",
+    "reliability": "secondary",
+    "fields": [
+      "current listing",
+      "parentage",
+      "catalog grouping"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "id": "hoko-retailer",
+    "label": "Growers Seeds — Lemon Hoko catalog",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/lemon-hoko/",
+    "reliability": "secondary",
+    "fields": [
+      "current releases",
+      "parentage",
+      "generation"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "hoko-chemdd-diary",
+    "label": "ICMag — Lemon Hoko Chem DD BX2 grow diary",
+    "type": "grow-report",
+    "url": "https://www.icmag.com/threads/lemonhokos-chem-dd-bx2.366471/",
+    "reliability": "community",
+    "fields": [
+      "Chem DD version existence",
+      "grow observations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "duke-leaf-profile",
+    "label": "Leaf Magazine — Duke Diamond profile",
+    "type": "breeder-interview",
+    "url": "https://leafmagazines.com/profiles/duke-diamond-of-dominion-seed-company/",
+    "reliability": "strong-secondary",
+    "fields": [
+      "biography",
+      "era",
+      "signature releases"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "id": "subcool-leafly-brand",
+    "label": "Leafly — The Dank / TGA brand history",
+    "type": "archive",
+    "url": "https://www.leafly.com/brands/tga-subcool",
+    "reliability": "secondary",
+    "fields": [
+      "history",
+      "era",
+      "collaborations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "id": "mzjill-about",
+    "label": "MzJill Genetics — About",
+    "type": "official-breeder",
+    "url": "https://mzjill.com/about/",
+    "reliability": "primary",
+    "fields": [
+      "creator attribution",
+      "Jillybean",
+      "Agent Orange",
+      "TGA history"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "jillybean",
+      "agent-orange"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sour-samurai-test-product/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "sour-samurai-f3-reaper-edition"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/hatchimaki/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "hatchimaki-v2"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sakura-sour-2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "sakura-sour"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/shibui/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "shibui"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/glujitsu/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "glujitsu"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/numbchuck/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "numbchuck"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/sakura-sour/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "blueberry-samurai-v3"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Official Bless Coast record",
+    "type": "official-product",
+    "url": "https://www.blesscoastseeds.com/product/pineapple-splitter/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "primary",
+    "recordIds": [
+      "pineapple-splitter"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "6-mill"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "burnout-chem"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/delta-blues/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "delta-blues"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-hoodoo-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hoodoo"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-pinebomb-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pinebomb"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-sangria-punch-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sangria-punch"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/screaming-eagle/dominion-seed-company",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "screaming-eagle"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-stash-plant-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "stash-plant"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-supa-fly-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "supa-fly"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/dominion-seed-company-north-end-punch-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "north-end-punch"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/vortex/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "apollo-13-bx",
+      "vortex"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/querkle/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cheese-quake",
+      "deep-purple",
+      "querkle"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/chernobyl/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chernobyl"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/jack-the-ripper/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jack-the-ripper"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-komorebi-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "komorebi"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-sourrain-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sourrain"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-cheddar-wheel-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cheddar-wheel"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/bless-coast-seeds-titans-katana-reg-10pk/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "titans-katana"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-berry-white-ix-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "berry-white-ix"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-black-sur-holy-weed-f2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "black-sur-holy-weed-f2"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-blueberry-bx3-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blueberry-bx3"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/lemon-hoko-blueberry-ix/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blueberry-ix"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-glue-dd-f2-reg-2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "glue-dd-f2"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://strainly.io/en/listings/488337-lemon-hoko-royal-chem-dd",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "royal-chem-dd"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "dominion-seedfinder-catalog",
+    "label": "SeedFinder — Dominion Seed Company catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/dominion-seed-company",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "6-mill",
+      "187",
+      "airborne-g13-x-ssgh",
+      "beefcake-d",
+      "burnout-chem",
+      "capital-g",
+      "chi-chis",
+      "deadband",
+      "defcon-4",
+      "delta-blues",
+      "dominion-diesel",
+      "dominion-g",
+      "dominion-skunk",
+      "figure-four",
+      "freebird",
+      "fruit-cup",
+      "g-rind",
+      "g13-skunk",
+      "gooey-x-c99",
+      "granny-skunk",
+      "helena",
+      "hoodoo",
+      "imperial-eagle",
+      "kief-sweat",
+      "kough-drop",
+      "local-h",
+      "local-skunk",
+      "lonestar-sharons-white-widow-x-cinderella-99",
+      "mountain-berry",
+      "munson",
+      "pinebomb",
+      "polecat-91-bx",
+      "princess-x-eugenics",
+      "punch-band",
+      "purple-dahlia",
+      "rowdy-chem",
+      "sangria-punch",
+      "savage-headband",
+      "screaming-eagle",
+      "shineapple",
+      "sis-skunk",
+      "skunkband",
+      "skunkband-v2",
+      "smuckhead",
+      "sour-skunk",
+      "stash-plant",
+      "supa-fly",
+      "swayze",
+      "princess-x-ssgh",
+      "gooey-x-afghani",
+      "og-kush-x-afghani",
+      "headband-x-afghani",
+      "lonestars-bgca-killer-queen-x-tga-vortex",
+      "black-lotus-x-tga-vortex",
+      "lavender-x-afghani",
+      "north-end-punch"
+    ],
+    "collections": [
+      "dominion-duke-diamond"
+    ]
+  },
+  {
+    "id": "hoko-seedfinder-catalog",
+    "label": "SeedFinder — Lemon Hoko Genetix catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/lemon-hoko-genetix",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "berry-white-ix",
+      "black-sur-holy-weed",
+      "black-sur-holy-weed-f2",
+      "blueberry-bx3",
+      "blueberry-ix",
+      "dogon",
+      "glue-dd-f2",
+      "chem-dd-f2",
+      "chem-dd-f3",
+      "chem-dd-bx1",
+      "chem-dd-bx2",
+      "royal-chem-dd"
+    ],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "subcool-seedfinder-catalog",
+    "label": "SeedFinder — SubCool's The Dank catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/database/breeder/subcools-the-dank",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "ace-of-spades",
+      "afgoo-overdrive",
+      "alchemy",
+      "apollo-13-bx",
+      "asian-persuasion",
+      "astro-queen",
+      "astroboy",
+      "astrosnaps",
+      "banana-jack-og",
+      "batgirl",
+      "blood-berries",
+      "blood-wreck",
+      "butter-cup",
+      "cheese-quake",
+      "chernobyl",
+      "chernobyl-f2",
+      "chernobyl-s1",
+      "cherry-cordial",
+      "cherry-lemonade",
+      "cherrygasm",
+      "conquistador",
+      "conspiracy-kush",
+      "cosmic-glue",
+      "cuvee",
+      "dairy-queen",
+      "dannyboy",
+      "dawggone-sour",
+      "deadlights",
+      "deep-purple",
+      "doc-holidaze",
+      "double-purple-doja",
+      "dr-who",
+      "galactic-jack",
+      "grape-inferno",
+      "grape-lime-ricky",
+      "hazy-margarita",
+      "hurkle",
+      "jack-skellington",
+      "jack-skellington-f2",
+      "jack-straw",
+      "jack-the-ripper-bx",
+      "jack-the-ripper-f3",
+      "jacked-up",
+      "jacks-cleaner",
+      "jacks-cleaner-2",
+      "jacks-cleaner-bx",
+      "jack-the-ripper",
+      "jesus-og",
+      "jesus-og-bx",
+      "jesus-og-s1",
+      "kaboom",
+      "kaffir-lime",
+      "killer-grape",
+      "lemon-freeze",
+      "lemon-stilton",
+      "locomotion",
+      "marionberry-kush",
+      "mickey-kush",
+      "my-sharona",
+      "neon-super-skunk",
+      "nepali-queen",
+      "nurse-jackie",
+      "old-family-querkle",
+      "ozzy",
+      "pandoras-box",
+      "pandoras-box-f2",
+      "peace-train",
+      "pennywise",
+      "pennywise-f2",
+      "pina-rita",
+      "pinesol-piff",
+      "professor-chaos",
+      "purgatory",
+      "qleaner",
+      "qrazy-train",
+      "qrazytrain-f2",
+      "quantum-k9",
+      "quantum-kush",
+      "queen-annes-revenge",
+      "querkle",
+      "querkle-bx",
+      "querkle-f2",
+      "qush",
+      "ripped-bubba",
+      "roswell",
+      "sangeria",
+      "scarlet-queen",
+      "slymer-bx",
+      "slymer-s1",
+      "sonic-screwdriver",
+      "space-bomb",
+      "space-candy",
+      "space-queen-subcool-release",
+      "space-queen-bx",
+      "spacedawg",
+      "spacetooth",
+      "sputnik-1-0",
+      "sputnik-2-0",
+      "strawberry-daiquiri",
+      "subcool-og",
+      "the-flav",
+      "the-rapture",
+      "the-third-dimension",
+      "the-void",
+      "third-dimension-f2",
+      "tinto-de-verano",
+      "uva",
+      "vanilla-tart",
+      "vortex",
+      "vortex-f2",
+      "zinger",
+      "jillybean",
+      "agent-orange"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "id": "bless-retailer",
+    "label": "Seeds Here Now — Bless Coast breeder page",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/breeders/bless-coast-seeds/",
+    "reliability": "secondary",
+    "fields": [
+      "older releases",
+      "parentage",
+      "breeder biography"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "id": "hoko-seedsherenow",
+    "label": "Seeds Here Now — Lemon Hoko products",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/product-category/cannabis-seed-breeders/lemon-hoko/",
+    "reliability": "secondary",
+    "fields": [
+      "current and archived releases",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "lemon-hoko"
+    ]
+  },
+  {
+    "id": "bless-older-retailer",
+    "label": "SeedsBreeders — Bless Coast catalog",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsbreeders.com/product-category/bless-coast-seeds/",
+    "reliability": "secondary",
+    "fields": [
+      "older releases",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "samurai-sour-f3-9"
+    ],
+    "collections": [
+      "bless-coast"
+    ]
+  },
+  {
+    "label": "TGA catalog descriptions",
+    "type": "catalog",
+    "recordIds": [
+      "vortex",
+      "jillybean"
+    ],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  },
+  {
+    "id": "subcool-legacy-profile",
+    "label": "Weedmaps — Subcool profile and TGA transition",
+    "type": "interview",
+    "url": "https://weedmaps.com/news/2021/02/who-is-subcool-the-legendary-cannabis-breeder-explained",
+    "reliability": "strong-secondary",
+    "fields": [
+      "history",
+      "rights transition",
+      "collaborations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [],
+    "collections": [
+      "subcool-tga-the-dank"
+    ]
+  }
+]

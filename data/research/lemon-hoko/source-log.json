@@ -1,0 +1,181 @@
+[
+  {
+    "id": "hoko-seedfinder-catalog",
+    "label": "SeedFinder — Lemon Hoko Genetix catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/lemon-hoko-genetix",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "berry-white-ix",
+      "black-sur-holy-weed",
+      "black-sur-holy-weed-f2",
+      "blueberry-bx3",
+      "blueberry-ix",
+      "dogon",
+      "glue-dd-f2",
+      "chem-dd-f2",
+      "chem-dd-f3",
+      "chem-dd-bx1",
+      "chem-dd-bx2",
+      "royal-chem-dd"
+    ]
+  },
+  {
+    "id": "hoko-retailer",
+    "label": "Growers Seeds — Lemon Hoko catalog",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product-category/lemon-hoko/",
+    "reliability": "secondary",
+    "fields": [
+      "current releases",
+      "parentage",
+      "generation"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "hoko-seedsherenow",
+    "label": "Seeds Here Now — Lemon Hoko products",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/product-category/cannabis-seed-breeders/lemon-hoko/",
+    "reliability": "secondary",
+    "fields": [
+      "current and archived releases",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "hoko-chemdd-diary",
+    "label": "ICMag — Lemon Hoko Chem DD BX2 grow diary",
+    "type": "grow-report",
+    "url": "https://www.icmag.com/threads/lemonhokos-chem-dd-bx2.366471/",
+    "reliability": "community",
+    "fields": [
+      "Chem DD version existence",
+      "grow observations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "hoko-chemdd-f3",
+    "label": "Goose Seeds — Lemon Hoko Chem DD F3",
+    "type": "retailer-breeder-page",
+    "url": "https://gooseseeds.com/product/chem-dd-f3/",
+    "reliability": "secondary",
+    "fields": [
+      "Chem DD F3 existence",
+      "parentage"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "chem-dd-f3"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-berry-white-ix-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "berry-white-ix"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-black-sur-holy-weed-f2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "black-sur-holy-weed-f2"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-blueberry-bx3-reg/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blueberry-bx3"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://seedsherenow.com/shop/lemon-hoko-blueberry-ix/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blueberry-ix"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://growersseeds.com/product/lemon-hoko-glue-dd-f2-reg-2/",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "glue-dd-f2"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "retailer-breeder-page",
+    "url": "https://strainly.io/en/listings/488337-lemon-hoko-royal-chem-dd",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "royal-chem-dd"
+    ]
+  }
+]

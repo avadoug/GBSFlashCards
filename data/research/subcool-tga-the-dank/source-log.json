@@ -1,0 +1,266 @@
+[
+  {
+    "id": "subcool-seedfinder-catalog",
+    "label": "SeedFinder — SubCool's The Dank catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/database/breeder/subcools-the-dank",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "catalog membership"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "ace-of-spades",
+      "afgoo-overdrive",
+      "alchemy",
+      "apollo-13-bx",
+      "asian-persuasion",
+      "astro-queen",
+      "astroboy",
+      "astrosnaps",
+      "banana-jack-og",
+      "batgirl",
+      "blood-berries",
+      "blood-wreck",
+      "butter-cup",
+      "cheese-quake",
+      "chernobyl",
+      "chernobyl-f2",
+      "chernobyl-s1",
+      "cherry-cordial",
+      "cherry-lemonade",
+      "cherrygasm",
+      "conquistador",
+      "conspiracy-kush",
+      "cosmic-glue",
+      "cuvee",
+      "dairy-queen",
+      "dannyboy",
+      "dawggone-sour",
+      "deadlights",
+      "deep-purple",
+      "doc-holidaze",
+      "double-purple-doja",
+      "dr-who",
+      "galactic-jack",
+      "grape-inferno",
+      "grape-lime-ricky",
+      "hazy-margarita",
+      "hurkle",
+      "jack-skellington",
+      "jack-skellington-f2",
+      "jack-straw",
+      "jack-the-ripper-bx",
+      "jack-the-ripper-f3",
+      "jacked-up",
+      "jacks-cleaner",
+      "jacks-cleaner-2",
+      "jacks-cleaner-bx",
+      "jack-the-ripper",
+      "jesus-og",
+      "jesus-og-bx",
+      "jesus-og-s1",
+      "kaboom",
+      "kaffir-lime",
+      "killer-grape",
+      "lemon-freeze",
+      "lemon-stilton",
+      "locomotion",
+      "marionberry-kush",
+      "mickey-kush",
+      "my-sharona",
+      "neon-super-skunk",
+      "nepali-queen",
+      "nurse-jackie",
+      "old-family-querkle",
+      "ozzy",
+      "pandoras-box",
+      "pandoras-box-f2",
+      "peace-train",
+      "pennywise",
+      "pennywise-f2",
+      "pina-rita",
+      "pinesol-piff",
+      "professor-chaos",
+      "purgatory",
+      "qleaner",
+      "qrazy-train",
+      "qrazytrain-f2",
+      "quantum-k9",
+      "quantum-kush",
+      "queen-annes-revenge",
+      "querkle",
+      "querkle-bx",
+      "querkle-f2",
+      "qush",
+      "ripped-bubba",
+      "roswell",
+      "sangeria",
+      "scarlet-queen",
+      "slymer-bx",
+      "slymer-s1",
+      "sonic-screwdriver",
+      "space-bomb",
+      "space-candy",
+      "space-queen-subcool-release",
+      "space-queen-bx",
+      "spacedawg",
+      "spacetooth",
+      "sputnik-1-0",
+      "sputnik-2-0",
+      "strawberry-daiquiri",
+      "subcool-og",
+      "the-flav",
+      "the-rapture",
+      "the-third-dimension",
+      "the-void",
+      "third-dimension-f2",
+      "tinto-de-verano",
+      "uva",
+      "vanilla-tart",
+      "vortex",
+      "vortex-f2",
+      "zinger",
+      "jillybean",
+      "agent-orange"
+    ]
+  },
+  {
+    "id": "subcool-leafly-brand",
+    "label": "Leafly — The Dank / TGA brand history",
+    "type": "archive",
+    "url": "https://www.leafly.com/brands/tga-subcool",
+    "reliability": "secondary",
+    "fields": [
+      "history",
+      "era",
+      "collaborations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "id": "mzjill-about",
+    "label": "MzJill Genetics — About",
+    "type": "official-breeder",
+    "url": "https://mzjill.com/about/",
+    "reliability": "primary",
+    "fields": [
+      "creator attribution",
+      "Jillybean",
+      "Agent Orange",
+      "TGA history"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": [
+      "jillybean",
+      "agent-orange"
+    ]
+  },
+  {
+    "id": "subcool-legacy-profile",
+    "label": "Weedmaps — Subcool profile and TGA transition",
+    "type": "interview",
+    "url": "https://weedmaps.com/news/2021/02/who-is-subcool-the-legendary-cannabis-breeder-explained",
+    "reliability": "strong-secondary",
+    "fields": [
+      "history",
+      "rights transition",
+      "collaborations"
+    ],
+    "accessedAt": "2026-07-22",
+    "recordIds": []
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/vortex/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "apollo-13-bx",
+      "vortex"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/querkle/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cheese-quake",
+      "deep-purple",
+      "querkle"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/chernobyl/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chernobyl"
+    ]
+  },
+  {
+    "label": "Breeder interviews and archives",
+    "type": "interview",
+    "recordIds": [
+      "jacks-cleaner"
+    ]
+  },
+  {
+    "label": "Release-specific catalog record",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/index.php/en/strain-info/jack-the-ripper/subcools-the-dank",
+    "accessedAt": "2026-07-22",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jack-the-ripper"
+    ]
+  },
+  {
+    "label": "TGA catalog descriptions",
+    "type": "catalog",
+    "recordIds": [
+      "vortex",
+      "jillybean"
+    ]
+  },
+  {
+    "label": "Community grow reports",
+    "type": "community",
+    "recordIds": [
+      "vortex"
+    ]
+  }
+]

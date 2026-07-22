@@ -1,0 +1,14 @@
+[
+  {
+    "candidate": "Chem DD F4",
+    "reason": "Tester activity was found, but a public release was not confirmed."
+  },
+  {
+    "candidate": "Blueberry BX4",
+    "reason": "Community references only; no stable catalog or product source confirmed."
+  },
+  {
+    "candidate": "HogDawg Alien",
+    "reason": "Community reference only; breeder attribution and release status remain unresolved."
+  }
+]

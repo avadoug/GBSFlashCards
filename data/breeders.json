@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "dominion-duke-diamond",
+    "name": "Duke Diamond / Dominion Seed Company",
+    "shortName": "Dominion",
+    "era": "Early online-forum era to current archive releases",
+    "thesis": "Southern U.S. preservation work centered on Chem, Skunk, G13/Hashplant, Afghani, and old clone-line material.",
+    "biography": "Duke Diamond was active in early grow forums, later helped the Brothers Grimm reboot, and built Dominion Seed Company around preserved and recombined old-school material.",
+    "sourceIds": [
+      "duke-leaf-profile",
+      "dominion-seedfinder-catalog"
+    ],
+    "signatureIds": [
+      "6-mill",
+      "burnout-chem",
+      "delta-blues",
+      "screaming-eagle",
+      "stash-plant"
+    ]
+  },
+  {
+    "slug": "subcool-tga-the-dank",
+    "name": "Subcool / TGA / The Dank",
+    "shortName": "The Dank",
+    "era": "TGA Genetics era through The Dank rebuild",
+    "thesis": "Flavor-forward American polyhybrids organized around Jacks Cleaner, Space Queen, Querkle, and related working families.",
+    "biography": "The archive spans multiple business eras and collaborators. Creator credit, TGA release history, later The Dank releases, and MzJill-authored lines are represented as separate facts.",
+    "sourceIds": [
+      "subcool-seedfinder-catalog",
+      "subcool-leafly-brand",
+      "mzjill-about",
+      "subcool-legacy-profile"
+    ],
+    "signatureIds": [
+      "jack-the-ripper",
+      "chernobyl",
+      "querkle",
+      "vortex",
+      "space-queen-subcool-release"
+    ]
+  },
+  {
+    "slug": "bless-coast",
+    "name": "Bless Coast Seeds",
+    "shortName": "Bless Coast",
+    "era": "Contemporary small-batch catalog",
+    "thesis": "A focused Sour Diesel and Samurai Sour program documented through line-work, selections, and current official releases.",
+    "biography": "Bless Coast's public record centers on Titan's Samurai Sour program, with a breeder-authored progression from the original composite cross through selected later generations.",
+    "sourceIds": [
+      "bless-official-story",
+      "bless-official-store",
+      "bless-retailer"
+    ],
+    "signatureIds": [
+      "samurai-sour-f1",
+      "samurai-sour-f2",
+      "sour-samurai-f3-reaper-edition"
+    ]
+  },
+  {
+    "slug": "lemon-hoko",
+    "name": "Lemon Hoko Genetix",
+    "shortName": "Lemon Hoko",
+    "era": "Forum-era preservation work through current retail archives",
+    "thesis": "Compact catalog work around Blueberry and Chem DD families, with release/version evidence scattered across retailers and grow forums.",
+    "biography": "Lemon Hoko's public catalog is smaller and less centralized. Records therefore distinguish stable catalog proof from community-only version references.",
+    "sourceIds": [
+      "hoko-seedfinder-catalog",
+      "hoko-retailer",
+      "hoko-chemdd-diary"
+    ],
+    "signatureIds": [
+      "blueberry-bx3",
+      "chem-dd-f3",
+      "berry-white-ix"
+    ]
+  }
+]

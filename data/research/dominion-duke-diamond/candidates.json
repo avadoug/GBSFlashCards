@@ -1,0 +1,572 @@
+[
+  {
+    "submittedName": "6 Mill",
+    "canonicalId": "6-mill",
+    "canonicalName": "6 Mill",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "187",
+    "canonicalId": "187",
+    "canonicalName": "187",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Airborne G13 x SSGH",
+    "canonicalId": "airborne-g13-x-ssgh",
+    "canonicalName": "Airborne G13 x SSGH",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Beefcake D",
+    "canonicalId": "beefcake-d",
+    "canonicalName": "Beefcake D",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Burnout Chem",
+    "canonicalId": "burnout-chem",
+    "canonicalName": "Burnout Chem",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Capital G",
+    "canonicalId": "capital-g",
+    "canonicalName": "Capital G",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Chi-Chi's",
+    "canonicalId": "chi-chis",
+    "canonicalName": "Chi-Chi's",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Deadband",
+    "canonicalId": "deadband",
+    "canonicalName": "Deadband",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Defcon 4",
+    "canonicalId": "defcon-4",
+    "canonicalName": "Defcon 4",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Delta Blues",
+    "canonicalId": "delta-blues",
+    "canonicalName": "Delta Blues",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/delta-blues/dominion-seed-company",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Dominion Diesel",
+    "canonicalId": "dominion-diesel",
+    "canonicalName": "Dominion Diesel",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Dominion G",
+    "canonicalId": "dominion-g",
+    "canonicalName": "Dominion G",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Dominion Skunk",
+    "canonicalId": "dominion-skunk",
+    "canonicalName": "Dominion Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Figure Four",
+    "canonicalId": "figure-four",
+    "canonicalName": "Figure Four",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "FreeBird",
+    "canonicalId": "freebird",
+    "canonicalName": "FreeBird",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Fruit Cup",
+    "canonicalId": "fruit-cup",
+    "canonicalName": "Fruit Cup",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "G-Rind",
+    "canonicalId": "g-rind",
+    "canonicalName": "G-Rind",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "G13 Skunk",
+    "canonicalId": "g13-skunk",
+    "canonicalName": "G13 Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Gooey x C99",
+    "canonicalId": "gooey-x-c99",
+    "canonicalName": "Gooey x C99",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Granny Skunk",
+    "canonicalId": "granny-skunk",
+    "canonicalName": "Granny Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Helena",
+    "canonicalId": "helena",
+    "canonicalName": "Helena",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Hoodoo",
+    "canonicalId": "hoodoo",
+    "canonicalName": "Hoodoo",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-hoodoo-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Imperial Eagle",
+    "canonicalId": "imperial-eagle",
+    "canonicalName": "Imperial Eagle",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Kief Sweat",
+    "canonicalId": "kief-sweat",
+    "canonicalName": "Kief Sweat",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Kough Drop",
+    "canonicalId": "kough-drop",
+    "canonicalName": "Kough Drop",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Local H",
+    "canonicalId": "local-h",
+    "canonicalName": "Local H",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Local Skunk",
+    "canonicalId": "local-skunk",
+    "canonicalName": "Local Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Lonestar Sharon's White Widow x Cinderella 99",
+    "canonicalId": "lonestar-sharons-white-widow-x-cinderella-99",
+    "canonicalName": "Lonestar Sharon's White Widow x Cinderella 99",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Mountain Berry",
+    "canonicalId": "mountain-berry",
+    "canonicalName": "Mountain Berry",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Munson",
+    "canonicalId": "munson",
+    "canonicalName": "Munson",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "PineBomb",
+    "canonicalId": "pinebomb",
+    "canonicalName": "PineBomb",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-pinebomb-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Polecat 91 BX",
+    "canonicalId": "polecat-91-bx",
+    "canonicalName": "Polecat 91 BX",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Princess X Eugenics",
+    "canonicalId": "princess-x-eugenics",
+    "canonicalName": "Princess X Eugenics",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Punch Band",
+    "canonicalId": "punch-band",
+    "canonicalName": "Punch Band",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Purple Dahlia",
+    "canonicalId": "purple-dahlia",
+    "canonicalName": "Purple Dahlia",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Rowdy Chem",
+    "canonicalId": "rowdy-chem",
+    "canonicalName": "Rowdy Chem",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Sangria Punch",
+    "canonicalId": "sangria-punch",
+    "canonicalName": "Sangria Punch",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-sangria-punch-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Savage Headband",
+    "canonicalId": "savage-headband",
+    "canonicalName": "Savage Headband",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Screaming Eagle",
+    "canonicalId": "screaming-eagle",
+    "canonicalName": "Screaming Eagle",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/screaming-eagle/dominion-seed-company",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Shineapple",
+    "canonicalId": "shineapple",
+    "canonicalName": "Shineapple",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Sis Skunk",
+    "canonicalId": "sis-skunk",
+    "canonicalName": "Sis Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Skunkband",
+    "canonicalId": "skunkband",
+    "canonicalName": "Skunkband",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Skunkband V2",
+    "canonicalId": "skunkband-v2",
+    "canonicalName": "Skunkband V2",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "SmuckHead",
+    "canonicalId": "smuckhead",
+    "canonicalName": "SmuckHead",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Sour Skunk",
+    "canonicalId": "sour-skunk",
+    "canonicalName": "Sour Skunk",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Stash Plant",
+    "canonicalId": "stash-plant",
+    "canonicalName": "Stash Plant",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-stash-plant-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Supa Fly",
+    "canonicalId": "supa-fly",
+    "canonicalName": "Supa Fly",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-supa-fly-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Swayze",
+    "canonicalId": "swayze",
+    "canonicalName": "Swayze",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Princess x SSGH",
+    "canonicalId": "princess-x-ssgh",
+    "canonicalName": "Princess x SSGH",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Gooey x Afghani",
+    "canonicalId": "gooey-x-afghani",
+    "canonicalName": "Gooey x Afghani",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "OG Kush x Afghani",
+    "canonicalId": "og-kush-x-afghani",
+    "canonicalName": "OG Kush x Afghani",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Headband x Afghani",
+    "canonicalId": "headband-x-afghani",
+    "canonicalName": "Headband x Afghani",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Lonestar's BGCA Killer Queen x TGA Vortex",
+    "canonicalId": "lonestars-bgca-killer-queen-x-tga-vortex",
+    "canonicalName": "Lonestar's BGCA Killer Queen x TGA Vortex",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Black Lotus x TGA Vortex",
+    "canonicalId": "black-lotus-x-tga-vortex",
+    "canonicalName": "Black Lotus x TGA Vortex",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "Lavender x Afghani",
+    "canonicalId": "lavender-x-afghani",
+    "canonicalName": "Lavender x Afghani",
+    "decision": "accepted",
+    "documentationTier": "C",
+    "evidence": [
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  },
+  {
+    "submittedName": "North End Punch",
+    "canonicalId": "north-end-punch",
+    "canonicalName": "North End Punch",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://growersseeds.com/product/dominion-seed-company-north-end-punch-reg/",
+      "https://seedfinder.eu/en/database/breeder/dominion-seed-company"
+    ]
+  }
+]

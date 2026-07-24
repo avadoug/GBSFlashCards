@@ -2,7 +2,15 @@ import rawBreeders from "@/data/breeders.json";
 import { strains } from "./strains";
 
 export type BreederProfile = {
-  slug: "dominion-duke-diamond" | "subcool-tga-the-dank" | "bless-coast" | "lemon-hoko";
+  slug:
+    | "dominion-duke-diamond"
+    | "subcool-tga-the-dank"
+    | "bless-coast"
+    | "lemon-hoko"
+    | "norstar-genetics"
+    | "thunderfudge"
+    | "blackbird-preservations"
+    | "rare-dankness";
   name: string;
   shortName: string;
   era: string;

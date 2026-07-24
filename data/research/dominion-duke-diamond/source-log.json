@@ -11,7 +11,7 @@
       "breeder",
       "catalog membership"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "6-mill",
       "187",
@@ -82,7 +82,7 @@
       "era",
       "signature releases"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
@@ -96,7 +96,7 @@
       "parentage",
       "generation"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
@@ -110,14 +110,14 @@
       "parentage",
       "catalog grouping"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -133,7 +133,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -149,7 +149,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/delta-blues/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -165,7 +165,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-hoodoo-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -181,7 +181,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-pinebomb-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -197,7 +197,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-sangria-punch-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -213,7 +213,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/screaming-eagle/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -229,7 +229,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-stash-plant-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -245,7 +245,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-supa-fly-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -261,7 +261,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-north-end-punch-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",

@@ -1,0 +1,273 @@
+[
+  {
+    "id": "blackbird-preservations-seedfinder-catalog",
+    "label": "SeedFinder — Blackbird Preservations catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/blackbird-preservations",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "alberni-borealis",
+      "baghlan-hindu",
+      "don-wimble",
+      "hazel-thai",
+      "headlites",
+      "lemon-aurora",
+      "nh-21-x-mm",
+      "northern-lights-5-blackbird",
+      "papyrus",
+      "puna-lites",
+      "purple-pakistani-chitral",
+      "ruby-vine-afghani",
+      "special-kay",
+      "thai-paki-chitral-sawgrass",
+      "vietnamese-black"
+    ]
+  },
+  {
+    "label": "SeedFinder — Alberni Borealis lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/alberni-borealis/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "alberni-borealis"
+    ]
+  },
+  {
+    "label": "SeedFinder — Baghlan Hindu lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/baghlan-hindu/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "baghlan-hindu"
+    ]
+  },
+  {
+    "label": "SeedFinder — Don Wimble lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/don-wimble/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "don-wimble"
+    ]
+  },
+  {
+    "label": "SeedFinder — Hazel Thai lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/hazel-thai/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hazel-thai"
+    ]
+  },
+  {
+    "label": "SeedFinder — HeadLites lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/headlites/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "headlites"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lemon Aurora lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-aurora/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-aurora"
+    ]
+  },
+  {
+    "label": "SeedFinder — NH 21 x MM lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/nh-21-x-mm/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "nh-21-x-mm"
+    ]
+  },
+  {
+    "label": "SeedFinder — Northern Lights #5 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/northern-lights-nr5/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "northern-lights-5-blackbird"
+    ]
+  },
+  {
+    "label": "SeedFinder — Papyrus lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/papyrus/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "papyrus"
+    ]
+  },
+  {
+    "label": "SeedFinder — Puna Lites lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/puna-lites/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "puna-lites"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Pakistani Chitral lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-pakistani-chitral/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-pakistani-chitral"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ruby Vine Afghani lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ruby-vine-afghani/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ruby-vine-afghani"
+    ]
+  },
+  {
+    "label": "SeedFinder — Special Kay lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/special-kay/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "special-kay"
+    ]
+  },
+  {
+    "label": "SeedFinder — Thai-Paki Chitral - Sawgrass lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/thai-paki-chitral-sawgrass/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "thai-paki-chitral-sawgrass"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vietnamese Black lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vietnamese-black/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vietnamese-black"
+    ]
+  }
+]

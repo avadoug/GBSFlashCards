@@ -1,0 +1,552 @@
+[
+  {
+    "submittedName": "AC/DC",
+    "canonicalId": "ac-dc",
+    "canonicalName": "AC/DC",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/ac-dc/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Alcatraz OG",
+    "canonicalId": "alcatraz-og",
+    "canonicalName": "Alcatraz OG",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/alcatraz-og/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Amnesia OG",
+    "canonicalId": "amnesia-og",
+    "canonicalName": "Amnesia OG",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/amnesia-og/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Apollo 13",
+    "canonicalId": "apollo-13-norstar",
+    "canonicalName": "Apollo 13",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/apollo-13/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Banana Cream Pie",
+    "canonicalId": "banana-cream-pie",
+    "canonicalName": "Banana Cream Pie",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/banana-cream-pie/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Banana D",
+    "canonicalId": "banana-d",
+    "canonicalName": "Banana D",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/banana-d/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Banana Danish",
+    "canonicalId": "banana-danish",
+    "canonicalName": "Banana Danish",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/banana-danish/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Big City Lights",
+    "canonicalId": "big-city-lights",
+    "canonicalName": "Big City Lights",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/big-city-lights/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Blood Moon",
+    "canonicalId": "blood-moon",
+    "canonicalName": "Blood Moon",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/blood-moon/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Bogota Breeze",
+    "canonicalId": "bogota-breeze",
+    "canonicalName": "Bogota Breeze",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/bogota-breeze/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Bubba Fresh",
+    "canonicalId": "bubba-fresh",
+    "canonicalName": "Bubba Fresh",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/bubba-fresh/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Bushman Kush",
+    "canonicalId": "bushman-kush",
+    "canonicalName": "Bushman Kush",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/bushman-kush/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Chelumbian",
+    "canonicalId": "chelumbian",
+    "canonicalName": "Chelumbian",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/chelumbian/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Colombian Thunder Funk",
+    "canonicalId": "colombian-thunder-funk",
+    "canonicalName": "Colombian Thunder Funk",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/colombian-thunder-funk/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Da-Zinn-Che",
+    "canonicalId": "da-zinn-che",
+    "canonicalName": "Da-Zinn-Che",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/da-zinn-che/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Darkwood",
+    "canonicalId": "darkwood",
+    "canonicalName": "Darkwood",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/darkwood/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Dirty Little Secret",
+    "canonicalId": "dirty-little-secret",
+    "canonicalName": "Dirty Little Secret",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/dirty-little-secret/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Evil Intentions",
+    "canonicalId": "evil-intentions",
+    "canonicalName": "Evil Intentions",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/evil-intentions/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Exodus (UK) Cheese",
+    "canonicalId": "exodus-uk-cheese",
+    "canonicalName": "Exodus (UK) Cheese",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/exodus-uk-cheese/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Frisco OG",
+    "canonicalId": "frisco-og",
+    "canonicalName": "Frisco OG",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/frisco-og/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Frisco Snaps",
+    "canonicalId": "frisco-snaps",
+    "canonicalName": "Frisco Snaps",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/frisco-snaps/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Frost Berries",
+    "canonicalId": "frost-berries",
+    "canonicalName": "Frost Berries",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/frost-berries/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Golden Child",
+    "canonicalId": "golden-child",
+    "canonicalName": "Golden Child",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/golden-child/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Goo-Che",
+    "canonicalId": "goo-che",
+    "canonicalName": "Goo-Che",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/goo-che/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Grand Poobah",
+    "canonicalId": "grand-poobah",
+    "canonicalName": "Grand Poobah",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/grand-poobah/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Grayskull",
+    "canonicalId": "grayskull",
+    "canonicalName": "Grayskull",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/grayskull/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Harlequin",
+    "canonicalId": "harlequin",
+    "canonicalName": "Harlequin",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/harlequin/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Inca Gold",
+    "canonicalId": "inca-gold",
+    "canonicalName": "Inca Gold",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/inca-gold/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Jungle Scout",
+    "canonicalId": "jungle-scout",
+    "canonicalName": "Jungle Scout",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/jungle-scout/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Kogi",
+    "canonicalId": "kogi",
+    "canonicalName": "Kogi",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/kogi/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Kong OG",
+    "canonicalId": "kong-og",
+    "canonicalName": "Kong OG",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/kong-og/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Lands End",
+    "canonicalId": "lands-end",
+    "canonicalName": "Lands End",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/lands-end/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Lost Moon",
+    "canonicalId": "lost-moon",
+    "canonicalName": "Lost Moon",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/lost-moon/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Merlin’s Tonic",
+    "canonicalId": "merlins-tonic",
+    "canonicalName": "Merlin’s Tonic",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/merlins-tonic/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Midnight Fire",
+    "canonicalId": "midnight-fire",
+    "canonicalName": "Midnight Fire",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/midnight-fire/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Midwife",
+    "canonicalId": "midwife",
+    "canonicalName": "Midwife",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/midwife/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Octane OG",
+    "canonicalId": "octane-og",
+    "canonicalName": "Octane OG",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/octane-og/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Panama Jack",
+    "canonicalId": "panama-jack",
+    "canonicalName": "Panama Jack",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/panama-jack/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Pretty Wicked",
+    "canonicalId": "pretty-wicked",
+    "canonicalName": "Pretty Wicked",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/pretty-wicked/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Qookies",
+    "canonicalId": "qookies",
+    "canonicalName": "Qookies",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/qookies/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Queen of Hearts",
+    "canonicalId": "queen-of-hearts",
+    "canonicalName": "Queen of Hearts",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/queen-of-hearts/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Sour Chelumbian",
+    "canonicalId": "sour-chelumbian",
+    "canonicalName": "Sour Chelumbian",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/sour-chelumbian/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Stilton",
+    "canonicalId": "stilton",
+    "canonicalName": "Stilton",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/stilton/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Sugar Kiss",
+    "canonicalId": "sugar-kiss",
+    "canonicalName": "Sugar Kiss",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/sugar-kiss/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "The Maestro",
+    "canonicalId": "the-maestro",
+    "canonicalName": "The Maestro",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/the-maestro/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "The Mission",
+    "canonicalId": "the-mission",
+    "canonicalName": "The Mission",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/the-mission/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Tsoukalos",
+    "canonicalId": "tsoukalos",
+    "canonicalName": "Tsoukalos",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/tsoukalos/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Vintner's Moonshine",
+    "canonicalId": "vintners-moonshine",
+    "canonicalName": "Vintner's Moonshine",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/vintners-moonshine/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "West Coast Sour Diesel",
+    "canonicalId": "west-coast-sour-diesel",
+    "canonicalName": "West Coast Sour Diesel",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/west-coast-sour-diesel/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  },
+  {
+    "submittedName": "Zapotec",
+    "canonicalId": "zapotec",
+    "canonicalName": "Zapotec",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/zapotec/norstar-genetics",
+      "https://seedfinder.eu/en/database/breeder/norstar-genetics"
+    ]
+  }
+]

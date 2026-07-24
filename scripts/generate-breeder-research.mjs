@@ -2,8 +2,11 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = process.cwd();
-const reviewedAt = "2026-07-22";
+const reviewedAt = "2026-07-23";
 const base = JSON.parse(fs.readFileSync(path.join(root, "data", "strains.json"), "utf8"));
+const requestedBreederResearch = JSON.parse(
+  fs.readFileSync(path.join(root, "data", "research", "requested-breeder-lineages.json"), "utf8"),
+);
 
 const catalogs = {
   "dominion-duke-diamond": {
@@ -227,6 +230,100 @@ const catalogs = {
   }
 };
 
+const requestedCollectionProfiles = {
+  "norstar-genetics": {
+    label: "NorStar Genetics",
+    breeder: "NorStar Genetics",
+    era: "California medical era to current genetics library",
+    thesis: "California catalog work spanning classic clone preservation, OG families, Colombian influence, and wide-ranging hybrid projects.",
+    biography: "NorStar describes its program as a continuing hunt built around testing, elite acquisition, and breeding for California's medical community. The collection includes both new hybrids and preservation-style releases, so attribution roles remain explicit.",
+    aliases: [{ canonical: "NorStar Genetics", aliases: ["Norstar Genetics", "NorStar"], kind: "company" }],
+    signatureIds: ["alcatraz-og", "bubba-fresh", "frisco-og", "grand-poobah", "the-mission"],
+    extraSources: [
+      {
+        id: "norstar-official-about",
+        label: "NorStar Genetics — About",
+        type: "official-breeder",
+        url: "https://norstargenetics.com/about/",
+        reliability: "primary",
+        fields: ["breeder biography", "program scope", "California medical context"],
+        accessedAt: reviewedAt,
+      },
+    ],
+  },
+  thunderfudge: {
+    label: "Thunderfudge",
+    breeder: "Thunderfudge",
+    era: "Contemporary U.S. hybrid catalog",
+    thesis: "Chem, Sour Larry, WiFi, strawberry, haze, and fire-family combinations organized around recurring working lines.",
+    biography: "Thunderfudge's public catalog is reconstructed from release-specific lineage pages and archive indexes. The records preserve compound parentage exactly as published rather than simplifying multi-stage crosses.",
+    aliases: [{ canonical: "Thunderfudge", aliases: ["Thunder Fudge"], kind: "breeder/brand" }],
+    signatureIds: ["black-fire-alien-strawberry", "couch-slouch", "super-lemon-haze-bx1", "ultimate-chem-08", "ultrabrite"],
+    extraSources: [
+      {
+        id: "thunderfudge-thcfarmer-catalog",
+        label: "THCFarmer — Thunderfudge catalog profile",
+        type: "archive",
+        url: "https://www.thcfarmer.com/strains/breeders/thunderfudge.2290/",
+        reliability: "secondary",
+        fields: ["catalog count", "breeder attribution"],
+        accessedAt: reviewedAt,
+      },
+    ],
+  },
+  "blackbird-preservations": {
+    label: "Blackbird Preservations",
+    breeder: "Blackbird Preservations",
+    era: "Contemporary preservation archive",
+    thesis: "Preservation-minded releases spanning classic clones, heirlooms, landrace-derived accessions, and old building-block genetics.",
+    biography: "Blackbird frames the work as preservation: seed increases and carefully documented releases intended to keep classic, heirloom, farmed, and clone-only material available. Records therefore use preservation attribution instead of implying original creation.",
+    aliases: [{ canonical: "Blackbird Preservations", aliases: ["Blackbird"], kind: "preservation project" }],
+    signatureIds: ["alberni-borealis", "baghlan-hindu", "northern-lights-5-blackbird", "purple-pakistani-chitral", "vietnamese-black"],
+    extraSources: [],
+  },
+  "rare-dankness": {
+    label: "Rare Dankness",
+    breeder: "Rare Dankness Seeds",
+    era: "Colorado medical era to current international archive",
+    thesis: "Colorado breeding built around Rare Dankness males, Ghost OG, Chem, Triangle Kush, Afghani, and long-flowering haze families.",
+    biography: "Founded in 2010, Rare Dankness describes a program built from decades of collected genetics and selected males designed to complement elite mothers. The archive distinguishes the Rare Dankness #1 and #2 breeding lines and preserves numbered releases separately.",
+    aliases: [{ canonical: "Rare Dankness", aliases: ["Rare Dankness Seeds", "RD Genetics"], kind: "company/brand" }],
+    signatureIds: ["501st-og", "ghost-train-haze-1", "rare-darkness", "scotts-og", "venom-og"],
+    extraSources: [
+      {
+        id: "rare-dankness-official-about",
+        label: "Rare Dankness — official history",
+        type: "official-breeder",
+        url: "https://raredankness.com/",
+        reliability: "primary",
+        fields: ["founding year", "breeding philosophy", "company history"],
+        accessedAt: reviewedAt,
+      },
+    ],
+  },
+};
+
+for (const collection of requestedBreederResearch.collections) {
+  const profile = requestedCollectionProfiles[collection.collectionSlug];
+  catalogs[collection.collectionSlug] = {
+    label: profile.label,
+    breeder: profile.breeder,
+    names: collection.accepted.map((item) => item.name),
+    sources: [
+      {
+        id: `${collection.collectionSlug}-seedfinder-catalog`,
+        label: `SeedFinder — ${profile.label} catalog`,
+        type: "seed-database",
+        url: collection.catalogUrl,
+        reliability: "strong-secondary",
+        fields: ["existence", "name", "catalog membership", "lineage index"],
+        accessedAt: reviewedAt,
+      },
+      ...profile.extraSources,
+    ],
+  };
+}
+
 const aliases = {
   "dominion-duke-diamond": [
     { canonical: "Duke Diamond", aliases: ["Duke", "Duke Diamond VA"], kind: "person" },
@@ -289,6 +386,16 @@ const rejected = {
   ]
 };
 
+for (const collection of requestedBreederResearch.collections) {
+  const profile = requestedCollectionProfiles[collection.collectionSlug];
+  aliases[collection.collectionSlug] = profile.aliases;
+  unresolved[collection.collectionSlug] = collection.unresolved.map((item) => ({
+    candidate: item.name,
+    reason: `${item.reason}${item.lineageDisplay ? ` Published lineage: ${item.lineageDisplay}.` : ""}`,
+  }));
+  rejected[collection.collectionSlug] = [];
+}
+
 const details = {
   "6 Mill": { parents: ["Local H", "Screaming Eagle"], generation: "F1", tier: "B", signature: true, sourcePath: "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company", flowering: [60, 68], aroma: ["sour grapefruit", "gas", "skunk"], overview: "A Dominion release pairing Local H with Screaming Eagle, documented as a stretching, resin-forward line with sour grapefruit and fuel notes." },
   "Burnout Chem": { parents: ["Chemdog D", "Dominion Skunk"], generation: "F1", tier: "B", signature: true, sourcePath: "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company", flowering: [60, 68], aroma: ["burnt rubber", "asphalt", "chem"], overview: "A Chemdog D and Dominion Skunk cross documented by Dominion with lateral branching and a burnt-rubber chem profile." },
@@ -337,6 +444,33 @@ const details = {
   "Royal Chem DD": { parents: ["Chem 91 × Deadhead OG", "Chem DD F3"], tier: "C", sourcePath: "https://strainly.io/en/listings/488337-lemon-hoko-royal-chem-dd" }
 };
 
+const requestedDetails = new Map();
+for (const collection of requestedBreederResearch.collections) {
+  const profile = requestedCollectionProfiles[collection.collectionSlug];
+  for (const item of collection.accepted) {
+    const isPreservation =
+      collection.collectionSlug === "blackbird-preservations"
+      || (item.parents.length === 1 && item.parents[0].toLowerCase() === item.name.toLowerCase());
+    requestedDetails.set(`${collection.collectionSlug}:${item.name}`, {
+      parents: item.parents,
+      parentageDisplay: item.lineageDisplay,
+      tier: "B",
+      signature: profile.signatureIds.includes(slugify(item.name)),
+      sourcePath: item.url,
+      sourceLabel: `SeedFinder — ${item.name} lineage`,
+      sourceType: "seed-database",
+      sourceReliability: "strong-secondary",
+      overview: `A lineage-backed ${profile.label} catalog record. Direct parentage is preserved as published by the cited release archive.`,
+      attributions: [{ name: profile.breeder, role: isPreservation ? "preservation" : "breeder" }],
+      releaseStatus: isPreservation ? "preservation" : "released",
+      catalogGroup: collection.collectionSlug === "blackbird-preservations" ? "preservation archive" : "lineage-backed catalog",
+      ...(item.parents.length > 2
+        ? { notes: "The source renders this as a compound cross; the display lineage is preserved without forcing it into a two-parent structure." }
+        : {}),
+    });
+  }
+}
+
 function slugify(value) {
   return value.toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
@@ -356,27 +490,32 @@ function baselineId(name, catalogSlug) {
 }
 
 function makeRecord(name, catalogSlug, catalog) {
-  const detail = details[name] || {};
+  const detail = requestedDetails.get(`${catalogSlug}:${name}`) || details[name] || {};
   const tier = detail.tier || "C";
   const source = detail.sourcePath
     ? {
-        label: detail.sourcePath.includes("blesscoastseeds.com") ? "Official Bless Coast record" : "Release-specific catalog record",
-        type: detail.sourcePath.includes("blesscoastseeds.com") ? "official-product" : detail.sourcePath.includes("seedfinder") ? "seed-database" : "retailer-breeder-page",
+        label: detail.sourceLabel || (detail.sourcePath.includes("blesscoastseeds.com") ? "Official Bless Coast record" : "Release-specific catalog record"),
+        type: detail.sourceType || (detail.sourcePath.includes("blesscoastseeds.com") ? "official-product" : detail.sourcePath.includes("seedfinder") ? "seed-database" : "retailer-breeder-page"),
         url: detail.sourcePath,
         accessedAt: reviewedAt,
-        fields: ["existence", "name", "breeder", ...(detail.parents ? ["parentage"] : [])],
-        reliability: detail.sourcePath.includes("blesscoastseeds.com") ? "primary" : "strong-secondary"
+        fields: ["existence", "name", "breeder", ...(detail.parents || detail.parentageDisplay ? ["parentage"] : [])],
+        reliability: detail.sourceReliability || (detail.sourcePath.includes("blesscoastseeds.com") ? "primary" : "strong-secondary")
       }
     : publicSource(catalog.sources[0]);
   const firstSource = publicSource(catalog.sources[0]);
   const existingId = detail.id || baselineId(name, catalogSlug);
   const existing = base.find((record) => record.id === existingId);
   const breeder = detail.breeder || catalog.breeder;
-  const parentage = detail.parents
+  const parentage = detail.parents || detail.parentageDisplay
     ? {
-        mother: { name: detail.parents[0], type: "strain" },
-        father: { name: detail.parents[1], type: "strain" },
-        display: detail.parents[0] + " × " + detail.parents[1],
+        ...(detail.parents?.length === 1 ? { mother: { name: detail.parents[0], type: "strain" } } : {}),
+        ...(detail.parents?.length === 2
+          ? {
+              mother: { name: detail.parents[0], type: "strain" },
+              father: { name: detail.parents[1], type: "strain" },
+            }
+          : {}),
+        display: detail.parentageDisplay || detail.parents.join(" × "),
         ...(detail.notes ? { notes: detail.notes } : {})
       }
     : {
@@ -412,15 +551,15 @@ function makeRecord(name, catalogSlug, catalog) {
     collection: {
       slug: catalogSlug,
       label: catalog.label,
-      catalogGroup: catalogSlug === "dominion-duke-diamond" && !catalog.names.slice(0, 48).includes(name) ? "Duke Diamond's Vault / current retail" : catalogSlug === "subcool-tga-the-dank" && ["Jillybean", "Agent Orange"].includes(name) ? "TGA collaboration / MzJill authorship" : "master catalog",
+      catalogGroup: detail.catalogGroup || (catalogSlug === "dominion-duke-diamond" && !catalog.names.slice(0, 48).includes(name) ? "Duke Diamond's Vault / current retail" : catalogSlug === "subcool-tga-the-dank" && ["Jillybean", "Agent Orange"].includes(name) ? "TGA collaboration / MzJill authorship" : "master catalog"),
       signature: Boolean(detail.signature)
     },
-    releaseStatus: "released",
+    releaseStatus: detail.releaseStatus || "released",
     fieldConfidence: {
       existence: tier === "A" ? "breeder-verified" : "strongly-documented",
       name: tier === "A" ? "breeder-verified" : "strongly-documented",
       breeder: tier === "A" ? "breeder-verified" : "strongly-documented",
-      parentage: detail.parents ? (tier === "A" ? "breeder-verified" : "strongly-documented") : "unknown",
+      parentage: detail.parents || detail.parentageDisplay ? (tier === "A" ? "breeder-verified" : "strongly-documented") : "unknown",
       version: detail.generation ? (tier === "A" ? "breeder-verified" : "strongly-documented") : "unknown",
       history: "unknown",
       cultivation: detail.flowering ? "strongly-documented" : "unknown",
@@ -507,6 +646,46 @@ writeJson("data/breeders.json", [
     biography: "Lemon Hoko's public catalog is smaller and less centralized. Records therefore distinguish stable catalog proof from community-only version references.",
     sourceIds: ["hoko-seedfinder-catalog", "hoko-retailer", "hoko-chemdd-diary"],
     signatureIds: ["blueberry-bx3", "chem-dd-f3", "berry-white-ix"]
+  },
+  {
+    slug: "norstar-genetics",
+    name: requestedCollectionProfiles["norstar-genetics"].label,
+    shortName: "NorStar",
+    era: requestedCollectionProfiles["norstar-genetics"].era,
+    thesis: requestedCollectionProfiles["norstar-genetics"].thesis,
+    biography: requestedCollectionProfiles["norstar-genetics"].biography,
+    sourceIds: ["norstar-genetics-seedfinder-catalog", "norstar-official-about"],
+    signatureIds: requestedCollectionProfiles["norstar-genetics"].signatureIds
+  },
+  {
+    slug: "thunderfudge",
+    name: requestedCollectionProfiles.thunderfudge.label,
+    shortName: "Thunderfudge",
+    era: requestedCollectionProfiles.thunderfudge.era,
+    thesis: requestedCollectionProfiles.thunderfudge.thesis,
+    biography: requestedCollectionProfiles.thunderfudge.biography,
+    sourceIds: ["thunderfudge-seedfinder-catalog", "thunderfudge-thcfarmer-catalog"],
+    signatureIds: requestedCollectionProfiles.thunderfudge.signatureIds
+  },
+  {
+    slug: "blackbird-preservations",
+    name: requestedCollectionProfiles["blackbird-preservations"].label,
+    shortName: "Blackbird",
+    era: requestedCollectionProfiles["blackbird-preservations"].era,
+    thesis: requestedCollectionProfiles["blackbird-preservations"].thesis,
+    biography: requestedCollectionProfiles["blackbird-preservations"].biography,
+    sourceIds: ["blackbird-preservations-seedfinder-catalog"],
+    signatureIds: requestedCollectionProfiles["blackbird-preservations"].signatureIds
+  },
+  {
+    slug: "rare-dankness",
+    name: requestedCollectionProfiles["rare-dankness"].label,
+    shortName: "Rare Dankness",
+    era: requestedCollectionProfiles["rare-dankness"].era,
+    thesis: requestedCollectionProfiles["rare-dankness"].thesis,
+    biography: requestedCollectionProfiles["rare-dankness"].biography,
+    sourceIds: ["rare-dankness-seedfinder-catalog", "rare-dankness-official-about"],
+    signatureIds: requestedCollectionProfiles["rare-dankness"].signatureIds
   }
 ]);
 
@@ -567,7 +746,7 @@ const collectionCounts = records.reduce((counts, record) => {
 }, {});
 const summary = {
   reviewedAt,
-  scope: "Best-effort public-web reconstruction of four named breeder collections. This is not a claim of literal completeness.",
+  scope: `Best-effort public-web reconstruction of ${Object.keys(catalogs).length} named breeder collections. This is not a claim of literal completeness.`,
   generatedRecords: records.length,
   productionLibraryRecords: new Set([...base.map((record) => record.id), ...records.map((record) => record.id)]).size,
   overlaidBaseRecords: records.filter((record) => base.some((baseRecord) => baseRecord.id === record.id)).length,
@@ -622,6 +801,8 @@ const reportLines = [
   "- The Subcool catalog Space Queen record is versioned separately from the original Vic High archive entry.",
   "- Duke Diamond's Vault listings are grouped separately from the core Dominion master catalog.",
   "- Atom Splitter remains a Samurai Sour historical alias until evidence supports a separate release.",
+  "- Blackbird Preservations records use preservation attribution rather than implying original creation of the underlying material.",
+  "- The four added catalogs admit only releases with named direct lineage; entries with unknown parents remain in the review queue.",
   "",
   "## Review queue",
   "",

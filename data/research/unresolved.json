@@ -48,5 +48,60 @@
     "collection": "lemon-hoko",
     "candidate": "HogDawg Alien",
     "reason": "Community reference only; breeder attribution and release status remain unresolved."
+  },
+  {
+    "collection": "norstar-genetics",
+    "candidate": "2112",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Haze [Old Mendo Haze] x Chelumbian."
+  },
+  {
+    "collection": "norstar-genetics",
+    "candidate": "Bedrock Boogie",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Strain »»» Unknown Strain."
+  },
+  {
+    "collection": "norstar-genetics",
+    "candidate": "Moonshadow",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Haze [Old Mendo Haze] x Purple Mayhem."
+  },
+  {
+    "collection": "blackbird-preservations",
+    "candidate": "Last Call",
+    "reason": "The published lineage contains an unknown parent. Published lineage: W. Widow x Unknown Strain [unknown: CC/RB BC2]."
+  },
+  {
+    "collection": "blackbird-preservations",
+    "candidate": "Lemon Thai",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Lemon Thai x Unknown Outcross."
+  },
+  {
+    "collection": "blackbird-preservations",
+    "candidate": "Mullumbimby Two Step",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Mullumbimby Madness [breeder: Kangativa] x Unknown Strain [unknown: Astro Zombie]."
+  },
+  {
+    "collection": "blackbird-preservations",
+    "candidate": "Ukiah Berry",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Mostly Indica [breeder: Strayfox Gardenz] »»» Unknown Mostly Indica [breeder: Strayfox Gardenz]."
+  },
+  {
+    "collection": "rare-dankness",
+    "candidate": "DHK Purple Haze",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Skunk/Haze."
+  },
+  {
+    "collection": "rare-dankness",
+    "candidate": "Dank Commander",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Catpiss [probably: probably] x (Rare Dankness #1 x Unknown Strain)."
+  },
+  {
+    "collection": "rare-dankness",
+    "candidate": "Purple Haze #1",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Nevil's Wreck."
+  },
+  {
+    "collection": "rare-dankness",
+    "candidate": "UV-A",
+    "reason": "The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Afghani #1 IBL."
   }
 ]

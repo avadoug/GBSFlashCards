@@ -1,0 +1,882 @@
+[
+  {
+    "id": "norstar-genetics-seedfinder-catalog",
+    "label": "SeedFinder — NorStar Genetics catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/norstar-genetics",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "ac-dc",
+      "alcatraz-og",
+      "amnesia-og",
+      "apollo-13-norstar",
+      "banana-cream-pie",
+      "banana-d",
+      "banana-danish",
+      "big-city-lights",
+      "blood-moon",
+      "bogota-breeze",
+      "bubba-fresh",
+      "bushman-kush",
+      "chelumbian",
+      "colombian-thunder-funk",
+      "da-zinn-che",
+      "darkwood",
+      "dirty-little-secret",
+      "evil-intentions",
+      "exodus-uk-cheese",
+      "frisco-og",
+      "frisco-snaps",
+      "frost-berries",
+      "golden-child",
+      "goo-che",
+      "grand-poobah",
+      "grayskull",
+      "harlequin",
+      "inca-gold",
+      "jungle-scout",
+      "kogi",
+      "kong-og",
+      "lands-end",
+      "lost-moon",
+      "merlins-tonic",
+      "midnight-fire",
+      "midwife",
+      "octane-og",
+      "panama-jack",
+      "pretty-wicked",
+      "qookies",
+      "queen-of-hearts",
+      "sour-chelumbian",
+      "stilton",
+      "sugar-kiss",
+      "the-maestro",
+      "the-mission",
+      "tsoukalos",
+      "vintners-moonshine",
+      "west-coast-sour-diesel",
+      "zapotec"
+    ]
+  },
+  {
+    "id": "norstar-official-about",
+    "label": "NorStar Genetics — About",
+    "type": "official-breeder",
+    "url": "https://norstargenetics.com/about/",
+    "reliability": "primary",
+    "fields": [
+      "breeder biography",
+      "program scope",
+      "California medical context"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": []
+  },
+  {
+    "label": "SeedFinder — AC/DC lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ac-dc/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ac-dc"
+    ]
+  },
+  {
+    "label": "SeedFinder — Alcatraz OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/alcatraz-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "alcatraz-og"
+    ]
+  },
+  {
+    "label": "SeedFinder — Amnesia OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/amnesia-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "amnesia-og"
+    ]
+  },
+  {
+    "label": "SeedFinder — Apollo 13 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/apollo-13/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "apollo-13-norstar"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana Cream Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-cream-pie/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-cream-pie"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana D lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-d/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-d"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana Danish lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-danish/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-danish"
+    ]
+  },
+  {
+    "label": "SeedFinder — Big City Lights lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/big-city-lights/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "big-city-lights"
+    ]
+  },
+  {
+    "label": "SeedFinder — Blood Moon lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/blood-moon/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blood-moon"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bogota Breeze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bogota-breeze/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bogota-breeze"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bubba Fresh lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bubba-fresh/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bubba-fresh"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bushman Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bushman-kush/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bushman-kush"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chelumbian lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chelumbian/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chelumbian"
+    ]
+  },
+  {
+    "label": "SeedFinder — Colombian Thunder Funk lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/colombian-thunder-funk/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "colombian-thunder-funk"
+    ]
+  },
+  {
+    "label": "SeedFinder — Da-Zinn-Che lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/da-zinn-che/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "da-zinn-che"
+    ]
+  },
+  {
+    "label": "SeedFinder — Darkwood lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/darkwood/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "darkwood"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dirty Little Secret lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dirty-little-secret/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dirty-little-secret"
+    ]
+  },
+  {
+    "label": "SeedFinder — Evil Intentions lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/evil-intentions/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "evil-intentions"
+    ]
+  },
+  {
+    "label": "SeedFinder — Exodus (UK) Cheese lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/exodus-uk-cheese/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "exodus-uk-cheese"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frisco OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frisco-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frisco-og"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frisco Snaps lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frisco-snaps/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frisco-snaps"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frost Berries lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frost-berries/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frost-berries"
+    ]
+  },
+  {
+    "label": "SeedFinder — Golden Child lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/golden-child/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "golden-child"
+    ]
+  },
+  {
+    "label": "SeedFinder — Goo-Che lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/goo-che/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "goo-che"
+    ]
+  },
+  {
+    "label": "SeedFinder — Grand Poobah lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/grand-poobah/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "grand-poobah"
+    ]
+  },
+  {
+    "label": "SeedFinder — Grayskull lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/grayskull/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "grayskull"
+    ]
+  },
+  {
+    "label": "SeedFinder — Harlequin lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/harlequin/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "harlequin"
+    ]
+  },
+  {
+    "label": "SeedFinder — Inca Gold lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/inca-gold/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "inca-gold"
+    ]
+  },
+  {
+    "label": "SeedFinder — Jungle Scout lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/jungle-scout/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jungle-scout"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kogi lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kogi/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kogi"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kong OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kong-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kong-og"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lands End lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lands-end/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lands-end"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lost Moon lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lost-moon/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lost-moon"
+    ]
+  },
+  {
+    "label": "SeedFinder — Merlin’s Tonic lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/merlins-tonic/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "merlins-tonic"
+    ]
+  },
+  {
+    "label": "SeedFinder — Midnight Fire lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/midnight-fire/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "midnight-fire"
+    ]
+  },
+  {
+    "label": "SeedFinder — Midwife lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/midwife/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "midwife"
+    ]
+  },
+  {
+    "label": "SeedFinder — Octane OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/octane-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "octane-og"
+    ]
+  },
+  {
+    "label": "SeedFinder — Panama Jack lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/panama-jack/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "panama-jack"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pretty Wicked lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pretty-wicked/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pretty-wicked"
+    ]
+  },
+  {
+    "label": "SeedFinder — Qookies lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/qookies/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "qookies"
+    ]
+  },
+  {
+    "label": "SeedFinder — Queen of Hearts lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/queen-of-hearts/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "queen-of-hearts"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Chelumbian lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-chelumbian/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-chelumbian"
+    ]
+  },
+  {
+    "label": "SeedFinder — Stilton lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/stilton/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "stilton"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sugar Kiss lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sugar-kiss/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sugar-kiss"
+    ]
+  },
+  {
+    "label": "SeedFinder — The Maestro lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/the-maestro/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "the-maestro"
+    ]
+  },
+  {
+    "label": "SeedFinder — The Mission lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/the-mission/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "the-mission"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tsoukalos lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tsoukalos/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tsoukalos"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vintner's Moonshine lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vintners-moonshine/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vintners-moonshine"
+    ]
+  },
+  {
+    "label": "SeedFinder — West Coast Sour Diesel lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/west-coast-sour-diesel/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "west-coast-sour-diesel"
+    ]
+  },
+  {
+    "label": "SeedFinder — Zapotec lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/zapotec/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "zapotec"
+    ]
+  }
+]

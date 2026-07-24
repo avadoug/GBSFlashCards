@@ -2,7 +2,7 @@
 
 GBS Strain Flip is an interactive cannabis genetics learning archive built around tactile, animated flash cards. It helps growers, breeders, smokers, and collectors study lineage, sensory observations, cultivation traits, phenotype variation, breeding context, history, and source confidence without presenting uncertain claims as fact.
 
-> The validated 256-record library combines a 66-record base archive with 196 sourced breeder records and explicit overlays for shared records. Tier C entries confirm catalog existence only; their blank fields are deliberate.
+> The validated 479-record library combines a 66-record base archive with 419 sourced breeder records and explicit overlays for shared records. Tier C entries confirm catalog existence only; their blank fields are deliberate.
 
 ## Technology
 
@@ -40,7 +40,7 @@ npm run build
 
 - `/` — interactive study card with modes, keyboard controls, filters, smart shuffle, and local progress
 - `/library` — searchable strain index
-- `/breeders` — four research-backed breeder collections
+- `/breeders` — eight research-backed breeder collections
 - `/breeders/[slug]` — collection history, signature lines, catalog ledger, and source docket
 - `/strain/[id]` — permanent archive detail record
 - `/statistics` — local accuracy, streak, mastery, breeder, and family progress

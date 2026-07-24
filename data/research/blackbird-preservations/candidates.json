@@ -1,0 +1,167 @@
+[
+  {
+    "submittedName": "Alberni Borealis",
+    "canonicalId": "alberni-borealis",
+    "canonicalName": "Alberni Borealis",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/alberni-borealis/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Baghlan Hindu",
+    "canonicalId": "baghlan-hindu",
+    "canonicalName": "Baghlan Hindu",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/baghlan-hindu/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Don Wimble",
+    "canonicalId": "don-wimble",
+    "canonicalName": "Don Wimble",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/don-wimble/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Hazel Thai",
+    "canonicalId": "hazel-thai",
+    "canonicalName": "Hazel Thai",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/hazel-thai/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "HeadLites",
+    "canonicalId": "headlites",
+    "canonicalName": "HeadLites",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/headlites/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Lemon Aurora",
+    "canonicalId": "lemon-aurora",
+    "canonicalName": "Lemon Aurora",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/lemon-aurora/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "NH 21 x MM",
+    "canonicalId": "nh-21-x-mm",
+    "canonicalName": "NH 21 x MM",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/nh-21-x-mm/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Northern Lights #5",
+    "canonicalId": "northern-lights-5-blackbird",
+    "canonicalName": "Northern Lights #5",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/northern-lights-nr5/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Papyrus",
+    "canonicalId": "papyrus",
+    "canonicalName": "Papyrus",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/papyrus/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Puna Lites",
+    "canonicalId": "puna-lites",
+    "canonicalName": "Puna Lites",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/puna-lites/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Purple Pakistani Chitral",
+    "canonicalId": "purple-pakistani-chitral",
+    "canonicalName": "Purple Pakistani Chitral",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/purple-pakistani-chitral/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Ruby Vine Afghani",
+    "canonicalId": "ruby-vine-afghani",
+    "canonicalName": "Ruby Vine Afghani",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/ruby-vine-afghani/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Special Kay",
+    "canonicalId": "special-kay",
+    "canonicalName": "Special Kay",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/special-kay/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Thai-Paki Chitral - Sawgrass",
+    "canonicalId": "thai-paki-chitral-sawgrass",
+    "canonicalName": "Thai-Paki Chitral - Sawgrass",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/thai-paki-chitral-sawgrass/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  },
+  {
+    "submittedName": "Vietnamese Black",
+    "canonicalId": "vietnamese-black",
+    "canonicalName": "Vietnamese Black",
+    "decision": "accepted",
+    "documentationTier": "B",
+    "evidence": [
+      "https://seedfinder.eu/en/strain-info/vietnamese-black/blackbird-preservations",
+      "https://seedfinder.eu/en/database/breeder/blackbird-preservations"
+    ]
+  }
+]

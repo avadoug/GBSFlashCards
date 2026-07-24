@@ -1,25 +1,29 @@
 {
-  "reviewedAt": "2026-07-22",
-  "scope": "Best-effort public-web reconstruction of four named breeder collections. This is not a claim of literal completeness.",
-  "generatedRecords": 196,
-  "productionLibraryRecords": 256,
+  "reviewedAt": "2026-07-23",
+  "scope": "Best-effort public-web reconstruction of 8 named breeder collections. This is not a claim of literal completeness.",
+  "generatedRecords": 419,
+  "productionLibraryRecords": 479,
   "overlaidBaseRecords": 6,
   "collectionCounts": {
     "dominion-duke-diamond": 56,
     "subcool-tga-the-dank": 113,
     "bless-coast": 15,
-    "lemon-hoko": 12
+    "lemon-hoko": 12,
+    "norstar-genetics": 50,
+    "thunderfudge": 49,
+    "blackbird-preservations": 15,
+    "rare-dankness": 109
   },
   "documentationTierCounts": {
-    "B": 29,
+    "B": 252,
     "C": 155,
     "A": 12
   },
-  "unresolvedCount": 10,
+  "unresolvedCount": 21,
   "rejectedCount": 4,
-  "aliasGroupCount": 15,
+  "aliasGroupCount": 19,
   "collaborationRecordCount": 3,
-  "sourceCount": 52,
-  "linkedSourceCount": 49,
+  "sourceCount": 282,
+  "linkedSourceCount": 279,
   "legacyUnlinkedSourceCount": 3
 }

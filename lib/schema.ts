@@ -183,7 +183,16 @@ export const strainSchema = z.object({
     .optional(),
   collection: z
     .object({
-      slug: z.enum(["dominion-duke-diamond", "subcool-tga-the-dank", "bless-coast", "lemon-hoko"]),
+      slug: z.enum([
+        "dominion-duke-diamond",
+        "subcool-tga-the-dank",
+        "bless-coast",
+        "lemon-hoko",
+        "norstar-genetics",
+        "thunderfudge",
+        "blackbird-preservations",
+        "rare-dankness",
+      ]),
       label: z.string().min(1),
       catalogGroup: z.string().optional(),
       signature: z.boolean().optional(),

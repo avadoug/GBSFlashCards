@@ -1,18 +1,18 @@
 # Breeder catalog research
 
-Reviewed: 2026-07-22
+Reviewed: 2026-07-23
 
 This archive is a best-effort reconstruction from public sources. It does not claim literal completeness, and it never upgrades ambiguous snippets into facts.
 
 ## Import summary
 
-- Generated breeder records: 196
-- Production library records after overlays: 256
+- Generated breeder records: 419
+- Production library records after overlays: 479
 - Existing records enriched by overlays: 6
-- Documentation tiers: A 12, B 29, C 155
-- Unresolved candidates: 10
+- Documentation tiers: A 12, B 252, C 155
+- Unresolved candidates: 21
 - Rejected candidate groups: 4
-- Source ledger entries: 52 (49 linked; 3 retained legacy labels)
+- Source ledger entries: 282 (279 linked; 3 retained legacy labels)
 - Collaboration/release-partner records: 3
 
 ## Collection counts
@@ -21,6 +21,10 @@ This archive is a best-effort reconstruction from public sources. It does not cl
 - Subcool / TGA / The Dank: 113
 - Bless Coast Seeds: 15
 - Lemon Hoko Genetix: 12
+- NorStar Genetics: 50
+- Thunderfudge: 49
+- Blackbird Preservations: 15
+- Rare Dankness: 109
 
 ## Method
 
@@ -36,6 +40,8 @@ This archive is a best-effort reconstruction from public sources. It does not cl
 - The Subcool catalog Space Queen record is versioned separately from the original Vic High archive entry.
 - Duke Diamond's Vault listings are grouped separately from the core Dominion master catalog.
 - Atom Splitter remains a Samurai Sour historical alias until evidence supports a separate release.
+- Blackbird Preservations records use preservation attribution rather than implying original creation of the underlying material.
+- The four added catalogs admit only releases with named direct lineage; entries with unknown parents remain in the review queue.
 
 ## Review queue
 
@@ -60,6 +66,29 @@ This archive is a best-effort reconstruction from public sources. It does not cl
 - Chem DD F4: Tester activity was found, but a public release was not confirmed.
 - Blueberry BX4: Community references only; no stable catalog or product source confirmed.
 - HogDawg Alien: Community reference only; breeder attribution and release status remain unresolved.
+
+### NorStar Genetics
+
+- 2112: The published lineage contains an unknown parent. Published lineage: Unknown Haze [Old Mendo Haze] x Chelumbian.
+- Bedrock Boogie: The published lineage contains an unknown parent. Published lineage: Unknown Strain »»» Unknown Strain.
+- Moonshadow: The published lineage contains an unknown parent. Published lineage: Unknown Haze [Old Mendo Haze] x Purple Mayhem.
+
+### Thunderfudge
+
+
+### Blackbird Preservations
+
+- Last Call: The published lineage contains an unknown parent. Published lineage: W. Widow x Unknown Strain [unknown: CC/RB BC2].
+- Lemon Thai: The published lineage contains an unknown parent. Published lineage: Lemon Thai x Unknown Outcross.
+- Mullumbimby Two Step: The published lineage contains an unknown parent. Published lineage: Mullumbimby Madness [breeder: Kangativa] x Unknown Strain [unknown: Astro Zombie].
+- Ukiah Berry: The published lineage contains an unknown parent. Published lineage: Unknown Mostly Indica [breeder: Strayfox Gardenz] »»» Unknown Mostly Indica [breeder: Strayfox Gardenz].
+
+### Rare Dankness
+
+- DHK Purple Haze: The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Skunk/Haze.
+- Dank Commander: The published lineage contains an unknown parent. Published lineage: Catpiss [probably: probably] x (Rare Dankness #1 x Unknown Strain).
+- Purple Haze #1: The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Nevil's Wreck.
+- UV-A: The published lineage contains an unknown parent. Published lineage: Unknown Indica [Purple] x Afghani #1 IBL.
 
 ## Source policy
 

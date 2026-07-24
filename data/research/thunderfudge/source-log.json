@@ -1,0 +1,864 @@
+[
+  {
+    "id": "thunderfudge-seedfinder-catalog",
+    "label": "SeedFinder — Thunderfudge catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/thunderfudge",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "black-fire-alien-strawberry",
+      "chemmunication-breakdown",
+      "couch-slouch",
+      "countrytime-kush",
+      "dawg-fighter-x-super-lemon-haze-bx1",
+      "durban-retriever",
+      "electric-blue-lemonade",
+      "faspak",
+      "fire-alien-blackberry",
+      "frostee-paws",
+      "goldmember",
+      "golden-retriever",
+      "hayabusa",
+      "joe-boxer",
+      "king-of-rock",
+      "kromed-lemons",
+      "lemon-lime-pie",
+      "mint-julep",
+      "mint-julep-f2",
+      "mud-pie",
+      "night-prowler",
+      "pinkman",
+      "red-rover",
+      "slh-bx1-f2",
+      "slice-cream-cake",
+      "sour-banana-larry-pebbels",
+      "sour-larry-bx1",
+      "sour-larry-bx2",
+      "sour-larry-lime-pebbles",
+      "sour-larry-lime-pebbles-4",
+      "sour-larry-lime-pebbles-9",
+      "sour-larry-pebbles",
+      "spiderman-cbd",
+      "strawberry-fire-fighter",
+      "strawberry-lemonade",
+      "strawberry-sour-larry",
+      "super-banana-haze",
+      "super-lemon-dawgfighter",
+      "super-lemon-haze-bx1",
+      "surefire",
+      "sweet-and-sour-chem",
+      "tempest",
+      "towering-inferno",
+      "ultimate-chem-08",
+      "ultimate-chem-818",
+      "ultimate-lemon-bubba",
+      "ultrabrite",
+      "white-ass-chem",
+      "wild-mountain-honey"
+    ]
+  },
+  {
+    "id": "thunderfudge-thcfarmer-catalog",
+    "label": "THCFarmer — Thunderfudge catalog profile",
+    "type": "archive",
+    "url": "https://www.thcfarmer.com/strains/breeders/thunderfudge.2290/",
+    "reliability": "secondary",
+    "fields": [
+      "catalog count",
+      "breeder attribution"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": []
+  },
+  {
+    "label": "SeedFinder — Black Fire Alien Strawberry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/black-fire-alien-strawberry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "black-fire-alien-strawberry"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chemmunication Breakdown lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chemmunication-breakdown/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chemmunication-breakdown"
+    ]
+  },
+  {
+    "label": "SeedFinder — Couch Slouch lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/couch-slouch/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "couch-slouch"
+    ]
+  },
+  {
+    "label": "SeedFinder — Countrytime Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/countrytime-kush/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "countrytime-kush"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dawg Fighter x Super Lemon Haze BX1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dawg-fighter-x-super-lemon-haze-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dawg-fighter-x-super-lemon-haze-bx1"
+    ]
+  },
+  {
+    "label": "SeedFinder — Durban Retriever lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/durban-retriever/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "durban-retriever"
+    ]
+  },
+  {
+    "label": "SeedFinder — Electric Blue Lemonade lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/electric-blue-lemonade/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "electric-blue-lemonade"
+    ]
+  },
+  {
+    "label": "SeedFinder — Faspak lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/faspak/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "faspak"
+    ]
+  },
+  {
+    "label": "SeedFinder — Fire Alien Blackberry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/fire-alien-blackberry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "fire-alien-blackberry"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frostee Paws lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frostee-paws/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frostee-paws"
+    ]
+  },
+  {
+    "label": "SeedFinder — GoldMember lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/goldmember/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "goldmember"
+    ]
+  },
+  {
+    "label": "SeedFinder — Golden Retriever lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/golden-retriever/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "golden-retriever"
+    ]
+  },
+  {
+    "label": "SeedFinder — Hayabusa lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/hayabusa/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hayabusa"
+    ]
+  },
+  {
+    "label": "SeedFinder — Joe Boxer lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/joe-boxer/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "joe-boxer"
+    ]
+  },
+  {
+    "label": "SeedFinder — King of Rock lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/king-of-rock/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "king-of-rock"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kromed Lemons lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kromed-lemons/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kromed-lemons"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lemon Lime Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-lime-pie/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-lime-pie"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mint Julep lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mint-julep/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mint-julep"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mint Julep F2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mint-julep-f2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mint-julep-f2"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mud Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mud-pie/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mud-pie"
+    ]
+  },
+  {
+    "label": "SeedFinder — Night Prowler lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/night-prowler/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "night-prowler"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pinkman lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pinkman/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pinkman"
+    ]
+  },
+  {
+    "label": "SeedFinder — Red Rover lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/red-rover/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "red-rover"
+    ]
+  },
+  {
+    "label": "SeedFinder — SLH BX1 F2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/slh-bx1-f2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "slh-bx1-f2"
+    ]
+  },
+  {
+    "label": "SeedFinder — Slice Cream Cake lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/slice-cream-cake/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "slice-cream-cake"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Banana Larry Pebbels lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-banana-larry-pebbels/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-banana-larry-pebbels"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry BX1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-bx1"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry BX2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-bx2"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles #4 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr4/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles-4"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles #9 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr9/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles-9"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Pebbles lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-pebbles/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-pebbles"
+    ]
+  },
+  {
+    "label": "SeedFinder — Spiderman CBD lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/spiderman-cbd/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "spiderman-cbd"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Fire Fighter lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-fire-fighter/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-fire-fighter"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Lemonade lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-lemonade/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-lemonade"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Sour Larry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-sour-larry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-sour-larry"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Banana Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-banana-haze/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-banana-haze"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Lemon Dawgfighter lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-lemon-dawgfighter/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-lemon-dawgfighter"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Lemon Haze Bx1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-lemon-haze-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-lemon-haze-bx1"
+    ]
+  },
+  {
+    "label": "SeedFinder — Surefire lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/surefire/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "surefire"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sweet and Sour Chem lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sweet-and-sour-chem/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sweet-and-sour-chem"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tempest lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tempest/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tempest"
+    ]
+  },
+  {
+    "label": "SeedFinder — Towering Inferno lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/towering-inferno/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "towering-inferno"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Chem 08 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-08/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-chem-08"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Chem 818 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-818/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-chem-818"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Lemon Bubba lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-lemon-bubba/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-lemon-bubba"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultrabrite lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultrabrite/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultrabrite"
+    ]
+  },
+  {
+    "label": "SeedFinder — White Ass Chem lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/white-ass-chem/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "white-ass-chem"
+    ]
+  },
+  {
+    "label": "SeedFinder — Wild Mountain Honey lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/wild-mountain-honey/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "wild-mountain-honey"
+    ]
+  }
+]

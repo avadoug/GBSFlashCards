@@ -10,7 +10,7 @@
       "parentage",
       "availability"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "bless-coast"
@@ -28,7 +28,7 @@
       "F1–F4 development",
       "selection"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "samurai-sour-f1",
       "samurai-sour-f2",
@@ -80,7 +80,7 @@
       "Chem DD F3 existence",
       "parentage"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "chem-dd-f3"
     ],
@@ -99,7 +99,7 @@
       "parentage",
       "generation"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "dominion-duke-diamond"
@@ -116,7 +116,7 @@
       "parentage",
       "catalog grouping"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "dominion-duke-diamond"
@@ -133,7 +133,7 @@
       "parentage",
       "generation"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "lemon-hoko"
@@ -149,7 +149,7 @@
       "Chem DD version existence",
       "grow observations"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "lemon-hoko"
@@ -166,7 +166,7 @@
       "era",
       "signature releases"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "dominion-duke-diamond"
@@ -183,7 +183,7 @@
       "era",
       "collaborations"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "subcool-tga-the-dank"
@@ -201,7 +201,7 @@
       "Agent Orange",
       "TGA history"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "jillybean",
       "agent-orange"
@@ -211,10 +211,27 @@
     ]
   },
   {
+    "id": "norstar-official-about",
+    "label": "NorStar Genetics — About",
+    "type": "official-breeder",
+    "url": "https://norstargenetics.com/about/",
+    "reliability": "primary",
+    "fields": [
+      "breeder biography",
+      "program scope",
+      "California medical context"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/sour-samurai-test-product/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -233,7 +250,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/hatchimaki/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -252,7 +269,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/sakura-sour-2/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -271,7 +288,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/shibui/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -290,7 +307,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/glujitsu/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -309,7 +326,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/numbchuck/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -328,7 +345,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/sakura-sour/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -347,7 +364,7 @@
     "label": "Official Bless Coast record",
     "type": "official-product",
     "url": "https://www.blesscoastseeds.com/product/pineapple-splitter/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -363,10 +380,27 @@
     ]
   },
   {
+    "id": "rare-dankness-official-about",
+    "label": "Rare Dankness — official history",
+    "type": "official-breeder",
+    "url": "https://raredankness.com/",
+    "reliability": "primary",
+    "fields": [
+      "founding year",
+      "breeding philosophy",
+      "company history"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/6-mill/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -385,7 +419,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/burnout-chem/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -404,7 +438,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/delta-blues/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -423,7 +457,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-hoodoo-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -442,7 +476,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-pinebomb-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -461,7 +495,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-sangria-punch-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -480,7 +514,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/en/strain-info/screaming-eagle/dominion-seed-company",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -499,7 +533,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-stash-plant-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -518,7 +552,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-supa-fly-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -537,7 +571,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/dominion-seed-company-north-end-punch-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -556,7 +590,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/index.php/en/strain-info/vortex/subcools-the-dank",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -576,7 +610,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/index.php/en/strain-info/querkle/subcools-the-dank",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -597,7 +631,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/index.php/en/strain-info/chernobyl/subcools-the-dank",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -616,7 +650,7 @@
     "label": "Release-specific catalog record",
     "type": "seed-database",
     "url": "https://seedfinder.eu/index.php/en/strain-info/jack-the-ripper/subcools-the-dank",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -635,7 +669,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/bless-coast-seeds-komorebi-reg-10pk/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -654,7 +688,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/bless-coast-seeds-sourrain-reg-10pk/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -673,7 +707,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/bless-coast-seeds-cheddar-wheel-reg-10pk/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -692,7 +726,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/bless-coast-seeds-titans-katana-reg-10pk/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -711,7 +745,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-berry-white-ix-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -730,7 +764,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-black-sur-holy-weed-f2/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -749,7 +783,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-blueberry-bx3-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -768,7 +802,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/lemon-hoko-blueberry-ix/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -787,7 +821,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-glue-dd-f2-reg-2/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -806,7 +840,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://strainly.io/en/listings/488337-lemon-hoko-royal-chem-dd",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -822,6 +856,1142 @@
     ]
   },
   {
+    "label": "SeedFinder — 4 Corners lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/4-corners/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "4-corners"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — 501st OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/501st-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "501st-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — A+ Wonder lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/a-plus-wonder/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "a-wonder"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — AC/DC lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ac-dc/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ac-dc"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan Abusive lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-abusive/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-abusive"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan Blue lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-blue/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-blue"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan Face-Off lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-face-off/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-face-off"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan Ghost lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-ghost/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-ghost"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan H.A. lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-ha/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-h-a"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghan Poison lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghan-poison/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghan-poison"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Afghani #1 IBL lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/afghani-nr1-ibl/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "afghani-1-ibl"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Africanistan lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/africanistan/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "africanistan"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Alberni Borealis lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/alberni-borealis/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "alberni-borealis"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Alcatraz OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/alcatraz-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "alcatraz-og"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Alfred Packer lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/alfred-packer/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "alfred-packer"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Amnesia OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/amnesia-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "amnesia-og"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Apollo 13 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/apollo-13/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "apollo-13-norstar"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Baghlan Hindu lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/baghlan-hindu/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "baghlan-hindu"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana Cream Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-cream-pie/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-cream-pie"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana D lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-d/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-d"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Banana Danish lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/banana-danish/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "banana-danish"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Beach Bum Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/beach-bum-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "beach-bum-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Big City Lights lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/big-city-lights/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "big-city-lights"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Black Fire Alien Strawberry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/black-fire-alien-strawberry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "black-fire-alien-strawberry"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "id": "blackbird-preservations-seedfinder-catalog",
+    "label": "SeedFinder — Blackbird Preservations catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/blackbird-preservations",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "alberni-borealis",
+      "baghlan-hindu",
+      "don-wimble",
+      "hazel-thai",
+      "headlites",
+      "lemon-aurora",
+      "nh-21-x-mm",
+      "northern-lights-5-blackbird",
+      "papyrus",
+      "puna-lites",
+      "purple-pakistani-chitral",
+      "ruby-vine-afghani",
+      "special-kay",
+      "thai-paki-chitral-sawgrass",
+      "vietnamese-black"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Blood Moon lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/blood-moon/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blood-moon"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Blue Haze Train lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/blue-haze-train/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blue-haze-train"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Blue OX lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/blue-ox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "blue-ox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bogota Breeze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bogota-breeze/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bogota-breeze"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bubba Fresh lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bubba-fresh/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bubba-fresh"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bubba's Trainwreck Haze #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bubbas-trainwreck-haze-nr1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bubbas-trainwreck-haze-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Buford OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/buford-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "buford-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Bushman Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/bushman-kush/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "bushman-kush"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Cab Driver lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/cab-driver/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cab-driver"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chelumbian lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chelumbian/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chelumbian"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chem OX lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chem-ox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chem-ox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chem Trail lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chem-trail/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chem-trail"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chem Wreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chem-wreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chem-wreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Chemmunication Breakdown lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/chemmunication-breakdown/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "chemmunication-breakdown"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Coco Nibbles lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/coco-nibbles/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "coco-nibbles"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Colombian Thunder Funk lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/colombian-thunder-funk/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "colombian-thunder-funk"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Colorado Diesel lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/colorado-diesel/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "colorado-diesel"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Commerce City Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/commerce-city-kush/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "commerce-city-kush"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Cookie OX lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/cookie-ox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cookie-ox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Cornbread lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/cornbread/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cornbread"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Cosmic Temple lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/cosmic-temple/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cosmic-temple"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Couch Slouch lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/couch-slouch/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "couch-slouch"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Cougar Piss lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/cougar-piss/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "cougar-piss"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Countrytime Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/countrytime-kush/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "countrytime-kush"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Da-Zinn-Che lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/da-zinn-che/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "da-zinn-che"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dark Ghost Train lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dark-ghost-train/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dark-ghost-train"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dark Saber lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dark-saber/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dark-saber"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dark Shadow Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dark-shadow-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dark-shadow-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Darkwood lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/darkwood/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "darkwood"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dawg Fighter x Super Lemon Haze BX1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dawg-fighter-x-super-lemon-haze-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dawg-fighter-x-super-lemon-haze-bx1"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — DayDream Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/daydream-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "daydream-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — DieselWreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dieselwreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dieselwreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Dirty Little Secret lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/dirty-little-secret/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "dirty-little-secret"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Doc's OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/docs-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "docs-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
     "id": "dominion-seedfinder-catalog",
     "label": "SeedFinder — Dominion Seed Company catalog",
     "type": "seed-database",
@@ -833,7 +2003,7 @@
       "breeder",
       "catalog membership"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "6-mill",
       "187",
@@ -897,6 +2067,1032 @@
     ]
   },
   {
+    "label": "SeedFinder — Don Wimble lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/don-wimble/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "don-wimble"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Drama lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/drama/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "drama"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Durban Retriever lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/durban-retriever/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "durban-retriever"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — El Jefe' lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/el-jefe/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "el-jefe"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Electric Blue Lemonade lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/electric-blue-lemonade/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "electric-blue-lemonade"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Evil Intentions lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/evil-intentions/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "evil-intentions"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Exodus (UK) Cheese lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/exodus-uk-cheese/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "exodus-uk-cheese"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — F-Cut LR TK lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/f-cut-lr-tk/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "f-cut-lr-tk"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Facewreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/facewreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "facewreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Faspak lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/faspak/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "faspak"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Fire Alien Blackberry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/fire-alien-blackberry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "fire-alien-blackberry"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — FLO-OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/flo-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "flo-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frisco OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frisco-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frisco-og"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frisco Snaps lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frisco-snaps/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frisco-snaps"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frost Berries lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frost-berries/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frost-berries"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Frostee Paws lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/frostee-paws/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "frostee-paws"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ft Collins Cough Trainwreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ft-collins-cough-trainwreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ft-collins-cough-trainwreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost of LeeRoy lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-of-leeroy/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-of-leeroy"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost Train Haze #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-train-haze-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost Train Haze #2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr2/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-train-haze-2"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost Train Haze #5 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr5/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-train-haze-5"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost Train Haze #8 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr8/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-train-haze-8"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ghost Train Haze #9 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr9/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ghost-train-haze-9"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — GoatWreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/goatwreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "goatwreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Golden Child lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/golden-child/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "golden-child"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Golden Retriever lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/golden-retriever/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "golden-retriever"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — GoldMember lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/goldmember/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "goldmember"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Goo-Che lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/goo-che/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "goo-che"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Grand Poobah lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/grand-poobah/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "grand-poobah"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Grape OX lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/grape-ox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "grape-ox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Grayskull lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/grayskull/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "grayskull"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Harlequin lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/harlequin/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "harlequin"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Harlox lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/harlox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "harlox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Hayabusa lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/hayabusa/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hayabusa"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Hazel Thai lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/hazel-thai/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hazel-thai"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — HeadLites lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/headlites/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "headlites"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — HillBilly Armor lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/hillbilly-armor/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "hillbilly-armor"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — I.E.D. lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ied/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "i-e-d"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Inca Gold lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/inca-gold/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "inca-gold"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Jack Knifed Semi lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/jack-knifed-semi/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jack-knifed-semi"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Jawa lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/jawa/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jawa"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Jenny Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/jenny-kush/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jenny-kush"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Joe Boxer lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/joe-boxer/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "joe-boxer"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Jungle Scout lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/jungle-scout/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "jungle-scout"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Karma Bitch lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/karma-bitch/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "karma-bitch"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Khyber Kush #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/khyber-kush-nr1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "khyber-kush-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — King of Rock lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/king-of-rock/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "king-of-rock"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kogi lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kogi/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kogi"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kong OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kong-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kong-og"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Kromed Lemons lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/kromed-lemons/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "kromed-lemons"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lands End lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lands-end/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lands-end"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lee Roy lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lee-roy/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lee-roy"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lemon Aurora lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-aurora/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-aurora"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lemon Ghost Train lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-ghost-train/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-ghost-train"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
     "id": "hoko-seedfinder-catalog",
     "label": "SeedFinder — Lemon Hoko Genetix catalog",
     "type": "seed-database",
@@ -908,7 +3104,7 @@
       "breeder",
       "catalog membership"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "berry-white-ix",
       "black-sur-holy-weed",
@@ -928,6 +3124,1628 @@
     ]
   },
   {
+    "label": "SeedFinder — Lemon Lime Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-lime-pie/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-lime-pie"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lemon Oasis lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lemon-oasis/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lemon-oasis"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Longs Peak Blue lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/longs-peak-blue/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "longs-peak-blue"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lost Creek lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lost-creek/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lost-creek"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Lost Moon lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/lost-moon/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "lost-moon"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Luv Muffin lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/luv-muffin/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "luv-muffin"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Merlin’s Tonic lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/merlins-tonic/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "merlins-tonic"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Midas lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/midas/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "midas"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Midnight Fire lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/midnight-fire/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "midnight-fire"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Midwife lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/midwife/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "midwife"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mint Julep F2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mint-julep-f2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mint-julep-f2"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mint Julep lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mint-julep/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mint-julep"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Moonshine Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/moonshine-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "moonshine-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Moonshine Haze x Ghost Train Haze #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/moonshine-haze-x-ghost-train-haze-1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "moonshine-haze-x-ghost-train-haze-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mouse Trap lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mouse-trap/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mouse-trap"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Mud Pie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/mud-pie/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "mud-pie"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Muscadine lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/muscadine-1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "muscadine"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Nevil's Wreck lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/nevils-wreck/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "nevils-wreck"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Nevil's Wreck Mix lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/nevils-wreck-mix/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "nevils-wreck-mix"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — NH 21 x MM lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/nh-21-x-mm/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "nh-21-x-mm"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Night Prowler lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/night-prowler/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "night-prowler"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Night Terror OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/night-terror-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "night-terror-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "id": "norstar-genetics-seedfinder-catalog",
+    "label": "SeedFinder — NorStar Genetics catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/norstar-genetics",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "ac-dc",
+      "alcatraz-og",
+      "amnesia-og",
+      "apollo-13-norstar",
+      "banana-cream-pie",
+      "banana-d",
+      "banana-danish",
+      "big-city-lights",
+      "blood-moon",
+      "bogota-breeze",
+      "bubba-fresh",
+      "bushman-kush",
+      "chelumbian",
+      "colombian-thunder-funk",
+      "da-zinn-che",
+      "darkwood",
+      "dirty-little-secret",
+      "evil-intentions",
+      "exodus-uk-cheese",
+      "frisco-og",
+      "frisco-snaps",
+      "frost-berries",
+      "golden-child",
+      "goo-che",
+      "grand-poobah",
+      "grayskull",
+      "harlequin",
+      "inca-gold",
+      "jungle-scout",
+      "kogi",
+      "kong-og",
+      "lands-end",
+      "lost-moon",
+      "merlins-tonic",
+      "midnight-fire",
+      "midwife",
+      "octane-og",
+      "panama-jack",
+      "pretty-wicked",
+      "qookies",
+      "queen-of-hearts",
+      "sour-chelumbian",
+      "stilton",
+      "sugar-kiss",
+      "the-maestro",
+      "the-mission",
+      "tsoukalos",
+      "vintners-moonshine",
+      "west-coast-sour-diesel",
+      "zapotec"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Northern Lights #5 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/northern-lights-nr5/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "northern-lights-5-blackbird"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Octane OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/octane-og/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "octane-og"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — OX Piss lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ox-piss/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ox-piss"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pamelina lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pamelina/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pamelina"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Panama Jack lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/panama-jack/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "panama-jack"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Papyrus lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/papyrus/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "papyrus"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pineapple Hash Plant lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pineapple-hash-plant/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pineapple-hash-plant"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pinkman lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pinkman/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pinkman"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pippa lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pippa/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pippa"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — PMP Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pmp-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pmp-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Pretty Wicked lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/pretty-wicked/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "pretty-wicked"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Puna Lites lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/puna-lites/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "puna-lites"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Hashplant Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-hashplant-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-hashplant-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Haze #2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-haze-nr2/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-haze-2"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Pakistani Chitral lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-pakistani-chitral/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-pakistani-chitral"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Swish Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-swish-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-swish-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Purple Swish lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/purple-swish/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "purple-swish"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Qookies lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/qookies/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "qookies"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Queen of Hearts lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/queen-of-hearts/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "queen-of-hearts"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Rare Dankness #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/rare-dankness-nr1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "rare-dankness-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Rare Dankness #2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/rare-dankness-nr2/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "rare-dankness-2"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "id": "rare-dankness-seedfinder-catalog",
+    "label": "SeedFinder — Rare Dankness catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/rare-dankness-seeds",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "4-corners",
+      "501st-og",
+      "a-wonder",
+      "afghan-abusive",
+      "afghan-blue",
+      "afghan-face-off",
+      "afghan-ghost",
+      "afghan-h-a",
+      "afghan-poison",
+      "afghani-1-ibl",
+      "africanistan",
+      "alfred-packer",
+      "beach-bum-haze",
+      "blue-haze-train",
+      "blue-ox",
+      "bubbas-trainwreck-haze-1",
+      "buford-og",
+      "cab-driver",
+      "chem-ox",
+      "chem-trail",
+      "chem-wreck-haze",
+      "coco-nibbles",
+      "colorado-diesel",
+      "commerce-city-kush",
+      "cookie-ox",
+      "cornbread",
+      "cosmic-temple",
+      "cougar-piss",
+      "dark-ghost-train",
+      "dark-saber",
+      "dark-shadow-haze",
+      "daydream-haze",
+      "dieselwreck-haze",
+      "docs-og",
+      "drama",
+      "el-jefe",
+      "f-cut-lr-tk",
+      "flo-og",
+      "facewreck-haze",
+      "ft-collins-cough-trainwreck-haze",
+      "ghost-train-haze-1",
+      "ghost-train-haze-2",
+      "ghost-train-haze-5",
+      "ghost-train-haze-8",
+      "ghost-train-haze-9",
+      "ghost-of-leeroy",
+      "goatwreck-haze",
+      "grape-ox",
+      "harlox",
+      "hillbilly-armor",
+      "i-e-d",
+      "jack-knifed-semi",
+      "jawa",
+      "jenny-kush",
+      "karma-bitch",
+      "khyber-kush-1",
+      "lee-roy",
+      "lemon-ghost-train",
+      "lemon-oasis",
+      "longs-peak-blue",
+      "lost-creek",
+      "luv-muffin",
+      "midas",
+      "moonshine-haze",
+      "moonshine-haze-x-ghost-train-haze-1",
+      "mouse-trap",
+      "muscadine",
+      "nevils-wreck",
+      "nevils-wreck-mix",
+      "night-terror-og",
+      "ox-piss",
+      "pmp-haze",
+      "pamelina",
+      "pineapple-hash-plant",
+      "pippa",
+      "purple-hashplant-haze",
+      "purple-haze-2",
+      "purple-swish",
+      "purple-swish-haze",
+      "rare-dankness-1",
+      "rare-dankness-2",
+      "rare-darkness",
+      "rectangle",
+      "rug-burn-og",
+      "runtz-ghost-train",
+      "scavengers-daughter",
+      "scotts-og",
+      "scotts-haze",
+      "somali-ghost-train",
+      "somali-taxi-ride",
+      "sour-d-og",
+      "sour-og-hazewreck",
+      "star-killer",
+      "starkiller-haze",
+      "strawberry-jacuzzi",
+      "sumptuousz",
+      "tangerine-kush",
+      "tangerine-somali-taxi-ride",
+      "tangerine-trainwreck-haze",
+      "the-ox",
+      "trainwreck-willie",
+      "trainwreck-kush-haze-1",
+      "trip-sauce",
+      "vaders-starkiller",
+      "vale-vale",
+      "venom-og",
+      "w-a-r-og",
+      "walker-kush",
+      "wardareekn-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Rare Darkness lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/rare-darkness/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "rare-darkness"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Rectangle lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/rectangle/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "rectangle"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Red Rover lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/red-rover/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "red-rover"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ruby Vine Afghani lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ruby-vine-afghani/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ruby-vine-afghani"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Rug Burn OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/rug-burn-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "rug-burn-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Runtz Ghost Train lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/runtz-ghost-train/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "runtz-ghost-train"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Scavenger’s Daughter lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/scavengers-daughter/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "scavengers-daughter"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Scott’s Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/scotts-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "scotts-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Scott's OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/scotts-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "scotts-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — SLH BX1 F2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/slh-bx1-f2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "slh-bx1-f2"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Slice Cream Cake lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/slice-cream-cake/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "slice-cream-cake"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Somali Ghost Train lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/somali-ghost-train/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "somali-ghost-train"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Somali Taxi Ride lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/somali-taxi-ride/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "somali-taxi-ride"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Banana Larry Pebbels lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-banana-larry-pebbels/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-banana-larry-pebbels"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Chelumbian lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-chelumbian/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-chelumbian"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour D*OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-dog/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-d-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry BX1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-bx1"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry BX2 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx2/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-bx2"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles #4 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr4/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles-4"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles #9 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr9/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles-9"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Lime Pebbles lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-lime-pebbles"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour Larry Pebbles lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-larry-pebbles/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-larry-pebbles"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sour OG HazeWreck lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sour-og-hazewreck/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sour-og-hazewreck"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Special Kay lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/special-kay/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "special-kay"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Spiderman CBD lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/spiderman-cbd/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "spiderman-cbd"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Star Killer lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/star-killer/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "star-killer"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Starkiller Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/starkiller-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "starkiller-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Stilton lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/stilton/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "stilton"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Fire Fighter lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-fire-fighter/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-fire-fighter"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Jacuzzi lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-jacuzzi/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-jacuzzi"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Lemonade lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-lemonade/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-lemonade"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Strawberry Sour Larry lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/strawberry-sour-larry/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "strawberry-sour-larry"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
     "id": "subcool-seedfinder-catalog",
     "label": "SeedFinder — SubCool's The Dank catalog",
     "type": "seed-database",
@@ -939,7 +4757,7 @@
       "breeder",
       "catalog membership"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "ace-of-spades",
       "afgoo-overdrive",
@@ -1060,6 +4878,758 @@
     ]
   },
   {
+    "label": "SeedFinder — Sugar Kiss lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sugar-kiss/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sugar-kiss"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sumptuousz lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sumptuousz/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sumptuousz"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Banana Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-banana-haze/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-banana-haze"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Lemon Dawgfighter lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-lemon-dawgfighter/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-lemon-dawgfighter"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Super Lemon Haze Bx1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/super-lemon-haze-bx1/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "super-lemon-haze-bx1"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Surefire lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/surefire/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "surefire"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Sweet and Sour Chem lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/sweet-and-sour-chem/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "sweet-and-sour-chem"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tangerine Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tangerine-kush/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tangerine-kush"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tangerine Somali Taxi Ride lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tangerine-somali-taxi-ride/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tangerine-somali-taxi-ride"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tangerine Trainwreck Haze lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tangerine-trainwreck-haze/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tangerine-trainwreck-haze"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tempest lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tempest/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tempest"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Thai-Paki Chitral - Sawgrass lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/thai-paki-chitral-sawgrass/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "thai-paki-chitral-sawgrass"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — The Maestro lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/the-maestro/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "the-maestro"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — The Mission lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/the-mission/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "the-mission"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — The OX lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/the-ox/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "the-ox"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "id": "thunderfudge-seedfinder-catalog",
+    "label": "SeedFinder — Thunderfudge catalog",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/database/breeder/thunderfudge",
+    "reliability": "strong-secondary",
+    "fields": [
+      "existence",
+      "name",
+      "catalog membership",
+      "lineage index"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [
+      "black-fire-alien-strawberry",
+      "chemmunication-breakdown",
+      "couch-slouch",
+      "countrytime-kush",
+      "dawg-fighter-x-super-lemon-haze-bx1",
+      "durban-retriever",
+      "electric-blue-lemonade",
+      "faspak",
+      "fire-alien-blackberry",
+      "frostee-paws",
+      "goldmember",
+      "golden-retriever",
+      "hayabusa",
+      "joe-boxer",
+      "king-of-rock",
+      "kromed-lemons",
+      "lemon-lime-pie",
+      "mint-julep",
+      "mint-julep-f2",
+      "mud-pie",
+      "night-prowler",
+      "pinkman",
+      "red-rover",
+      "slh-bx1-f2",
+      "slice-cream-cake",
+      "sour-banana-larry-pebbels",
+      "sour-larry-bx1",
+      "sour-larry-bx2",
+      "sour-larry-lime-pebbles",
+      "sour-larry-lime-pebbles-4",
+      "sour-larry-lime-pebbles-9",
+      "sour-larry-pebbles",
+      "spiderman-cbd",
+      "strawberry-fire-fighter",
+      "strawberry-lemonade",
+      "strawberry-sour-larry",
+      "super-banana-haze",
+      "super-lemon-dawgfighter",
+      "super-lemon-haze-bx1",
+      "surefire",
+      "sweet-and-sour-chem",
+      "tempest",
+      "towering-inferno",
+      "ultimate-chem-08",
+      "ultimate-chem-818",
+      "ultimate-lemon-bubba",
+      "ultrabrite",
+      "white-ass-chem",
+      "wild-mountain-honey"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Towering Inferno lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/towering-inferno/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "towering-inferno"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Trainwreck Kush Haze #1 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/trainwreck-kush-haze-nr1/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "trainwreck-kush-haze-1"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — TrainWreck Willie lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/trainwreck-willie/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "trainwreck-willie"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Trip Sauce lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/trip-sauce/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "trip-sauce"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Tsoukalos lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/tsoukalos/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "tsoukalos"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Chem 08 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-08/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-chem-08"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Chem 818 lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-818/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-chem-818"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultimate Lemon Bubba lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultimate-lemon-bubba/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultimate-lemon-bubba"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Ultrabrite lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/ultrabrite/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "ultrabrite"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vader’s Starkiller lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vaders-starkiller/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vaders-starkiller"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vale' Vale' lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vale-vale/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vale-vale"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Venom OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/venom-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "venom-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vietnamese Black lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vietnamese-black/blackbird-preservations",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vietnamese-black"
+    ],
+    "collections": [
+      "blackbird-preservations"
+    ]
+  },
+  {
+    "label": "SeedFinder — Vintner's Moonshine lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/vintners-moonshine/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "vintners-moonshine"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — W.A.R. OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/war-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "w-a-r-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Walker Kush lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/walker-kush/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "walker-kush"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — Warda'reek'n OG lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/wardareekn-og/rare-dankness-seeds",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "wardareekn-og"
+    ],
+    "collections": [
+      "rare-dankness"
+    ]
+  },
+  {
+    "label": "SeedFinder — West Coast Sour Diesel lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/west-coast-sour-diesel/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "west-coast-sour-diesel"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
+    "label": "SeedFinder — White Ass Chem lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/white-ass-chem/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "white-ass-chem"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Wild Mountain Honey lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/wild-mountain-honey/thunderfudge",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "wild-mountain-honey"
+    ],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
+    "label": "SeedFinder — Zapotec lineage",
+    "type": "seed-database",
+    "url": "https://seedfinder.eu/en/strain-info/zapotec/norstar-genetics",
+    "accessedAt": "2026-07-23",
+    "fields": [
+      "existence",
+      "name",
+      "breeder",
+      "parentage"
+    ],
+    "reliability": "strong-secondary",
+    "recordIds": [
+      "zapotec"
+    ],
+    "collections": [
+      "norstar-genetics"
+    ]
+  },
+  {
     "id": "bless-retailer",
     "label": "Seeds Here Now — Bless Coast breeder page",
     "type": "retailer-breeder-page",
@@ -1070,7 +5640,7 @@
       "parentage",
       "breeder biography"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "bless-coast"
@@ -1086,7 +5656,7 @@
       "current and archived releases",
       "parentage"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "lemon-hoko"
@@ -1102,7 +5672,7 @@
       "older releases",
       "parentage"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "samurai-sour-f3-9"
     ],
@@ -1122,6 +5692,22 @@
     ]
   },
   {
+    "id": "thunderfudge-thcfarmer-catalog",
+    "label": "THCFarmer — Thunderfudge catalog profile",
+    "type": "archive",
+    "url": "https://www.thcfarmer.com/strains/breeders/thunderfudge.2290/",
+    "reliability": "secondary",
+    "fields": [
+      "catalog count",
+      "breeder attribution"
+    ],
+    "accessedAt": "2026-07-23",
+    "recordIds": [],
+    "collections": [
+      "thunderfudge"
+    ]
+  },
+  {
     "id": "subcool-legacy-profile",
     "label": "Weedmaps — Subcool profile and TGA transition",
     "type": "interview",
@@ -1132,7 +5718,7 @@
       "rights transition",
       "collaborations"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [],
     "collections": [
       "subcool-tga-the-dank"

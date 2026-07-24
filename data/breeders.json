@@ -74,5 +74,80 @@
       "chem-dd-f3",
       "berry-white-ix"
     ]
+  },
+  {
+    "slug": "norstar-genetics",
+    "name": "NorStar Genetics",
+    "shortName": "NorStar",
+    "era": "California medical era to current genetics library",
+    "thesis": "California catalog work spanning classic clone preservation, OG families, Colombian influence, and wide-ranging hybrid projects.",
+    "biography": "NorStar describes its program as a continuing hunt built around testing, elite acquisition, and breeding for California's medical community. The collection includes both new hybrids and preservation-style releases, so attribution roles remain explicit.",
+    "sourceIds": [
+      "norstar-genetics-seedfinder-catalog",
+      "norstar-official-about"
+    ],
+    "signatureIds": [
+      "alcatraz-og",
+      "bubba-fresh",
+      "frisco-og",
+      "grand-poobah",
+      "the-mission"
+    ]
+  },
+  {
+    "slug": "thunderfudge",
+    "name": "Thunderfudge",
+    "shortName": "Thunderfudge",
+    "era": "Contemporary U.S. hybrid catalog",
+    "thesis": "Chem, Sour Larry, WiFi, strawberry, haze, and fire-family combinations organized around recurring working lines.",
+    "biography": "Thunderfudge's public catalog is reconstructed from release-specific lineage pages and archive indexes. The records preserve compound parentage exactly as published rather than simplifying multi-stage crosses.",
+    "sourceIds": [
+      "thunderfudge-seedfinder-catalog",
+      "thunderfudge-thcfarmer-catalog"
+    ],
+    "signatureIds": [
+      "black-fire-alien-strawberry",
+      "couch-slouch",
+      "super-lemon-haze-bx1",
+      "ultimate-chem-08",
+      "ultrabrite"
+    ]
+  },
+  {
+    "slug": "blackbird-preservations",
+    "name": "Blackbird Preservations",
+    "shortName": "Blackbird",
+    "era": "Contemporary preservation archive",
+    "thesis": "Preservation-minded releases spanning classic clones, heirlooms, landrace-derived accessions, and old building-block genetics.",
+    "biography": "Blackbird frames the work as preservation: seed increases and carefully documented releases intended to keep classic, heirloom, farmed, and clone-only material available. Records therefore use preservation attribution instead of implying original creation.",
+    "sourceIds": [
+      "blackbird-preservations-seedfinder-catalog"
+    ],
+    "signatureIds": [
+      "alberni-borealis",
+      "baghlan-hindu",
+      "northern-lights-5-blackbird",
+      "purple-pakistani-chitral",
+      "vietnamese-black"
+    ]
+  },
+  {
+    "slug": "rare-dankness",
+    "name": "Rare Dankness",
+    "shortName": "Rare Dankness",
+    "era": "Colorado medical era to current international archive",
+    "thesis": "Colorado breeding built around Rare Dankness males, Ghost OG, Chem, Triangle Kush, Afghani, and long-flowering haze families.",
+    "biography": "Founded in 2010, Rare Dankness describes a program built from decades of collected genetics and selected males designed to complement elite mothers. The archive distinguishes the Rare Dankness #1 and #2 breeding lines and preserves numbered releases separately.",
+    "sourceIds": [
+      "rare-dankness-seedfinder-catalog",
+      "rare-dankness-official-about"
+    ],
+    "signatureIds": [
+      "501st-og",
+      "ghost-train-haze-1",
+      "rare-darkness",
+      "scotts-og",
+      "venom-og"
+    ]
   }
 ]

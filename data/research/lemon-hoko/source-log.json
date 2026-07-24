@@ -11,7 +11,7 @@
       "breeder",
       "catalog membership"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "berry-white-ix",
       "black-sur-holy-weed",
@@ -38,7 +38,7 @@
       "parentage",
       "generation"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
@@ -51,7 +51,7 @@
       "current and archived releases",
       "parentage"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
@@ -64,7 +64,7 @@
       "Chem DD version existence",
       "grow observations"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": []
   },
   {
@@ -77,7 +77,7 @@
       "Chem DD F3 existence",
       "parentage"
     ],
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "recordIds": [
       "chem-dd-f3"
     ]
@@ -86,7 +86,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-berry-white-ix-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -102,7 +102,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-black-sur-holy-weed-f2/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -118,7 +118,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-blueberry-bx3-reg/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -134,7 +134,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://seedsherenow.com/shop/lemon-hoko-blueberry-ix/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -150,7 +150,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://growersseeds.com/product/lemon-hoko-glue-dd-f2-reg-2/",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",
@@ -166,7 +166,7 @@
     "label": "Release-specific catalog record",
     "type": "retailer-breeder-page",
     "url": "https://strainly.io/en/listings/488337-lemon-hoko-royal-chem-dd",
-    "accessedAt": "2026-07-22",
+    "accessedAt": "2026-07-23",
     "fields": [
       "existence",
       "name",

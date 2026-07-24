@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import rawStrains from "@/data/strains.json";
 import breederStrains from "@/data/breeder-strains.json";
+import requestedBreederResearch from "@/data/research/requested-breeder-lineages.json";
 import { strainLibrarySchema, strainSchema } from "@/lib/schema";
 
 describe("strain data validation", () => {
@@ -26,6 +27,21 @@ describe("strain data validation", () => {
   it("keeps generated IDs unique and separates the Subcool Space Queen release", () => {
     expect(new Set(breederStrains.map((strain) => strain.id)).size).toBe(breederStrains.length);
     expect(breederStrains.some((strain) => strain.id === "space-queen-subcool-release")).toBe(true);
+  });
+
+  it("imports every requested release with complete lineage and holds unknown parents out", () => {
+    const importedNames = new Set(
+      breederStrains.map((strain) => `${strain.collection.slug}:${strain.name}`),
+    );
+
+    for (const collection of requestedBreederResearch.collections) {
+      for (const strain of collection.accepted) {
+        expect(importedNames.has(`${collection.collectionSlug}:${strain.name}`)).toBe(true);
+      }
+      for (const strain of collection.unresolved) {
+        expect(importedNames.has(`${collection.collectionSlug}:${strain.name}`)).toBe(false);
+      }
+    }
   });
 
   it("returns a helpful path for malformed records", () => {

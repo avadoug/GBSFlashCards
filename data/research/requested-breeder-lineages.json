@@ -1,0 +1,3118 @@
+{
+  "reviewedAt": "2026-07-23",
+  "methodology": "Catalog membership and direct parent names were extracted from the public SeedFinder breeder and release pages. Records containing unknown parents were held out.",
+  "collections": [
+    {
+      "slug": "norstar-genetics",
+      "collectionSlug": "norstar-genetics",
+      "name": "NorStar Genetics",
+      "catalogUrl": "https://seedfinder.eu/en/database/breeder/norstar-genetics",
+      "accessedAt": "2026-07-23",
+      "catalogCount": 53,
+      "acceptedCount": 50,
+      "unresolvedCount": 3,
+      "accepted": [
+        {
+          "name": "AC/DC",
+          "url": "https://seedfinder.eu/en/strain-info/ac-dc/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "AC/DC",
+          "parents": [
+            "AC/DC"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Alcatraz OG",
+          "url": "https://seedfinder.eu/en/strain-info/alcatraz-og/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Hells Angel OG x Frisco OG",
+          "parents": [
+            "Hells Angel OG",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Amnesia OG",
+          "url": "https://seedfinder.eu/en/strain-info/amnesia-og/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Amnesia Haze x DeadHead OG",
+          "parents": [
+            "Amnesia Haze",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Apollo 13",
+          "url": "https://seedfinder.eu/en/strain-info/apollo-13/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Apollo 13",
+          "parents": [
+            "Apollo 13"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Banana Cream Pie",
+          "url": "https://seedfinder.eu/en/strain-info/banana-cream-pie/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Girl Scout Cookies x Banana OG",
+          "parents": [
+            "Girl Scout Cookies",
+            "Banana OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Banana D",
+          "url": "https://seedfinder.eu/en/strain-info/banana-d/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "ChemD x Banana OG",
+          "parents": [
+            "ChemD",
+            "Banana OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Banana Danish",
+          "url": "https://seedfinder.eu/en/strain-info/banana-danish/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "BananaOG x Bogota Breeze",
+          "parents": [
+            "BananaOG",
+            "Bogota Breeze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Big City Lights",
+          "url": "https://seedfinder.eu/en/strain-info/big-city-lights/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Dark Desire x Frisco OG",
+          "parents": [
+            "Dark Desire",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Blood Moon",
+          "url": "https://seedfinder.eu/en/strain-info/blood-moon/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Moonshadow x Chelumbian",
+          "parents": [
+            "Moonshadow",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Bogota Breeze",
+          "url": "https://seedfinder.eu/en/strain-info/bogota-breeze/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Cheese x Chelumbian",
+          "parents": [
+            "Cheese",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Bubba Fresh",
+          "url": "https://seedfinder.eu/en/strain-info/bubba-fresh/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Bubba Kush [date: pre98] x Banana OG",
+          "parents": [
+            "Bubba Kush",
+            "Banana OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Bushman Kush",
+          "url": "https://seedfinder.eu/en/strain-info/bushman-kush/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Bubba Kush x Frisco OG",
+          "parents": [
+            "Bubba Kush",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Chelumbian",
+          "url": "https://seedfinder.eu/en/strain-info/chelumbian/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Cheese x Santa Marta Colombian Gold",
+          "parents": [
+            "Cheese",
+            "Santa Marta Colombian Gold"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Colombian Thunder Funk",
+          "url": "https://seedfinder.eu/en/strain-info/colombian-thunder-funk/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Alaskan Thunder x Santa Marta Colombian Gold",
+          "parents": [
+            "Alaskan Thunder",
+            "Santa Marta Colombian Gold"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Da-Zinn-Che",
+          "url": "https://seedfinder.eu/en/strain-info/da-zinn-che/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Zinn x Chelumbian",
+          "parents": [
+            "Zinn",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Darkwood",
+          "url": "https://seedfinder.eu/en/strain-info/darkwood/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Blood Wreck x DeadHead OG",
+          "parents": [
+            "Blood Wreck",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dirty Little Secret",
+          "url": "https://seedfinder.eu/en/strain-info/dirty-little-secret/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Dark Desire x Purple Mayhem",
+          "parents": [
+            "Dark Desire",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Evil Intentions",
+          "url": "https://seedfinder.eu/en/strain-info/evil-intentions/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Killer Queen x Chelumbian",
+          "parents": [
+            "Killer Queen",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Exodus (UK) Cheese",
+          "url": "https://seedfinder.eu/en/strain-info/exodus-uk-cheese/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Cheese",
+          "parents": [
+            "Cheese"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Frisco OG",
+          "url": "https://seedfinder.eu/en/strain-info/frisco-og/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Hells Angel OG x DeadHead OG",
+          "parents": [
+            "Hells Angel OG",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Frisco Snaps",
+          "url": "https://seedfinder.eu/en/strain-info/frisco-snaps/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Forum Cookies x Frisco OG",
+          "parents": [
+            "Forum Cookies",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Frost Berries",
+          "url": "https://seedfinder.eu/en/strain-info/frost-berries/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Black Berry [probably: Probably] x DeadHead OG",
+          "parents": [
+            "Black Berry",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Golden Child",
+          "url": "https://seedfinder.eu/en/strain-info/golden-child/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Highland Oaxacan Gold x Chelumbian",
+          "parents": [
+            "Highland Oaxacan Gold",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Goo-Che",
+          "url": "https://seedfinder.eu/en/strain-info/goo-che/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Northern Cali Gooey x Chelumbian",
+          "parents": [
+            "Northern Cali Gooey",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Grand Poobah",
+          "url": "https://seedfinder.eu/en/strain-info/grand-poobah/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Bubba Kush x Purple Mayhem",
+          "parents": [
+            "Bubba Kush",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Grayskull",
+          "url": "https://seedfinder.eu/en/strain-info/grayskull/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "AC/DC x Purple Mayhem",
+          "parents": [
+            "AC/DC",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Harlequin",
+          "url": "https://seedfinder.eu/en/strain-info/harlequin/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Harlequin",
+          "parents": [
+            "Harlequin"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Inca Gold",
+          "url": "https://seedfinder.eu/en/strain-info/inca-gold/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Tangie x Chelumbian",
+          "parents": [
+            "Tangie",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Jungle Scout",
+          "url": "https://seedfinder.eu/en/strain-info/jungle-scout/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Forum GSC x Santa Marta Colombian Gold",
+          "parents": [
+            "Forum GSC",
+            "Santa Marta Colombian Gold"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Kogi",
+          "url": "https://seedfinder.eu/en/strain-info/kogi/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "XJ-13 x Columbian Gold [Santa Marta]",
+          "parents": [
+            "XJ-13",
+            "Columbian Gold"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Kong OG",
+          "url": "https://seedfinder.eu/en/strain-info/kong-og/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Gorilla Glue #4 x Frisco OG",
+          "parents": [
+            "Gorilla Glue #4",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lands End",
+          "url": "https://seedfinder.eu/en/strain-info/lands-end/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "ChemD x Frisco OG",
+          "parents": [
+            "ChemD",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lost Moon",
+          "url": "https://seedfinder.eu/en/strain-info/lost-moon/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Apollo-13 x DeadHead OG",
+          "parents": [
+            "Apollo-13",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Merlin’s Tonic",
+          "url": "https://seedfinder.eu/en/strain-info/merlins-tonic/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Harlequin x Purple Mayhem",
+          "parents": [
+            "Harlequin",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Midnight Fire",
+          "url": "https://seedfinder.eu/en/strain-info/midnight-fire/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Fire Kush x Purple Mayhem",
+          "parents": [
+            "Fire Kush",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://seedfinder.eu/en/strain-info/midwife/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Harlequin x Deadhead OG",
+          "parents": [
+            "Harlequin",
+            "Deadhead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Octane OG",
+          "url": "https://seedfinder.eu/en/strain-info/octane-og/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Nepali OG Kush [Fire] x Frisco OG",
+          "parents": [
+            "Nepali OG Kush",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Panama Jack",
+          "url": "https://seedfinder.eu/en/strain-info/panama-jack/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Jack's Cleaner x Chelumbian",
+          "parents": [
+            "Jack's Cleaner",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Pretty Wicked",
+          "url": "https://seedfinder.eu/en/strain-info/pretty-wicked/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "ChemD x Purple Mayhem",
+          "parents": [
+            "ChemD",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Qookies",
+          "url": "https://seedfinder.eu/en/strain-info/qookies/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Forum GSC x Querkle",
+          "parents": [
+            "Forum GSC",
+            "Querkle"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Queen of Hearts",
+          "url": "https://seedfinder.eu/en/strain-info/queen-of-hearts/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Killer Queen x DeadHead OG",
+          "parents": [
+            "Killer Queen",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Chelumbian",
+          "url": "https://seedfinder.eu/en/strain-info/sour-chelumbian/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "East Coast Sour Diesel x Chelumbian",
+          "parents": [
+            "East Coast Sour Diesel",
+            "Chelumbian"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Stilton",
+          "url": "https://seedfinder.eu/en/strain-info/stilton/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "UK Cheese x Purple Mayhem",
+          "parents": [
+            "UK Cheese",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sugar Kiss",
+          "url": "https://seedfinder.eu/en/strain-info/sugar-kiss/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "XJ-13 x DeadHead OG",
+          "parents": [
+            "XJ-13",
+            "DeadHead OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "The Maestro",
+          "url": "https://seedfinder.eu/en/strain-info/the-maestro/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Purple Urkle x Frisco OG",
+          "parents": [
+            "Purple Urkle",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "The Mission",
+          "url": "https://seedfinder.eu/en/strain-info/the-mission/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Harlequin x Frisco OG",
+          "parents": [
+            "Harlequin",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Tsoukalos",
+          "url": "https://seedfinder.eu/en/strain-info/tsoukalos/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Space Queen F2 x Jesus OG",
+          "parents": [
+            "Space Queen F2",
+            "Jesus OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Vintner's Moonshine",
+          "url": "https://seedfinder.eu/en/strain-info/vintners-moonshine/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Zinn x Purple Mayhem",
+          "parents": [
+            "Zinn",
+            "Purple Mayhem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "West Coast Sour Diesel",
+          "url": "https://seedfinder.eu/en/strain-info/west-coast-sour-diesel/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Sour Diesel x Frisco OG",
+          "parents": [
+            "Sour Diesel",
+            "Frisco OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Zapotec",
+          "url": "https://seedfinder.eu/en/strain-info/zapotec/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Highland Oaxaca Gold x Colombian Gold [Santa Marta]",
+          "parents": [
+            "Highland Oaxaca Gold",
+            "Colombian Gold"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        }
+      ],
+      "unresolved": [
+        {
+          "name": "2112",
+          "url": "https://seedfinder.eu/en/strain-info/2112/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Unknown Haze [Old Mendo Haze] x Chelumbian",
+          "parents": [
+            "Unknown Haze",
+            "Chelumbian"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Bedrock Boogie",
+          "url": "https://seedfinder.eu/en/strain-info/bedrock-boogie/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Unknown Strain »»» Unknown Strain",
+          "parents": [
+            "Unknown Strain"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Moonshadow",
+          "url": "https://seedfinder.eu/en/strain-info/moonshadow/norstar-genetics",
+          "breeder": "NorStar Genetics",
+          "collectionSlug": "norstar-genetics",
+          "lineageDisplay": "Unknown Haze [Old Mendo Haze] x Purple Mayhem",
+          "parents": [
+            "Unknown Haze",
+            "Purple Mayhem"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "slug": "thunderfudge",
+      "collectionSlug": "thunderfudge",
+      "name": "Thunderfudge",
+      "catalogUrl": "https://seedfinder.eu/en/database/breeder/thunderfudge",
+      "accessedAt": "2026-07-23",
+      "catalogCount": 49,
+      "acceptedCount": 49,
+      "unresolvedCount": 0,
+      "accepted": [
+        {
+          "name": "Black Fire Alien Strawberry",
+          "url": "https://seedfinder.eu/en/strain-info/black-fire-alien-strawberry/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "The Black x Fire Alien Strawberry",
+          "parents": [
+            "The Black",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Chemmunication Breakdown",
+          "url": "https://seedfinder.eu/en/strain-info/chemmunication-breakdown/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(WiFi x Ultimate Chem 08) x Sour Larry Pebbels",
+          "parents": [
+            "WiFi",
+            "Ultimate Chem 08",
+            "Sour Larry Pebbels"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Couch Slouch",
+          "url": "https://seedfinder.eu/en/strain-info/couch-slouch/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Wifi x Ultimate Chem 08 x Golden Retriever",
+          "parents": [
+            "Wifi",
+            "Ultimate Chem 08",
+            "Golden Retriever"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Countrytime Kush",
+          "url": "https://seedfinder.eu/en/strain-info/countrytime-kush/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Bubba Kush [date Pre-98] x Lemon Thai) x Sour Larry [backcross: BX1]",
+          "parents": [
+            "Bubba Kush",
+            "Lemon Thai",
+            "Sour Larry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dawg Fighter x Super Lemon Haze BX1",
+          "url": "https://seedfinder.eu/en/strain-info/dawg-fighter-x-super-lemon-haze-bx1/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Dawg Fighter x Super Lemon Haze BX1",
+          "parents": [
+            "Dawg Fighter",
+            "Super Lemon Haze BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Durban Retriever",
+          "url": "https://seedfinder.eu/en/strain-info/durban-retriever/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Durban x Golden Retriever",
+          "parents": [
+            "Durban",
+            "Golden Retriever"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Electric Blue Lemonade",
+          "url": "https://seedfinder.eu/en/strain-info/electric-blue-lemonade/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Burmaberry x SLH BX1",
+          "parents": [
+            "Burmaberry",
+            "SLH BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Faspak",
+          "url": "https://seedfinder.eu/en/strain-info/faspak/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Af-pak x Fire Alien Strawberry",
+          "parents": [
+            "Af-pak",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Fire Alien Blackberry",
+          "url": "https://seedfinder.eu/en/strain-info/fire-alien-blackberry/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Blackberry Kush [Orgnkd] x Fire Alien Strawberry",
+          "parents": [
+            "Blackberry Kush",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Frostee Paws",
+          "url": "https://seedfinder.eu/en/strain-info/frostee-paws/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Slice Cream Cake x Milkbone",
+          "parents": [
+            "Slice Cream Cake",
+            "Milkbone"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "GoldMember",
+          "url": "https://seedfinder.eu/en/strain-info/goldmember/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Banana OG x Sour Larry Bx1) x Golden Retriever",
+          "parents": [
+            "Banana OG",
+            "Sour Larry Bx1",
+            "Golden Retriever"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Golden Retriever",
+          "url": "https://seedfinder.eu/en/strain-info/golden-retriever/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Jew Gold x Ultimate Chem SFV",
+          "parents": [
+            "Jew Gold",
+            "Ultimate Chem SFV"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Hayabusa",
+          "url": "https://seedfinder.eu/en/strain-info/hayabusa/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Wi-Fi x Ult Chem SFV) x Ultrabrite",
+          "parents": [
+            "Wi-Fi",
+            "Ult Chem SFV",
+            "Ultrabrite"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Joe Boxer",
+          "url": "https://seedfinder.eu/en/strain-info/joe-boxer/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Diesel [pheno: AJ’s cut] x Golden Retriever",
+          "parents": [
+            "Sour Diesel",
+            "Golden Retriever"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "King of Rock",
+          "url": "https://seedfinder.eu/en/strain-info/king-of-rock/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Banana Kush x Chem Dawg) x Sour Larry Pebbels",
+          "parents": [
+            "Banana Kush",
+            "Chem Dawg",
+            "Sour Larry Pebbels"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Kromed Lemons",
+          "url": "https://seedfinder.eu/en/strain-info/kromed-lemons/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "The White x Super Lemon Haze [backcross: BX1]",
+          "parents": [
+            "The White",
+            "Super Lemon Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lemon Lime Pie",
+          "url": "https://seedfinder.eu/en/strain-info/lemon-lime-pie/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Key Lime Pie x Super Lemon Haze [BX1]) x (Key Lime Pie x Super Lemon Haze [BX1])",
+          "parents": [
+            "Key Lime Pie",
+            "Super Lemon Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Mint Julep",
+          "url": "https://seedfinder.eu/en/strain-info/mint-julep/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Mint Chocolate Chip x Kosher Kush",
+          "parents": [
+            "Mint Chocolate Chip",
+            "Kosher Kush"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Mint Julep F2",
+          "url": "https://seedfinder.eu/en/strain-info/mint-julep-f2/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Mint Julep x Mint Julep",
+          "parents": [
+            "Mint Julep"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Mud Pie",
+          "url": "https://seedfinder.eu/en/strain-info/mud-pie/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Gorilla Glue #4 x Lemon Lime Pie",
+          "parents": [
+            "Gorilla Glue #4",
+            "Lemon Lime Pie"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Night Prowler",
+          "url": "https://seedfinder.eu/en/strain-info/night-prowler/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "The Black x SuperLemonHaze [BX1]",
+          "parents": [
+            "The Black",
+            "SuperLemonHaze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Pinkman",
+          "url": "https://seedfinder.eu/en/strain-info/pinkman/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Predator Pink x BubbaO",
+          "parents": [
+            "Predator Pink",
+            "BubbaO"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Red Rover",
+          "url": "https://seedfinder.eu/en/strain-info/red-rover/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(WiFi x Ultimate Chem 08) x Fire Alien Strawberry",
+          "parents": [
+            "WiFi",
+            "Ultimate Chem 08",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "SLH BX1 F2",
+          "url": "https://seedfinder.eu/en/strain-info/slh-bx1-f2/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "SLH BX1 x SLH BX1",
+          "parents": [
+            "SLH BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Slice Cream Cake",
+          "url": "https://seedfinder.eu/en/strain-info/slice-cream-cake/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Ice Cream Cake x Larry OG [probably]",
+          "parents": [
+            "Ice Cream Cake",
+            "Larry OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Banana Larry Pebbels",
+          "url": "https://seedfinder.eu/en/strain-info/sour-banana-larry-pebbels/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Banana OG x Sour Larry Bx1) x Sour Larry Pebbles",
+          "parents": [
+            "Banana OG",
+            "Sour Larry Bx1",
+            "Sour Larry Pebbles"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry BX1",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx1/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Larry [generation: F1] x Ultimate Chem 08",
+          "parents": [
+            "Sour Larry",
+            "Ultimate Chem 08"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry BX2",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-bx2/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Larry [generation: F1] x Sour Larry BX1",
+          "parents": [
+            "Sour Larry",
+            "Sour Larry BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry Lime Pebbles",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Key Lime Pie x Sour Larry Pebbles) x (Key Lime Pie x Sour Larry Pebbles)",
+          "parents": [
+            "Key Lime Pie",
+            "Sour Larry Pebbles"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry Lime Pebbles #4",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr4/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "SLLP [#4] x SLLP",
+          "parents": [
+            "SLLP"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry Lime Pebbles #9",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-lime-pebbles-nr9/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Larry Lime Pebbles [#9] x Sour Larry Lime Pebbles",
+          "parents": [
+            "Sour Larry Lime Pebbles"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour Larry Pebbles",
+          "url": "https://seedfinder.eu/en/strain-info/sour-larry-pebbles/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Fruity Pebble OG x Sour Larry BX1",
+          "parents": [
+            "Fruity Pebble OG",
+            "Sour Larry BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Spiderman CBD",
+          "url": "https://seedfinder.eu/en/strain-info/spiderman-cbd/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Charlottes Web x Fire Alien Strawberry",
+          "parents": [
+            "Charlottes Web",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Strawberry Fire Fighter",
+          "url": "https://seedfinder.eu/en/strain-info/strawberry-fire-fighter/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Super Lemon Dawgfighter x Fire Alien Strawberry",
+          "parents": [
+            "Super Lemon Dawgfighter",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Strawberry Lemonade",
+          "url": "https://seedfinder.eu/en/strain-info/strawberry-lemonade/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Super Lemon Haze Bx1 x Fire Alien Strawberry",
+          "parents": [
+            "Super Lemon Haze Bx1",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Strawberry Sour Larry",
+          "url": "https://seedfinder.eu/en/strain-info/strawberry-sour-larry/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Larry x (Sour Larry x Ultimate Chem 08) x Fire Alien Strawberry",
+          "parents": [
+            "Sour Larry",
+            "Ultimate Chem 08",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Super Banana Haze",
+          "url": "https://seedfinder.eu/en/strain-info/super-banana-haze/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Banana OG x SLH BX1",
+          "parents": [
+            "Banana OG",
+            "SLH BX1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Super Lemon Dawgfighter",
+          "url": "https://seedfinder.eu/en/strain-info/super-lemon-dawgfighter/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Starfighter F2 x Ult SFV Chem",
+          "parents": [
+            "Starfighter F2",
+            "Ult SFV Chem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Super Lemon Haze Bx1",
+          "url": "https://seedfinder.eu/en/strain-info/super-lemon-haze-bx1/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "((Super Lemon Haze x Ultimate Chem 08) x Super Lemon Haze)",
+          "parents": [
+            "Super Lemon Haze",
+            "Ultimate Chem 08"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Surefire",
+          "url": "https://seedfinder.eu/en/strain-info/surefire/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Suge Pure Kush x Uzbekistani x Fire Alien Strawberry",
+          "parents": [
+            "Suge Pure Kush x Uzbekistani",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sweet and Sour Chem",
+          "url": "https://seedfinder.eu/en/strain-info/sweet-and-sour-chem/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Sour Larry [Zoolander] x Ultimate Chem SFV",
+          "parents": [
+            "Sour Larry",
+            "Ultimate Chem SFV"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Tempest",
+          "url": "https://seedfinder.eu/en/strain-info/tempest/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Purple Tahoe Alien x Fire Alien Strawberry",
+          "parents": [
+            "Purple Tahoe Alien",
+            "Fire Alien Strawberry"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Towering Inferno",
+          "url": "https://seedfinder.eu/en/strain-info/towering-inferno/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Fire OG [Norcal clone] x Ultimate Chem [SFV]",
+          "parents": [
+            "Fire OG",
+            "Ultimate Chem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ultimate Chem 08",
+          "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-08/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "Ultimate Chem [08] x Ultimate Chem [08]",
+          "parents": [
+            "Ultimate Chem"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ultimate Chem 818",
+          "url": "https://seedfinder.eu/en/strain-info/ultimate-chem-818/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "818 OG [probably: probably] x Ultimate Chem SFV",
+          "parents": [
+            "818 OG",
+            "Ultimate Chem SFV"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ultimate Lemon Bubba",
+          "url": "https://seedfinder.eu/en/strain-info/ultimate-lemon-bubba/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Bubba Kush [Pre98] x Lemon Thai) x Ultimate Chem SFV",
+          "parents": [
+            "Bubba Kush",
+            "Lemon Thai",
+            "Ultimate Chem SFV"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ultrabrite",
+          "url": "https://seedfinder.eu/en/strain-info/ultrabrite/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "The White x Ultimate Chem SFV",
+          "parents": [
+            "The White",
+            "Ultimate Chem SFV"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "White Ass Chem",
+          "url": "https://seedfinder.eu/en/strain-info/white-ass-chem/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "The White x Ultrabrite",
+          "parents": [
+            "The White",
+            "Ultrabrite"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Wild Mountain Honey",
+          "url": "https://seedfinder.eu/en/strain-info/wild-mountain-honey/thunderfudge",
+          "breeder": "Thunderfudge",
+          "collectionSlug": "thunderfudge",
+          "lineageDisplay": "(Banana OG x Sour Larry Bx1) x SuperLemonHaze [Bx1]",
+          "parents": [
+            "Banana OG",
+            "Sour Larry Bx1",
+            "SuperLemonHaze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "slug": "blackbird-preservations",
+      "collectionSlug": "blackbird-preservations",
+      "name": "Blackbird Preservations",
+      "catalogUrl": "https://seedfinder.eu/en/database/breeder/blackbird-preservations",
+      "accessedAt": "2026-07-23",
+      "catalogCount": 19,
+      "acceptedCount": 15,
+      "unresolvedCount": 4,
+      "accepted": [
+        {
+          "name": "Alberni Borealis",
+          "url": "https://seedfinder.eu/en/strain-info/alberni-borealis/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Romulan x NL5",
+          "parents": [
+            "Romulan",
+            "NL5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Baghlan Hindu",
+          "url": "https://seedfinder.eu/en/strain-info/baghlan-hindu/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Northern Afghanistan [geoinfo: Baghlan province]",
+          "parents": [
+            "Northern Afghanistan"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Don Wimble",
+          "url": "https://seedfinder.eu/en/strain-info/don-wimble/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Chem D x Lemon Thai [F2]",
+          "parents": [
+            "Chem D",
+            "Lemon Thai"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Hazel Thai",
+          "url": "https://seedfinder.eu/en/strain-info/hazel-thai/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "OHaze x Lemon Thai [F2]",
+          "parents": [
+            "OHaze",
+            "Lemon Thai"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "HeadLites",
+          "url": "https://seedfinder.eu/en/strain-info/headlites/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "(Chemdawg x Norther Lights) x NL5",
+          "parents": [
+            "Chemdawg",
+            "Norther Lights",
+            "NL5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lemon Aurora",
+          "url": "https://seedfinder.eu/en/strain-info/lemon-aurora/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Ohio Lemon G x NL5",
+          "parents": [
+            "Ohio Lemon G",
+            "NL5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "NH 21 x MM",
+          "url": "https://seedfinder.eu/en/strain-info/nh-21-x-mm/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Nevil’s Haze [#21] x Mullumbimby Madness",
+          "parents": [
+            "Nevil’s Haze",
+            "Mullumbimby Madness"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Northern Lights #5",
+          "url": "https://seedfinder.eu/en/strain-info/northern-lights-nr5/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Northern Lights #5 x Northern Lights #5",
+          "parents": [
+            "Northern Lights #5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Papyrus",
+          "url": "https://seedfinder.eu/en/strain-info/papyrus/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Papaya x NL5",
+          "parents": [
+            "Papaya",
+            "NL5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Puna Lites",
+          "url": "https://seedfinder.eu/en/strain-info/puna-lites/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Puna Budder x NL5",
+          "parents": [
+            "Puna Budder",
+            "NL5"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Pakistani Chitral",
+          "url": "https://seedfinder.eu/en/strain-info/purple-pakistani-chitral/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Pakistan Chitral Kush x Pakistan Chitral Kush",
+          "parents": [
+            "Pakistan Chitral Kush"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ruby Vine Afghani",
+          "url": "https://seedfinder.eu/en/strain-info/ruby-vine-afghani/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Kandahar Afghani x Black Afghani",
+          "parents": [
+            "Kandahar Afghani",
+            "Black Afghani"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Special Kay",
+          "url": "https://seedfinder.eu/en/strain-info/special-kay/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "KayDeeOne x Lemon Thai [F2]",
+          "parents": [
+            "KayDeeOne",
+            "Lemon Thai"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Thai-Paki Chitral - Sawgrass",
+          "url": "https://seedfinder.eu/en/strain-info/thai-paki-chitral-sawgrass/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Thai x Paki Chitral",
+          "parents": [
+            "Thai",
+            "Paki Chitral"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Vietnamese Black",
+          "url": "https://seedfinder.eu/en/strain-info/vietnamese-black/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Vietnamese [geoinfo: Northern Vietnam] x Vietnamese Black",
+          "parents": [
+            "Vietnamese",
+            "Vietnamese Black"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        }
+      ],
+      "unresolved": [
+        {
+          "name": "Last Call",
+          "url": "https://seedfinder.eu/en/strain-info/last-call/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "W. Widow x Unknown Strain [unknown: CC/RB BC2]",
+          "parents": [
+            "W. Widow",
+            "Unknown Strain"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lemon Thai",
+          "url": "https://seedfinder.eu/en/strain-info/lemon-thai/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Lemon Thai x Unknown Outcross",
+          "parents": [
+            "Lemon Thai",
+            "Unknown Outcross"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Mullumbimby Two Step",
+          "url": "https://seedfinder.eu/en/strain-info/mullumbimby-two-step/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Mullumbimby Madness [breeder: Kangativa] x Unknown Strain [unknown: Astro Zombie]",
+          "parents": [
+            "Mullumbimby Madness",
+            "Unknown Strain"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ukiah Berry",
+          "url": "https://seedfinder.eu/en/strain-info/ukiah-berry/blackbird-preservations",
+          "breeder": "Blackbird Preservations",
+          "collectionSlug": "blackbird-preservations",
+          "lineageDisplay": "Unknown Mostly Indica [breeder: Strayfox Gardenz] »»» Unknown Mostly Indica [breeder: Strayfox Gardenz]",
+          "parents": [
+            "Unknown Mostly Indica"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "slug": "rare-dankness-seeds",
+      "collectionSlug": "rare-dankness",
+      "name": "Rare Dankness Seeds",
+      "catalogUrl": "https://seedfinder.eu/en/database/breeder/rare-dankness-seeds",
+      "accessedAt": "2026-07-23",
+      "catalogCount": 113,
+      "acceptedCount": 109,
+      "unresolvedCount": 4,
+      "accepted": [
+        {
+          "name": "4 Corners",
+          "url": "https://seedfinder.eu/en/strain-info/4-corners/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "90X x Afghanistan",
+          "parents": [
+            "90X",
+            "Afghanistan"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "501st OG",
+          "url": "https://seedfinder.eu/en/strain-info/501st-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Skywalker OG [pheno: Bubba Kush pheno] x Rare Dankness #1",
+          "parents": [
+            "Skywalker OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "A+ Wonder",
+          "url": "https://seedfinder.eu/en/strain-info/a-plus-wonder/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "William's Wonder x Afghani #1 IBL",
+          "parents": [
+            "William's Wonder",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan Abusive",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-abusive/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Abusive OG x Afghani #1 IBL",
+          "parents": [
+            "Abusive OG",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan Blue",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-blue/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blueberry x Afghani #1 IBL",
+          "parents": [
+            "Blueberry",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan Face-Off",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-face-off/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Face-Off OG Kush x Afghani #1 IBL",
+          "parents": [
+            "Face-Off OG Kush",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan Ghost",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-ghost/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ghost OG x Afghani #1 IBL",
+          "parents": [
+            "Ghost OG",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan H.A.",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-ha/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Hells Angel OG x Afghani #1 IBL",
+          "parents": [
+            "Hells Angel OG",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghan Poison",
+          "url": "https://seedfinder.eu/en/strain-info/afghan-poison/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Poison OG x Afghani #1 IBL",
+          "parents": [
+            "Poison OG",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Afghani #1 IBL",
+          "url": "https://seedfinder.eu/en/strain-info/afghani-nr1-ibl/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Afghanistan",
+          "parents": [
+            "Afghanistan"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Africanistan",
+          "url": "https://seedfinder.eu/en/strain-info/africanistan/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Afrika, Malawi x Afghani #1 IBL",
+          "parents": [
+            "Afrika, Malawi",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Alfred Packer",
+          "url": "https://seedfinder.eu/en/strain-info/alfred-packer/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Albert Walker x Afghani #1 IBL",
+          "parents": [
+            "Albert Walker",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Beach Bum Haze",
+          "url": "https://seedfinder.eu/en/strain-info/beach-bum-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "HP-13 x Nevil's Wreck",
+          "parents": [
+            "HP-13",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Blue Haze Train",
+          "url": "https://seedfinder.eu/en/strain-info/blue-haze-train/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blueberry x Nevil's Wreck",
+          "parents": [
+            "Blueberry",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Blue OX",
+          "url": "https://seedfinder.eu/en/strain-info/blue-ox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blueberry [Old Blue] x The OX",
+          "parents": [
+            "Blueberry",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Bubba's Trainwreck Haze #1",
+          "url": "https://seedfinder.eu/en/strain-info/bubbas-trainwreck-haze-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba Kush x Nevil's Wreck",
+          "parents": [
+            "Bubba Kush",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Buford OG",
+          "url": "https://seedfinder.eu/en/strain-info/buford-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "(OG Kush x ONCYD) x Rare Dankness #1",
+          "parents": [
+            "OG Kush",
+            "ONCYD",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Cab Driver",
+          "url": "https://seedfinder.eu/en/strain-info/cab-driver/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Smelliot x Afghani #1 IBL",
+          "parents": [
+            "Smelliot",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Chem OX",
+          "url": "https://seedfinder.eu/en/strain-info/chem-ox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Chem Dawg [pheno: #4] x The OX",
+          "parents": [
+            "Chem Dawg",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Chem Trail",
+          "url": "https://seedfinder.eu/en/strain-info/chem-trail/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Chem Dawg [pheno: #4] x Afghani #1 IBL",
+          "parents": [
+            "Chem Dawg",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Chem Wreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/chem-wreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Chem Dawg [pheno: #4] x Nevil's Wreck",
+          "parents": [
+            "Chem Dawg",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Coco Nibbles",
+          "url": "https://seedfinder.eu/en/strain-info/coco-nibbles/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Malawi x Cinderella 99 x Scotts OG",
+          "parents": [
+            "Malawi",
+            "Cinderella 99",
+            "Scotts OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Colorado Diesel",
+          "url": "https://seedfinder.eu/en/strain-info/colorado-diesel/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Sour Diesel x Afghani #1 IBL",
+          "parents": [
+            "Sour Diesel",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Commerce City Kush",
+          "url": "https://seedfinder.eu/en/strain-info/commerce-city-kush/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Chem Dawg [pheno: #4] x Rare Dankness #1",
+          "parents": [
+            "Chem Dawg",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Cookie OX",
+          "url": "https://seedfinder.eu/en/strain-info/cookie-ox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Forum Cookies x The OX",
+          "parents": [
+            "Forum Cookies",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Cornbread",
+          "url": "https://seedfinder.eu/en/strain-info/cornbread/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba Kush x Rare Dankness #2",
+          "parents": [
+            "Bubba Kush",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Cosmic Temple",
+          "url": "https://seedfinder.eu/en/strain-info/cosmic-temple/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Flo [pheno: Colorado Flo cut] x Nevil's Wreck",
+          "parents": [
+            "Flo",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Cougar Piss",
+          "url": "https://seedfinder.eu/en/strain-info/cougar-piss/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "SoCal CatPiss x Afghani #1 IBL",
+          "parents": [
+            "SoCal CatPiss",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dark Ghost Train",
+          "url": "https://seedfinder.eu/en/strain-info/dark-ghost-train/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Grape Ape x Ghost Train Haze #1",
+          "parents": [
+            "Grape Ape",
+            "Ghost Train Haze #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dark Saber",
+          "url": "https://seedfinder.eu/en/strain-info/dark-saber/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Star Killer x Luv Muffin",
+          "parents": [
+            "Star Killer",
+            "Luv Muffin"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dark Shadow Haze",
+          "url": "https://seedfinder.eu/en/strain-info/dark-shadow-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Grape Ape x Nevil's Wreck",
+          "parents": [
+            "Grape Ape",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "DayDream Haze",
+          "url": "https://seedfinder.eu/en/strain-info/daydream-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blue Dream x Nevil's Wreck",
+          "parents": [
+            "Blue Dream",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "DieselWreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/dieselwreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "East Coast Sour Diesel x Nevil's Wreck",
+          "parents": [
+            "East Coast Sour Diesel",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Doc's OG",
+          "url": "https://seedfinder.eu/en/strain-info/docs-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Face-Off OG x Rare Dankness #1",
+          "parents": [
+            "Face-Off OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Drama",
+          "url": "https://seedfinder.eu/en/strain-info/drama/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Triangle Kush x Ghost OG",
+          "parents": [
+            "Triangle Kush",
+            "Ghost OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "El Jefe'",
+          "url": "https://seedfinder.eu/en/strain-info/el-jefe/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Abusive OG x Rare Dankness #1",
+          "parents": [
+            "Abusive OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "F-Cut LR TK",
+          "url": "https://seedfinder.eu/en/strain-info/f-cut-lr-tk/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "OG Kush [F-Cut] x Lee Roy",
+          "parents": [
+            "OG Kush",
+            "Lee Roy"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "FLO-OG",
+          "url": "https://seedfinder.eu/en/strain-info/flo-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Flo [pheno: Colorado Flo cut] x Rare Dankness #1",
+          "parents": [
+            "Flo",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Facewreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/facewreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Face-Off OG Kush x Nevil's Wreck",
+          "parents": [
+            "Face-Off OG Kush",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ft Collins Cough Trainwreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/ft-collins-cough-trainwreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ft. Collins Cough x Nevil's Wreck",
+          "parents": [
+            "Ft. Collins Cough",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost Train Haze #1",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ghost OG x Nevil's Wreck",
+          "parents": [
+            "Ghost OG",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost Train Haze #2",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr2/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "OG Kush x Nevil's Wreck",
+          "parents": [
+            "OG Kush",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost Train Haze #5",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr5/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "SFV OG x Nevil's Wreck",
+          "parents": [
+            "SFV OG",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost Train Haze #8",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr8/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Hells Angel OG x Nevil's Wreck",
+          "parents": [
+            "Hells Angel OG",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost Train Haze #9",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-train-haze-nr9/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Poison OG x Nevil's Wreck",
+          "parents": [
+            "Poison OG",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Ghost of LeeRoy",
+          "url": "https://seedfinder.eu/en/strain-info/ghost-of-leeroy/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ghost OG x Lee Roy",
+          "parents": [
+            "Ghost OG",
+            "Lee Roy"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "GoatWreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/goatwreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Golden Goat x Nevil's Wreck",
+          "parents": [
+            "Golden Goat",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Grape OX",
+          "url": "https://seedfinder.eu/en/strain-info/grape-ox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Grape Ape x The OX",
+          "parents": [
+            "Grape Ape",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Harlox",
+          "url": "https://seedfinder.eu/en/strain-info/harlox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Harlequin x The OX",
+          "parents": [
+            "Harlequin",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "HillBilly Armor",
+          "url": "https://seedfinder.eu/en/strain-info/hillbilly-armor/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba Kush x Afghani #1 IBL",
+          "parents": [
+            "Bubba Kush",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "I.E.D.",
+          "url": "https://seedfinder.eu/en/strain-info/ied/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba D x Afghani #1 IBL",
+          "parents": [
+            "Bubba D",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Jack Knifed Semi",
+          "url": "https://seedfinder.eu/en/strain-info/jack-knifed-semi/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba D x Nevil's Wreck",
+          "parents": [
+            "Bubba D",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Jawa",
+          "url": "https://seedfinder.eu/en/strain-info/jawa/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Skywalker OG x Afghani #1 IBL",
+          "parents": [
+            "Skywalker OG",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Jenny Kush",
+          "url": "https://seedfinder.eu/en/strain-info/jenny-kush/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Amnesia Haze x Rare Dankness #2",
+          "parents": [
+            "Amnesia Haze",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Karma Bitch",
+          "url": "https://seedfinder.eu/en/strain-info/karma-bitch/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Skywalker OG x Nevil's Wreck",
+          "parents": [
+            "Skywalker OG",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Khyber Kush #1",
+          "url": "https://seedfinder.eu/en/strain-info/khyber-kush-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Rare Dankness #1 x Afghani #1 IBL",
+          "parents": [
+            "Rare Dankness #1",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lee Roy",
+          "url": "https://seedfinder.eu/en/strain-info/lee-roy/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Triangle Kush x Rare Dankness #2 [pheno: ]",
+          "parents": [
+            "Triangle Kush",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lemon Ghost Train",
+          "url": "https://seedfinder.eu/en/strain-info/lemon-ghost-train/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Lemon Skunk x Ghost Train Haze #1",
+          "parents": [
+            "Lemon Skunk",
+            "Ghost Train Haze #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lemon Oasis",
+          "url": "https://seedfinder.eu/en/strain-info/lemon-oasis/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Lemon Skunk [probably] x Rare Dankness #2",
+          "parents": [
+            "Lemon Skunk",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Longs Peak Blue",
+          "url": "https://seedfinder.eu/en/strain-info/longs-peak-blue/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blueberry x Rare Dankness #1",
+          "parents": [
+            "Blueberry",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Lost Creek",
+          "url": "https://seedfinder.eu/en/strain-info/lost-creek/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba Kush x Rare Dankness #1",
+          "parents": [
+            "Bubba Kush",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Luv Muffin",
+          "url": "https://seedfinder.eu/en/strain-info/luv-muffin/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "(GSC Forum Cut x Cookie OX) x (Pamelina x Rare Dankness #2)",
+          "parents": [
+            "GSC Forum Cut",
+            "Cookie OX",
+            "Pamelina",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Midas",
+          "url": "https://seedfinder.eu/en/strain-info/midas/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Albert Walker x Nevil's Wreck",
+          "parents": [
+            "Albert Walker",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Moonshine Haze",
+          "url": "https://seedfinder.eu/en/strain-info/moonshine-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Amnesia Haze x Nevil's Wreck",
+          "parents": [
+            "Amnesia Haze",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Moonshine Haze x Ghost Train Haze #1",
+          "url": "https://seedfinder.eu/en/strain-info/moonshine-haze-x-ghost-train-haze-1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Moonshine Haze x Ghost Train Haze #1",
+          "parents": [
+            "Moonshine Haze",
+            "Ghost Train Haze #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Mouse Trap",
+          "url": "https://seedfinder.eu/en/strain-info/mouse-trap/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "501st OG x Pamelina",
+          "parents": [
+            "501st OG",
+            "Pamelina"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Muscadine",
+          "url": "https://seedfinder.eu/en/strain-info/muscadine-1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Rare Darkness x Pamelina",
+          "parents": [
+            "Rare Darkness",
+            "Pamelina"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Nevil's Wreck",
+          "url": "https://seedfinder.eu/en/strain-info/nevils-wreck/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "E32 Arcata Trainwreck [pheno: DrJays Cut] x Neville's Haze",
+          "parents": [
+            "E32 Arcata Trainwreck",
+            "Neville's Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Nevil's Wreck Mix",
+          "url": "https://seedfinder.eu/en/strain-info/nevils-wreck-mix/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Nevil's Wreck",
+          "parents": [
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Night Terror OG",
+          "url": "https://seedfinder.eu/en/strain-info/night-terror-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Blue Dream x Rare Dankness #1",
+          "parents": [
+            "Blue Dream",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "OX Piss",
+          "url": "https://seedfinder.eu/en/strain-info/ox-piss/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Cat Piss [San Diego] x The OX",
+          "parents": [
+            "Cat Piss",
+            "The OX"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "PMP Haze",
+          "url": "https://seedfinder.eu/en/strain-info/pmp-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "SoCal CatPiss x Nevil's Wreck",
+          "parents": [
+            "SoCal CatPiss",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Pamelina",
+          "url": "https://seedfinder.eu/en/strain-info/pamelina/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Forum Cookies x RareDankness #2",
+          "parents": [
+            "Forum Cookies",
+            "RareDankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Pineapple Hash Plant",
+          "url": "https://seedfinder.eu/en/strain-info/pineapple-hash-plant/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "HP-13 x Afghani #1 IBL",
+          "parents": [
+            "HP-13",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Pippa",
+          "url": "https://seedfinder.eu/en/strain-info/pippa/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "FLO-OG x Pamelina",
+          "parents": [
+            "FLO-OG",
+            "Pamelina"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Hashplant Haze",
+          "url": "https://seedfinder.eu/en/strain-info/purple-hashplant-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Purple Hashplant x Neville's Haze",
+          "parents": [
+            "Purple Hashplant",
+            "Neville's Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Haze #2",
+          "url": "https://seedfinder.eu/en/strain-info/purple-haze-nr2/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "DHK Purple Haze x Nevil's Wreck",
+          "parents": [
+            "DHK Purple Haze",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Swish",
+          "url": "https://seedfinder.eu/en/strain-info/purple-swish/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Purple Urkle x Rare Dankness #1",
+          "parents": [
+            "Purple Urkle",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Swish Haze",
+          "url": "https://seedfinder.eu/en/strain-info/purple-swish-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Purple Swish x Neville's Haze",
+          "parents": [
+            "Purple Swish",
+            "Neville's Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Rare Dankness #1",
+          "url": "https://seedfinder.eu/en/strain-info/rare-dankness-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Triangle Kush x (Triangle Kush x (Ghost OG x ChemDog [probably]))",
+          "parents": [
+            "Triangle Kush",
+            "Ghost OG",
+            "ChemDog"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Rare Dankness #2",
+          "url": "https://seedfinder.eu/en/strain-info/rare-dankness-nr2/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "GhostOG x Rugburn OG",
+          "parents": [
+            "GhostOG",
+            "Rugburn OG"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Rare Darkness",
+          "url": "https://seedfinder.eu/en/strain-info/rare-darkness/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Grape Ape x Rare Dankness #1",
+          "parents": [
+            "Grape Ape",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Rectangle",
+          "url": "https://seedfinder.eu/en/strain-info/rectangle/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "OG Kush x Afghani #1 IBL",
+          "parents": [
+            "OG Kush",
+            "Afghani #1 IBL"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Rug Burn OG",
+          "url": "https://seedfinder.eu/en/strain-info/rug-burn-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ghost OG x Rare Dankness #1",
+          "parents": [
+            "Ghost OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Runtz Ghost Train",
+          "url": "https://seedfinder.eu/en/strain-info/runtz-ghost-train/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Runtz x Ghost Train Haze",
+          "parents": [
+            "Runtz",
+            "Ghost Train Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Scavenger’s Daughter",
+          "url": "https://seedfinder.eu/en/strain-info/scavengers-daughter/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Kambodga - Sativa x Nevil's Wreck",
+          "parents": [
+            "Kambodga - Sativa",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Scott's OG",
+          "url": "https://seedfinder.eu/en/strain-info/scotts-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Triagle Kush x Rare Dankness #1",
+          "parents": [
+            "Triagle Kush",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Scott’s Haze",
+          "url": "https://seedfinder.eu/en/strain-info/scotts-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Scott's OG x Neville's Haze",
+          "parents": [
+            "Scott's OG",
+            "Neville's Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Somali Ghost Train",
+          "url": "https://seedfinder.eu/en/strain-info/somali-ghost-train/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Ghost Train Haze #1 x Somali Taxi Ride",
+          "parents": [
+            "Ghost Train Haze #1",
+            "Somali Taxi Ride"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Somali Taxi Ride",
+          "url": "https://seedfinder.eu/en/strain-info/somali-taxi-ride/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Afrika, Malawi x Nevil's Wreck",
+          "parents": [
+            "Afrika, Malawi",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour D*OG",
+          "url": "https://seedfinder.eu/en/strain-info/sour-dog/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Sour Diesel x Rare Dankness #1",
+          "parents": [
+            "Sour Diesel",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sour OG HazeWreck",
+          "url": "https://seedfinder.eu/en/strain-info/sour-og-hazewreck/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Sour Kush x Nevil's Wreck",
+          "parents": [
+            "Sour Kush",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Star Killer",
+          "url": "https://seedfinder.eu/en/strain-info/star-killer/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Skywalker OG [pheno: Bubba Kush pheno] x Rare Dankness #2",
+          "parents": [
+            "Skywalker OG",
+            "Rare Dankness #2"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Starkiller Haze",
+          "url": "https://seedfinder.eu/en/strain-info/starkiller-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Star Killer x Neville's Haze",
+          "parents": [
+            "Star Killer",
+            "Neville's Haze"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Strawberry Jacuzzi",
+          "url": "https://seedfinder.eu/en/strain-info/strawberry-jacuzzi/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "(Tangerine Kush x Longs Peak Blue) x Afghani",
+          "parents": [
+            "Tangerine Kush",
+            "Longs Peak Blue",
+            "Afghani"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Sumptuousz",
+          "url": "https://seedfinder.eu/en/strain-info/sumptuousz/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Runtz x Lee Roy",
+          "parents": [
+            "Runtz",
+            "Lee Roy"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Tangerine Kush",
+          "url": "https://seedfinder.eu/en/strain-info/tangerine-kush/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Tangerine Haze x Rare Dankness #1",
+          "parents": [
+            "Tangerine Haze",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Tangerine Somali Taxi Ride",
+          "url": "https://seedfinder.eu/en/strain-info/tangerine-somali-taxi-ride/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Tangerine Kush x Somali Taxi Ride",
+          "parents": [
+            "Tangerine Kush",
+            "Somali Taxi Ride"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Tangerine Trainwreck Haze",
+          "url": "https://seedfinder.eu/en/strain-info/tangerine-trainwreck-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Tangerine Haze x Nevil's Wreck",
+          "parents": [
+            "Tangerine Haze",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "The OX",
+          "url": "https://seedfinder.eu/en/strain-info/the-ox/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Bubba Kush [pheno, backcross: Katsu cut BX2] x (Bubba Kush [date pre98] x Blue Moonshine)",
+          "parents": [
+            "Bubba Kush",
+            "Blue Moonshine"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "TrainWreck Willie",
+          "url": "https://seedfinder.eu/en/strain-info/trainwreck-willie/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "William's Wonder x Nevil's Wreck",
+          "parents": [
+            "William's Wonder",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Trainwreck Kush Haze #1",
+          "url": "https://seedfinder.eu/en/strain-info/trainwreck-kush-haze-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "(OG Kush x NYCD [pheno #1]) x Nevil's Wreck",
+          "parents": [
+            "OG Kush",
+            "NYCD",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Trip Sauce",
+          "url": "https://seedfinder.eu/en/strain-info/trip-sauce/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "(Scott's OG x Lemon G) x Scott's OG",
+          "parents": [
+            "Scott's OG",
+            "Lemon G"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Vader’s Starkiller",
+          "url": "https://seedfinder.eu/en/strain-info/vaders-starkiller/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Star Killer x Pamelina",
+          "parents": [
+            "Star Killer",
+            "Pamelina"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Vale' Vale'",
+          "url": "https://seedfinder.eu/en/strain-info/vale-vale/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Green Crack x Nevil's Wreck",
+          "parents": [
+            "Green Crack",
+            "Nevil's Wreck"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Venom OG",
+          "url": "https://seedfinder.eu/en/strain-info/venom-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Poison OG x Rare Dankness #1",
+          "parents": [
+            "Poison OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "W.A.R. OG",
+          "url": "https://seedfinder.eu/en/strain-info/war-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Scott's OG x Pamelina",
+          "parents": [
+            "Scott's OG",
+            "Pamelina"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Walker Kush",
+          "url": "https://seedfinder.eu/en/strain-info/walker-kush/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Albert Walker x Rare Dankness #1",
+          "parents": [
+            "Albert Walker",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Warda'reek'n OG",
+          "url": "https://seedfinder.eu/en/strain-info/wardareekn-og/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Hells Angel OG x Rare Dankness #1",
+          "parents": [
+            "Hells Angel OG",
+            "Rare Dankness #1"
+          ],
+          "accepted": true,
+          "accessedAt": "2026-07-23"
+        }
+      ],
+      "unresolved": [
+        {
+          "name": "DHK Purple Haze",
+          "url": "https://seedfinder.eu/en/strain-info/dhk-purple-haze/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Unknown Indica [Purple] x Skunk/Haze",
+          "parents": [
+            "Unknown Indica",
+            "Skunk/Haze"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Dank Commander",
+          "url": "https://seedfinder.eu/en/strain-info/dank-commander/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Catpiss [probably: probably] x (Rare Dankness #1 x Unknown Strain)",
+          "parents": [
+            "Catpiss",
+            "Rare Dankness #1",
+            "Unknown Strain"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "Purple Haze #1",
+          "url": "https://seedfinder.eu/en/strain-info/purple-haze-nr1/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Unknown Indica [Purple] x Nevil's Wreck",
+          "parents": [
+            "Unknown Indica",
+            "Nevil's Wreck"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        },
+        {
+          "name": "UV-A",
+          "url": "https://seedfinder.eu/en/strain-info/uv-a/rare-dankness-seeds",
+          "breeder": "Rare Dankness Seeds",
+          "collectionSlug": "rare-dankness",
+          "lineageDisplay": "Unknown Indica [Purple] x Afghani #1 IBL",
+          "parents": [
+            "Unknown Indica",
+            "Afghani #1 IBL"
+          ],
+          "accepted": false,
+          "reason": "The published lineage contains an unknown parent.",
+          "accessedAt": "2026-07-23"
+        }
+      ]
+    }
+  ]
+}

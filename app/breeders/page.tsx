@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function BreedersPage() {
   return <main className="content-page breeders-page">
     <section className="page-hero breeder-index-hero">
-      <p className="eyebrow"><BookMarked size={14} /> Four research collections</p>
+      <p className="eyebrow"><BookMarked size={14} /> {breeders.length} research collections</p>
       <h1>Breeder histories,<br /><em>without the blur.</em></h1>
       <p>Creator credit, company eras, release partners, preservation versions, and unresolved claims stay separate. Each collection shows what the public record supports—and where it stops.</p>
     </section>
